@@ -1,8 +1,11 @@
 ·Use cases:
+
 ·Sensing Analysis:Conduct software and give social media sensing analysis for software security concern results.
 ·Enhancing the framework: Enhance SMSASSC toolkit through the incorporation of additionally scripts from third-party sources.
 
-·Proposed Framework
+
+·Proposed Framework:
+
 ·There are two code sections. The name scraper.py is the crawler code, and the sentiment_analysis is the sentiment analysis code. The crawler chooses a variety of crawler
 tools, including selenium, requests, regex, newspaper, and various APIs. The crawler uses multi-threaded crawling.
 
