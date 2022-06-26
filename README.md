@@ -19,5 +19,5 @@ are Youtube, Facebook, Twitter, Google News, RSS feeds, and Reddit.
 game reviews, and the top ten reviews by score (.csv).
 
 ---------------------------------------------------
-new version(todo)
+new version
   Combine merge and clear-csv.
