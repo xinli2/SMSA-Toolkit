@@ -17,3 +17,7 @@ are Youtube, Facebook, Twitter, Google News, RSS feeds, and Reddit.
 
 ·The data produced by the sentiment analysis program is summarized by the software, each software has a word cloud, a pie chart, the total sentiment analysis index of 
 game reviews, and the top ten reviews by score (.csv).
+
+---------------------------------------------------
+new version(todo)
+  Combine merge and clear-csv.
