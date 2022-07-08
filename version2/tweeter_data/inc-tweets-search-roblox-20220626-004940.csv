@@ -1,0 +1,213 @@
+tweetid,author_id,text,created_at,geo,retweets,replies,likes,quote_count,lang,conversation_id,context_annotations,entities,attachments,possibly_sensitive,withheld,reply_settings,source
+1539083272134729728,1516265612691001350,acabei de pegar no flagra um dos meus amgs no roblox jogando jogo de condo,2022-06-21 03:10:21+00:00,,0,2,0,0,pt,1539083272134729728,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]",,,False,,everyone,Twitter for Android
+1539079570397491200,1538921112037658624,"⠀ 
+
+            new  acc, not  new  to rp
+            like and rt to be mutuals 
+          
+⠀ https://t.co/SMEgWi8c29",2022-06-21 02:55:38+00:00,,75,32,213,0,en,1539079570397491200,[],"{'urls': [{'start': 94, 'end': 117, 'url': 'https://t.co/SMEgWi8c29', 'expanded_url': 'https://twitter.com/yslriqal/status/1539079570397491200/photo/1', 'display_url': 'pic.twitter.com/SMEgWi8c29', 'media_key': '3_1539079567616647169'}]}",{'media_keys': ['3_1539079567616647169']},False,,everyone,Twitter for Android
+1538946535232266242,1432424981204504576,"Who's grinding?
+1 ➜ Like/Retweet✅
+2 ➜ Follow Me
+3 ➜ Link your Twitch/YT
+4 ➜ Help each other grow
+@rttanks
+ @Rts_WW
+#SupportSmallStreams
+#SupportSmallStreamers
+@BlazedRTs
+@sme_rt
+@PromoteAMGamers
+@rtsmallstreams
+@SupStreamers
+@promo_streams
+@StreamersRT1
+@TwitwatchRT https://t.co/fzmzfYmXkl",2022-06-20 18:07:00+00:00,,19,28,21,0,en,1538946535232266242,"[{'domain': {'id': '46', 'name': 'Brand Category', 'description': 'Categories within Brand Verticals that narrow down the scope of Brands'}, 'entity': {'id': '781974596752842752', 'name': 'Services'}}, {'domain': {'id': '47', 'name': 'Brand', 'description': 'Brands and Companies'}, 'entity': {'id': '1054826545758396416', 'name': 'Twitch', 'description': 'Twitch'}}]","{'hashtags': [{'start': 115, 'end': 135, 'tag': 'SupportSmallStreams'}, {'start': 136, 'end': 158, 'tag': 'SupportSmallStreamers'}], 'urls': [{'start': 267, 'end': 290, 'url': 'https://t.co/fzmzfYmXkl', 'expanded_url': 'https://twitter.com/natashajill5/status/1538946535232266242/photo/1', 'display_url': 'pic.twitter.com/fzmzfYmXkl', 'media_key': '3_1538946526243868673'}], 'mentions': [{'start': 97, 'end': 105, 'username': 'rttanks', 'id': '1418044846657441796'}, {'start': 107, 'end': 114, 'username': 'Rts_WW', 'id': '1380153937802706949'}, {'start': 159, 'end': 169, 'username': 'BlazedRTs', 'id': '715492170392846336'}, {'start': 170, 'end': 177, 'username': 'sme_rt', 'id': '1150729203563806720'}, {'start': 178, 'end': 194, 'username': 'PromoteAMGamers', 'id': '1084937149'}, {'start': 195, 'end': 210, 'username': 'rtsmallstreams', 'id': '1128878664572166144'}, {'start': 211, 'end': 224, 'username': 'SupStreamers', 'id': '1495689026249977861'}, {'start': 225, 'end': 239, 'username': 'promo_streams', 'id': '1256373983827693568'}, {'start': 240, 'end': 253, 'username': 'StreamersRT1', 'id': '1330921036284637192'}, {'start': 254, 'end': 266, 'username': 'TwitwatchRT', 'id': '1304145189708193795'}]}",{'media_keys': ['3_1538946526243868673']},False,,everyone,Twitter Web App
+1539077297269100550,3025674465,"US Senator Ted Cruz discussing the possibility of banning loot boxes in video games.
+
+PLEASE. PLEASE. NO MORE PAY-TO-WIN LOOT BOXES IN VIDEO GAMES.
+
+Ted, I will literally fly to Texas just to have this conversation with you. Cowboy hat and all. Shoot, I'll ride a horse. https://t.co/YIu4S7fAr2",2022-06-21 02:46:36+00:00,,66,117,1280,5,en,1539077297269100550,"[{'domain': {'id': '3', 'name': 'TV Shows', 'description': 'Television shows from around the world'}, 'entity': {'id': '1518601903688413185', 'name': 'Sentença'}}, {'domain': {'id': '88', 'name': 'Political Body', 'description': 'A section of a government, like The Supreme Court'}, 'entity': {'id': '961705302700654593', 'name': 'United States Congress', 'description': 'United States Congress'}}, {'domain': {'id': '10', 'name': 'Person', 'description': 'Named people in the world like Nelson Mandela'}, 'entity': {'id': '10037721448', 'name': 'Ted Cruz', 'description': 'US Senator Ted Cruz (TX)\n'}}, {'domain': {'id': '35', 'name': 'Politician', 'description': 'Politicians in the world, like Joe Biden'}, 'entity': {'id': '10037721448', 'name': 'Ted Cruz', 'description': 'US Senator Ted Cruz (TX)\n'}}, {'domain': {'id': '30', 'name': 'Entities [Entity Service]', 'description': 'Entity Service top level domain, every item that is in Entity Service should be in this domain'}, 'entity': {'id': '852262932607926273', 'name': 'Pets', 'description': 'Pets'}}, {'domain': {'id': '30', 'name': 'Entities [Entity Service]', 'description': 'Entity Service top level domain, every item that is in Entity Service should be in this domain'}, 'entity': {'id': '852669187348549632', 'name': 'Horses', 'description': 'Horses'}}, {'domain': {'id': '67', 'name': 'Interests and Hobbies', 'description': 'Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks'}, 'entity': {'id': '852671937033650176', 'name': 'Horses', 'description': 'Horses'}}, {'domain': {'id': '88', 'name': 'Political Body', 'description': 'A section of a government, like The Supreme Court'}, 'entity': {'id': '877326946253684737', 'name': 'United States Senate', 'description': 'United States Senate'}}, {'domain': {'id': '88', 'name': 'Political Body', 'description': 'A section of a government, like The Supreme Court'}, 'entity': {'id': '961705302700654593', 'name': 'United States Congress', 'description': 'United States Congress'}}, {'domain': {'id': '159', 'name': 'States', 'description': 'States, provinces, or prefectures, like California or Fukushima Prefecture'}, 'entity': {'id': '855432197297192961', 'name': 'Texas', 'description': 'Texas'}}]","{'annotations': [{'start': 3, 'end': 18, 'probability': 0.5136, 'type': 'Person', 'normalized_text': 'Senator Ted Cruz'}, {'start': 178, 'end': 182, 'probability': 0.9759, 'type': 'Place', 'normalized_text': 'Texas'}], 'urls': [{'start': 271, 'end': 294, 'url': 'https://t.co/YIu4S7fAr2', 'expanded_url': 'https://twitter.com/tedcruz/status/1539052492780077057', 'display_url': 'twitter.com/tedcruz/status…'}]}",,False,,everyone,Twitter Web App
+1539082644104921088,1520401971114651650,@JO9c9 is this an explorerelizabeth thing?,2022-06-21 03:07:51+00:00,,0,1,0,0,en,1539082276495056896,[],"{'mentions': [{'start': 0, 'end': 6, 'username': 'JO9c9', 'id': '1477335872462856197'}]}",,False,,everyone,Twitter Web App
+1538947419701911552,1432424981204504576,"Streamer Promo💛 
+Like/RT/Follow
+Link YT/Twitch
+💜Support 4 YOU💜
+#twitch
+#SupportSmallStreamers
+#gamer
+@SurvivalPiraten
+@BlazedRTs
+@sme_rt
+@PromoteAMGamers
+@rtsmallstreams
+@SupStreamers
+@promo_streams
+@StreamersRT1
+@rttanks
+@FindRTs 
+@wwwanpaus
+@SGH_RTs 
+@rtbestiefam https://t.co/d8WZ8TJnqe",2022-06-20 18:10:31+00:00,,16,18,26,0,en,1538947419701911552,"[{'domain': {'id': '46', 'name': 'Brand Category', 'description': 'Categories within Brand Verticals that narrow down the scope of Brands'}, 'entity': {'id': '781974596752842752', 'name': 'Services'}}, {'domain': {'id': '47', 'name': 'Brand', 'description': 'Brands and Companies'}, 'entity': {'id': '1054826545758396416', 'name': 'Twitch', 'description': 'Twitch'}}]","{'hashtags': [{'start': 63, 'end': 70, 'tag': 'twitch'}, {'start': 71, 'end': 93, 'tag': 'SupportSmallStreamers'}, {'start': 94, 'end': 100, 'tag': 'gamer'}], 'urls': [{'start': 266, 'end': 289, 'url': 'https://t.co/d8WZ8TJnqe', 'expanded_url': 'https://twitter.com/natashajill5/status/1538947419701911552/video/1', 'display_url': 'pic.twitter.com/d8WZ8TJnqe', 'media_key': '7_1538947328358367233'}], 'mentions': [{'start': 101, 'end': 117, 'username': 'SurvivalPiraten', 'id': '1533531728'}, {'start': 118, 'end': 128, 'username': 'BlazedRTs', 'id': '715492170392846336'}, {'start': 129, 'end': 136, 'username': 'sme_rt', 'id': '1150729203563806720'}, {'start': 137, 'end': 153, 'username': 'PromoteAMGamers', 'id': '1084937149'}, {'start': 154, 'end': 169, 'username': 'rtsmallstreams', 'id': '1128878664572166144'}, {'start': 170, 'end': 183, 'username': 'SupStreamers', 'id': '1495689026249977861'}, {'start': 184, 'end': 198, 'username': 'promo_streams', 'id': '1256373983827693568'}, {'start': 199, 'end': 212, 'username': 'StreamersRT1', 'id': '1330921036284637192'}, {'start': 213, 'end': 221, 'username': 'rttanks', 'id': '1418044846657441796'}, {'start': 222, 'end': 230, 'username': 'FindRTs', 'id': '3512061797'}, {'start': 232, 'end': 242, 'username': 'wwwanpaus', 'id': '2834114661'}, {'start': 243, 'end': 251, 'username': 'SGH_RTs', 'id': '962219190538199041'}, {'start': 253, 'end': 265, 'username': 'rtbestiefam', 'id': '1153333762081591296'}]}",{'media_keys': ['7_1538947328358367233']},False,,everyone,Twitter Web App
+1538847687512039426,1220051138843742209,"PROMOTION TIME
+1. Like/Retweet
+2. Link your Twitch/YT 
+3. Help each other grow
+Let others know what games you play!!
+#smallstreamer 
+#SupportSmallStreams
+#SupportSmallStreamers
+@BlazedRTs
+@sme_rt
+@PromoteAMGamers
+@rtsmallstreams
+@SupStreamers
+@promo_streams
+@StreamersRT1",2022-06-20 11:34:13+00:00,,18,38,35,0,en,1538847687512039426,"[{'domain': {'id': '46', 'name': 'Brand Category', 'description': 'Categories within Brand Verticals that narrow down the scope of Brands'}, 'entity': {'id': '781974596752842752', 'name': 'Services'}}, {'domain': {'id': '47', 'name': 'Brand', 'description': 'Brands and Companies'}, 'entity': {'id': '1054826545758396416', 'name': 'Twitch', 'description': 'Twitch'}}]","{'hashtags': [{'start': 117, 'end': 131, 'tag': 'smallstreamer'}, {'start': 133, 'end': 153, 'tag': 'SupportSmallStreams'}, {'start': 154, 'end': 176, 'tag': 'SupportSmallStreamers'}], 'mentions': [{'start': 177, 'end': 187, 'username': 'BlazedRTs', 'id': '715492170392846336'}, {'start': 188, 'end': 195, 'username': 'sme_rt', 'id': '1150729203563806720'}, {'start': 196, 'end': 212, 'username': 'PromoteAMGamers', 'id': '1084937149'}, {'start': 213, 'end': 228, 'username': 'rtsmallstreams', 'id': '1128878664572166144'}, {'start': 229, 'end': 242, 'username': 'SupStreamers', 'id': '1495689026249977861'}, {'start': 243, 'end': 257, 'username': 'promo_streams', 'id': '1256373983827693568'}, {'start': 258, 'end': 271, 'username': 'StreamersRT1', 'id': '1330921036284637192'}]}",,False,,everyone,Twitter for iPhone
+1539082922493353985,1244630657629896704,I just want someone to play zombie missile with me on roox https://t.co/TXSIOJMtO7,2022-06-21 03:08:58+00:00,,0,0,0,1,en,1539082922493353985,[],"{'urls': [{'start': 59, 'end': 82, 'url': 'https://t.co/TXSIOJMtO7', 'expanded_url': 'https://twitter.com/stillwithbeomie/status/1539082922493353985/photo/1', 'display_url': 'pic.twitter.com/TXSIOJMtO7', 'media_key': '16_1539082915606319106'}]}",{'media_keys': ['16_1539082915606319106']},False,,everyone,Twitter for Android
+1539081907991871489,774665717685817344,Thomas fans rn: https://t.co/UgWgqLGSCL,2022-06-21 03:04:56+00:00,,58,10,281,1,en,1539081907991871489,[],"{'annotations': [{'start': 0, 'end': 5, 'probability': 0.9417, 'type': 'Person', 'normalized_text': 'Thomas'}], 'urls': [{'start': 16, 'end': 39, 'url': 'https://t.co/UgWgqLGSCL', 'expanded_url': 'https://twitter.com/Kool_Aid203/status/1539081907991871489/video/1', 'display_url': 'pic.twitter.com/UgWgqLGSCL', 'media_key': '7_1539081754610475009'}]}",{'media_keys': ['7_1539081754610475009']},False,,everyone,Twitter for iPhone
+1539079539887841280,2850532049,@BLOX i kaying hate you,2022-06-21 02:55:31+00:00,,11,19,602,0,en,1539076675408887810,[],"{'mentions': [{'start': 0, 'end': 5, 'username': 'BLOX', 'id': '776505'}]}",,False,,everyone,Twitter for iPhone
+1538847736690262016,1220051138843742209,"PROMOTION TIME❤️
+1. Like/Retweet
+2. Link your Twitch/YT 
+3. Help each other grow
+#smallstreamer
+#SmallStreamersConnect
+#SupportSmallStreams
+#SupportSmallStreamers
+@BlazedRTs
+@sme_rt
+@PromoteAMGamers
+@rtsmallstreams
+@SupStreamers
+@promo_streams
+@StreamersRT1
+@HffRts",2022-06-20 11:34:25+00:00,,25,46,49,0,en,1538847736690262016,"[{'domain': {'id': '46', 'name': 'Brand Category', 'description': 'Categories within Brand Verticals that narrow down the scope of Brands'}, 'entity': {'id': '781974596752842752', 'name': 'Services'}}, {'domain': {'id': '47', 'name': 'Brand', 'description': 'Brands and Companies'}, 'entity': {'id': '1054826545758396416', 'name': 'Twitch', 'description': 'Twitch'}}]","{'hashtags': [{'start': 81, 'end': 95, 'tag': 'smallstreamer'}, {'start': 96, 'end': 118, 'tag': 'SmallStreamersConnect'}, {'start': 119, 'end': 139, 'tag': 'SupportSmallStreams'}, {'start': 140, 'end': 162, 'tag': 'SupportSmallStreamers'}], 'mentions': [{'start': 163, 'end': 173, 'username': 'BlazedRTs', 'id': '715492170392846336'}, {'start': 174, 'end': 181, 'username': 'sme_rt', 'id': '1150729203563806720'}, {'start': 182, 'end': 198, 'username': 'PromoteAMGamers', 'id': '1084937149'}, {'start': 199, 'end': 214, 'username': 'rtsmallstreams', 'id': '1128878664572166144'}, {'start': 215, 'end': 228, 'username': 'SupStreamers', 'id': '1495689026249977861'}, {'start': 229, 'end': 243, 'username': 'promo_streams', 'id': '1256373983827693568'}, {'start': 244, 'end': 257, 'username': 'StreamersRT1', 'id': '1330921036284637192'}, {'start': 258, 'end': 265, 'username': 'HffRts', 'id': '1390644061950853121'}]}",,False,,everyone,Twitter for iPhone
+1539082773000237057,1229690659,"@ShotaroJoestar @JohnXuandou @Dantes_Link Kill Bobby Kottick (joke, comedy, parody)",2022-06-21 03:08:22+00:00,,0,1,2,0,en,1539025508406415360,[],"{'annotations': [{'start': 47, 'end': 59, 'probability': 0.9722, 'type': 'Person', 'normalized_text': 'Bobby Kottick'}], 'mentions': [{'start': 0, 'end': 15, 'username': 'ShotaroJoestar', 'id': '50980945'}, {'start': 16, 'end': 28, 'username': 'JohnXuandou', 'id': '150052591'}, {'start': 29, 'end': 41, 'username': 'Dantes_Link', 'id': '635066787'}]}",,False,,everyone,Twitter for Android
+1539019406994382849,1269392562516660224,Valorant devs gettin too comfortable 🤦‍♀️ https://t.co/XZj6mdinPP,2022-06-20 22:56:34+00:00,,916,199,21008,246,en,1539019406994382849,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1234945774347112448', 'name': 'VALORANT'}}]","{'urls': [{'start': 42, 'end': 65, 'url': 'https://t.co/XZj6mdinPP', 'expanded_url': 'https://twitter.com/westjett1/status/1539019406994382849/video/1', 'display_url': 'pic.twitter.com/XZj6mdinPP', 'media_key': '7_1539019245052235776'}]}",{'media_keys': ['7_1539019245052235776']},False,,everyone,Twitter Web App
+1538847896262656000,1220051138843742209,"Promotion Time:
+🌟Like &amp; Retweet
+🌟Link your Twitch/YT
+🌟Help each other
+
+ #smallstreamer 
+#SmallStreamersConnect
+#SupportSmallStreams 
+#SupportSmallStreamers
+@BlazedRTs
+@sme_rt
+@FmC_RTs
+@PromoteAMGamers
+@rtsmallstreams
+@SupStreamers
+@promo_streams",2022-06-20 11:35:03+00:00,,26,38,41,1,en,1538847896262656000,"[{'domain': {'id': '46', 'name': 'Brand Category', 'description': 'Categories within Brand Verticals that narrow down the scope of Brands'}, 'entity': {'id': '781974596752842752', 'name': 'Services'}}, {'domain': {'id': '47', 'name': 'Brand', 'description': 'Brands and Companies'}, 'entity': {'id': '1054826545758396416', 'name': 'Twitch', 'description': 'Twitch'}}]","{'hashtags': [{'start': 76, 'end': 90, 'tag': 'smallstreamer'}, {'start': 92, 'end': 114, 'tag': 'SmallStreamersConnect'}, {'start': 115, 'end': 135, 'tag': 'SupportSmallStreams'}, {'start': 137, 'end': 159, 'tag': 'SupportSmallStreamers'}], 'mentions': [{'start': 160, 'end': 170, 'username': 'BlazedRTs', 'id': '715492170392846336'}, {'start': 171, 'end': 178, 'username': 'sme_rt', 'id': '1150729203563806720'}, {'start': 179, 'end': 187, 'username': 'FMC_RTs', 'id': '765420582884093952'}, {'start': 188, 'end': 204, 'username': 'PromoteAMGamers', 'id': '1084937149'}, {'start': 205, 'end': 220, 'username': 'rtsmallstreams', 'id': '1128878664572166144'}, {'start': 221, 'end': 234, 'username': 'SupStreamers', 'id': '1495689026249977861'}, {'start': 235, 'end': 249, 'username': 'promo_streams', 'id': '1256373983827693568'}]}",,False,,everyone,Twitter for iPhone
+1539067232269275136,1422306335018860549,ESTOY LLLORNAODO  @irlagarciaa https://t.co/kwJTRjZ58H,2022-06-21 02:06:37+00:00,,0,6,3,0,es,1539067232269275136,[],"{'urls': [{'start': 31, 'end': 54, 'url': 'https://t.co/kwJTRjZ58H', 'expanded_url': 'https://twitter.com/t3rriych/status/1539067232269275136/photo/1', 'display_url': 'pic.twitter.com/kwJTRjZ58H', 'media_key': '3_1539067197431087105'}], 'mentions': [{'start': 18, 'end': 30, 'username': 'irlagarciaa', 'id': '1156323953322987520'}]}",{'media_keys': ['3_1539067197431087105']},False,,everyone,Twitter Web App
+1538739452436271104,1362844656229175296,"Who needs active streamers?
+1. Like/Retweet
+2. Drop Your links❗️
+3. Follow me.💞
+@twitchbestiefam
+@Rts_WW
+@wwwanpaus 
+#gamergirl 
+#smallstreamer 
+@RexRTs
+@rtsmallstreams
+@SGH_RTs
+@StreamersRT1
+@rttanks
+@DripRT
+@BlazedRTs
+@Mighty_RTs
+@DynoRTs
+#twitchstreamer
+@tiktokandtwitch",2022-06-20 04:24:08+00:00,,28,54,50,1,en,1538739452436271104,"[{'domain': {'id': '46', 'name': 'Brand Category', 'description': 'Categories within Brand Verticals that narrow down the scope of Brands'}, 'entity': {'id': '781974596752842752', 'name': 'Services'}}, {'domain': {'id': '47', 'name': 'Brand', 'description': 'Brands and Companies'}, 'entity': {'id': '1054826545758396416', 'name': 'Twitch', 'description': 'Twitch'}}]","{'hashtags': [{'start': 117, 'end': 127, 'tag': 'gamergirl'}, {'start': 129, 'end': 143, 'tag': 'smallstreamer'}, {'start': 241, 'end': 256, 'tag': 'twitchstreamer'}], 'mentions': [{'start': 80, 'end': 96, 'username': 'twitchbestiefam', 'id': '1426560798957215745'}, {'start': 97, 'end': 104, 'username': 'Rts_WW', 'id': '1380153937802706949'}, {'start': 105, 'end': 115, 'username': 'wwwanpaus', 'id': '2834114661'}, {'start': 145, 'end': 152, 'username': 'RexRTs', 'id': '896465225938948096'}, {'start': 153, 'end': 168, 'username': 'rtsmallstreams', 'id': '1128878664572166144'}, {'start': 169, 'end': 177, 'username': 'SGH_RTs', 'id': '962219190538199041'}, {'start': 178, 'end': 191, 'username': 'StreamersRT1', 'id': '1330921036284637192'}, {'start': 192, 'end': 200, 'username': 'rttanks', 'id': '1418044846657441796'}, {'start': 201, 'end': 208, 'username': 'DripRT', 'id': '715904729516118017'}, {'start': 209, 'end': 219, 'username': 'BlazedRTs', 'id': '715492170392846336'}, {'start': 220, 'end': 231, 'username': 'Mighty_RTs', 'id': '903606845868257280'}, {'start': 232, 'end': 240, 'username': 'DynoRTs', 'id': '895382071438213120'}, {'start': 257, 'end': 273, 'username': 'tiktokandtwitch', 'id': '1385631839927341057'}]}",,False,,everyone,Twitter for Android
+1525994062003724290,1370530899167752192,@i_luvv_yoongi @Roblox Bro what 💀 I would atleast expect them to actually check the reports and punish people and even though it’s just roblox you don’t tell someone to ducking kill them self for no reason.,2022-05-16 00:18:30+00:00,,0,1,0,0,en,1525174253712048130,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'mentions': [{'start': 0, 'end': 14, 'username': 'i_luvv_yoongi', 'id': '1267553521945075712'}, {'start': 15, 'end': 22, 'username': 'Roblox', 'id': '16745055'}]}",,False,,everyone,Twitter for iPhone
+1538983091695501312,1362844656229175296,"Hey Twitch, YouTube streamers or creators, Show us your channel 💚
+Like / Retweet 
+Help /Support / 
+Follow each other 😍
+@rttanks
+@Rts_WW
+#SupportSmallStreamers 
+@BlazedRTs
+@sme_rt
+@wwwanpaus
+@rtsmallstreams
+@SupStreamers
+@promo_streams
+@StreamersRT1
+@TwitwatchRT
+@promo_streams https://t.co/YjfSQxgwAI",2022-06-20 20:32:16+00:00,,15,26,19,0,en,1538983091695501312,"[{'domain': {'id': '46', 'name': 'Brand Category', 'description': 'Categories within Brand Verticals that narrow down the scope of Brands'}, 'entity': {'id': '781974596752842752', 'name': 'Services'}}, {'domain': {'id': '47', 'name': 'Brand', 'description': 'Brands and Companies'}, 'entity': {'id': '1054826545758396416', 'name': 'Twitch', 'description': 'Twitch'}}, {'domain': {'id': '165', 'name': 'Technology', 'description': 'for individual and types of technology, e.g., food technology, 3D printing'}, 'entity': {'id': '1196446161223028736', 'name': 'Social media'}}, {'domain': {'id': '46', 'name': 'Brand Category', 'description': 'Categories within Brand Verticals that narrow down the scope of Brands'}, 'entity': {'id': '781974596752842752', 'name': 'Services'}}, {'domain': {'id': '47', 'name': 'Brand', 'description': 'Brands and Companies'}, 'entity': {'id': '10029382357', 'name': 'YouTube'}}]","{'annotations': [{'start': 12, 'end': 18, 'probability': 0.5165, 'type': 'Product', 'normalized_text': 'YouTube'}], 'hashtags': [{'start': 136, 'end': 158, 'tag': 'SupportSmallStreamers'}], 'urls': [{'start': 277, 'end': 300, 'url': 'https://t.co/YjfSQxgwAI', 'expanded_url': 'https://twitter.com/vanessa_step/status/1538983091695501312/video/1', 'display_url': 'pic.twitter.com/YjfSQxgwAI', 'media_key': '7_1538982989186711552'}], 'mentions': [{'start': 119, 'end': 127, 'username': 'rttanks', 'id': '1418044846657441796'}, {'start': 128, 'end': 135, 'username': 'Rts_WW', 'id': '1380153937802706949'}, {'start': 160, 'end': 170, 'username': 'BlazedRTs', 'id': '715492170392846336'}, {'start': 171, 'end': 178, 'username': 'sme_rt', 'id': '1150729203563806720'}, {'start': 179, 'end': 189, 'username': 'wwwanpaus', 'id': '2834114661'}, {'start': 190, 'end': 205, 'username': 'rtsmallstreams', 'id': '1128878664572166144'}, {'start': 206, 'end': 219, 'username': 'SupStreamers', 'id': '1495689026249977861'}, {'start': 220, 'end': 234, 'username': 'promo_streams', 'id': '1256373983827693568'}, {'start': 235, 'end': 248, 'username': 'StreamersRT1', 'id': '1330921036284637192'}, {'start': 249, 'end': 261, 'username': 'TwitwatchRT', 'id': '1304145189708193795'}, {'start': 262, 'end': 276, 'username': 'promo_streams', 'id': '1256373983827693568'}]}",{'media_keys': ['7_1538982989186711552']},False,,everyone,Twitter Web App
+1538901087230517249,1424840808381956097,https://t.co/McDzU86x5M,2022-06-20 15:06:25+00:00,,21,16,425,1,zxx,1538901087230517249,[],"{'urls': [{'start': 0, 'end': 23, 'url': 'https://t.co/McDzU86x5M', 'expanded_url': 'https://twitter.com/Amansees/status/1538901087230517249/video/1', 'display_url': 'pic.twitter.com/McDzU86x5M', 'media_key': '7_1538901058612670464'}]}",{'media_keys': ['7_1538901058612670464']},False,,everyone,Twitter for iPad
+1538984082964611072,1391889869920735232,"roblox fruitiness LOOOL @TozSkollz 
+(definitely going to get harassed after this) https://t.co/VIT2sEhHDY",2022-06-20 20:36:12+00:00,,75,13,1034,0,en,1538984082964611072,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'urls': [{'start': 82, 'end': 105, 'url': 'https://t.co/VIT2sEhHDY', 'expanded_url': 'https://twitter.com/otakusareweebs/status/1538984082964611072/photo/1', 'display_url': 'pic.twitter.com/VIT2sEhHDY', 'media_key': '3_1538984078346797056'}], 'mentions': [{'start': 24, 'end': 34, 'username': 'TozSkollz', 'id': '1446444357184225280'}]}",{'media_keys': ['3_1538984078346797056']},False,,everyone,Twitter for iPad
+1538824332847509505,1499954452526436353,"2x HFC+ 450 Robux gw!
+Follow, Like and RT to enter!
+Also Check the Thread for Extras!
+#PetSimulatorX #PetSimulatorxGiveaways #Roblox https://t.co/1lDkVJ7M4H",2022-06-20 10:01:25+00:00,,104,81,117,1,en,1538824332847509505,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'hashtags': [{'start': 86, 'end': 100, 'tag': 'PetSimulatorX'}, {'start': 101, 'end': 124, 'tag': 'PetSimulatorxGiveaways'}, {'start': 125, 'end': 132, 'tag': 'Roblox'}], 'urls': [{'start': 133, 'end': 156, 'url': 'https://t.co/1lDkVJ7M4H', 'expanded_url': 'https://twitter.com/SpearyBLOX/status/1538824332847509505/photo/1', 'display_url': 'pic.twitter.com/1lDkVJ7M4H', 'media_key': '3_1538824292598951936'}]}",{'media_keys': ['3_1538824292598951936']},False,,everyone,Twitter Web App
+1539073142366212096,1499237238223228932,@PotatLovesSoda you can try asking roblox support to deactive the parental control pin,2022-06-21 02:30:06+00:00,,0,3,2,0,en,1539059167331176448,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'mentions': [{'start': 0, 'end': 15, 'username': 'PotatLovesSoda', 'id': '1507737296761618438'}]}",,False,,everyone,Twitter Web App
+1538428444492431361,2850532049,Im living the life of a boy named johnny Test,2022-06-19 07:48:18+00:00,,252,377,10024,9,en,1538428444492431361,"[{'domain': {'id': '3', 'name': 'TV Shows', 'description': 'Television shows from around the world'}, 'entity': {'id': '10000289836', 'name': 'Johnny Test'}}]","{'annotations': [{'start': 34, 'end': 44, 'probability': 0.8394, 'type': 'Person', 'normalized_text': 'johnny Test'}]}",,False,,everyone,Twitter for iPhone
+1538775677154910208,1302618825108586496,Roblox what the fuck is this https://t.co/uJoV8SQx3D,2022-06-20 06:48:05+00:00,,9,41,75,1,en,1538775677154910208,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'urls': [{'start': 29, 'end': 52, 'url': 'https://t.co/uJoV8SQx3D', 'expanded_url': 'https://twitter.com/omgomg286/status/1538775677154910208/photo/1', 'display_url': 'pic.twitter.com/uJoV8SQx3D', 'media_key': '3_1538775670045949955'}, {'start': 29, 'end': 52, 'url': 'https://t.co/uJoV8SQx3D', 'expanded_url': 'https://twitter.com/omgomg286/status/1538775677154910208/photo/1', 'display_url': 'pic.twitter.com/uJoV8SQx3D', 'media_key': '3_1538775674588397570'}]}","{'media_keys': ['3_1538775670045949955', '3_1538775674588397570']}",False,,everyone,Twitter for Android
+1538886088638357504,1318385378684932096,"spring halo 2020 giveaway 🌸
+
+• follow me + @lvshkhyan 
+• like &amp; retweet https://t.co/ESgZTxDEHQ",2022-06-20 14:06:49+00:00,,232,160,243,47,en,1538886088638357504,[],"{'urls': [{'start': 76, 'end': 99, 'url': 'https://t.co/ESgZTxDEHQ', 'expanded_url': 'https://twitter.com/Pqstiella/status/1538886088638357504/photo/1', 'display_url': 'pic.twitter.com/ESgZTxDEHQ', 'media_key': '3_1538886086167891968'}], 'mentions': [{'start': 43, 'end': 53, 'username': 'lvshkhyan', 'id': '1487938136244060162'}]}",{'media_keys': ['3_1538886086167891968']},False,,everyone,Twitter for Android
+1538865848584048641,1404614493464842244,"ꗃ :: #robux giftcard gw !! ⌗ 
+
+✦┆Follow me (@qllice) and @stealthylynx  
+✧┆Like &amp; retweet w tagsɞ
+
+ ˗ˋˏ Extras ➤ thread ❞ 
+
+⤷ Ends when lynx tells me to 🙈 ‧₊˚
+
+#Roblox #robloxgws #robloxgw #robloxgiveaways #robloxgiveaway #robuxgiveaways #robuxgiveaway #robuxgws https://t.co/iWDDhx6IGr",2022-06-20 12:46:23+00:00,,128,96,138,81,en,1538865848584048641,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'hashtags': [{'start': 5, 'end': 11, 'tag': 'robux'}, {'start': 164, 'end': 171, 'tag': 'Roblox'}, {'start': 172, 'end': 182, 'tag': 'robloxgws'}, {'start': 183, 'end': 192, 'tag': 'robloxgw'}, {'start': 193, 'end': 209, 'tag': 'robloxgiveaways'}, {'start': 210, 'end': 225, 'tag': 'robloxgiveaway'}, {'start': 226, 'end': 241, 'tag': 'robuxgiveaways'}, {'start': 242, 'end': 256, 'tag': 'robuxgiveaway'}, {'start': 257, 'end': 266, 'tag': 'robuxgws'}], 'urls': [{'start': 267, 'end': 290, 'url': 'https://t.co/iWDDhx6IGr', 'expanded_url': 'https://twitter.com/qllice/status/1538865848584048641/photo/1', 'display_url': 'pic.twitter.com/iWDDhx6IGr', 'media_key': '3_1538865845367017472'}], 'mentions': [{'start': 44, 'end': 51, 'username': 'qllice', 'id': '1404614493464842244'}, {'start': 57, 'end': 70, 'username': 'stealthylynx', 'id': '1515229695067009028'}]}",{'media_keys': ['3_1538865845367017472']},False,,everyone,Twitter for Android
+1538992520046182401,1290510389999022082,"Rainbow Vari Giveaway! 
+Just RT and comment your user💪
+
+Ends in a week 
+#LoomianLegacy #Giveaway https://t.co/Yoj2lAZBAZ",2022-06-20 21:09:44+00:00,,533,521,248,1,en,1538992520046182401,[],"{'hashtags': [{'start': 72, 'end': 86, 'tag': 'LoomianLegacy'}, {'start': 87, 'end': 96, 'tag': 'Giveaway'}], 'urls': [{'start': 97, 'end': 120, 'url': 'https://t.co/Yoj2lAZBAZ', 'expanded_url': 'https://twitter.com/FIyPoint/status/1538992520046182401/photo/1', 'display_url': 'pic.twitter.com/Yoj2lAZBAZ', 'media_key': '3_1538992516384673792'}]}",{'media_keys': ['3_1538992516384673792']},False,,everyone,Twitter for iPhone
+1538876214688919553,1504444519873642498,Who wants Robux from us? 👀,2022-06-20 13:27:35+00:00,,10,103,81,0,en,1538876214688919553,[],"{'annotations': [{'start': 10, 'end': 14, 'probability': 0.3995, 'type': 'Person', 'normalized_text': 'Robux'}]}",,False,,everyone,Twitter for iPhone
+1538900455136321538,3025674465,"Seriously considering hiring someone just to write and create fun Roblox Myths for the community to solve.
+
+I’m talking complete storylines with characters and events. And once Roblox allows devs to reward UGC items in-game, you could even get free avatar items for solving stuff.",2022-06-20 15:03:54+00:00,,129,276,2341,16,en,1538900455136321538,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'annotations': [{'start': 66, 'end': 71, 'probability': 0.5202, 'type': 'Product', 'normalized_text': 'Roblox'}, {'start': 177, 'end': 182, 'probability': 0.5187, 'type': 'Product', 'normalized_text': 'Roblox'}]}",,False,,everyone,Twitter for iPhone
+1538409790317240321,1260561495898894336,Roblox chat v2 💀 https://t.co/Vj7OvTHrlZ,2022-06-19 06:34:10+00:00,,168,376,2136,9,en,1538409790317240321,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'urls': [{'start': 17, 'end': 40, 'url': 'https://t.co/Vj7OvTHrlZ', 'expanded_url': 'https://twitter.com/DziredRBLX/status/1538409790317240321/photo/1', 'display_url': 'pic.twitter.com/Vj7OvTHrlZ', 'media_key': '3_1538409784935960577'}]}",{'media_keys': ['3_1538409784935960577']},False,,everyone,Twitter for iPhone
+1535927836246446080,1427600942933811200,Reply if you want a follow,2022-06-12 10:11:46+00:00,,8,107,65,1,en,1535927836246446080,[],,,False,,everyone,Twitter for Android
+1539070117148913666,1524230040350707712,@maiyuio ADDED,2022-06-21 02:18:05+00:00,,0,1,0,0,en,1539021817888706560,[],"{'mentions': [{'start': 0, 'end': 8, 'username': 'maiyuio', 'id': '1367161180314169346'}]}",,False,,everyone,Twitter for iPhone
+1538730337177505792,1538486033213714434,"NEWS! @Roblox is banning all Furries, thoughts?",2022-06-20 03:47:55+00:00,,6,11,20,0,en,1538730337177505792,"[{'domain': {'id': '66', 'name': 'Interests and Hobbies Category', 'description': 'A grouping of interests and hobbies entities, like Novelty Food or Destinations'}, 'entity': {'id': '1045058369852067840', 'name': 'Furries', 'description': 'This entity tracks all conversation related to furries & furry fandom. For a more heavily-curated, Topic-ready version, see Furry fandom (1514304215165796352). '}}, {'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'mentions': [{'start': 6, 'end': 13, 'username': 'Roblox', 'id': '16745055'}]}",,False,,everyone,TweetDeck
+1539012566307024897,1508128446022627329,@OMBgamingRBLX @PRC_Roblox i found this?? https://t.co/kMjvMnOOwH,2022-06-20 22:29:23+00:00,,0,2,1,0,en,1539010849829969923,[],"{'urls': [{'start': 42, 'end': 65, 'url': 'https://t.co/kMjvMnOOwH', 'expanded_url': 'https://twitter.com/wpsf12/status/1539012566307024897/photo/1', 'display_url': 'pic.twitter.com/kMjvMnOOwH', 'media_key': '3_1539012563647844352'}], 'mentions': [{'start': 0, 'end': 14, 'username': 'OMBgamingRBLX', 'id': '1472636885533134858'}, {'start': 15, 'end': 26, 'username': 'PRC_Roblox', 'id': '1071938981389045765'}]}",{'media_keys': ['3_1539012563647844352']},False,,everyone,Twitter for iPad
+1539081495167414272,1282025930546745345,since i got my xbox to finally work after a yr add me 🥥🍭👙💋 https://t.co/btlQJRHzFy,2022-06-21 03:03:17+00:00,,0,1,3,0,en,1539081495167414272,"[{'domain': {'id': '45', 'name': 'Brand Vertical', 'description': 'Top level entities that describe a Brands industry'}, 'entity': {'id': '781974597310615553', 'name': 'Entertainment'}}, {'domain': {'id': '46', 'name': 'Brand Category', 'description': 'Categories within Brand Verticals that narrow down the scope of Brands'}, 'entity': {'id': '781974597218340864', 'name': 'Video Games'}}, {'domain': {'id': '47', 'name': 'Brand', 'description': 'Brands and Companies'}, 'entity': {'id': '10027048851', 'name': 'Xbox'}}, {'domain': {'id': '79', 'name': 'Video Game Hardware', 'description': 'Video Game Hardware'}, 'entity': {'id': '10027048851', 'name': 'Xbox'}}]","{'annotations': [{'start': 15, 'end': 18, 'probability': 0.8745, 'type': 'Product', 'normalized_text': 'xbox'}], 'urls': [{'start': 59, 'end': 82, 'url': 'https://t.co/btlQJRHzFy', 'expanded_url': 'https://twitter.com/vanilladoIl/status/1539081495167414272/photo/1', 'display_url': 'pic.twitter.com/btlQJRHzFy', 'media_key': '3_1539081491967188992'}]}",{'media_keys': ['3_1539081491967188992']},False,,everyone,Twitter for iPhone
+1537844070629916677,778450189627498496,"10,000 Robux Giveaway!
+
+HOW TO ENTER:
+Follow @VuxxVuxx
+Like + Retweet
+Reply “VuxVux”
+
+Winner picked this Monday. Good luck! https://t.co/LP9pUgh2PY",2022-06-17 17:06:12+00:00,,1306,1680,1759,33,en,1537844070629916677,[],"{'urls': [{'start': 124, 'end': 147, 'url': 'https://t.co/LP9pUgh2PY', 'expanded_url': 'https://twitter.com/VuxxVuxx/status/1537844070629916677/photo/1', 'display_url': 'pic.twitter.com/LP9pUgh2PY', 'media_key': '3_1537844067438153728'}], 'mentions': [{'start': 45, 'end': 54, 'username': 'VuxxVuxx', 'id': '778450189627498496'}]}",{'media_keys': ['3_1537844067438153728']},False,,everyone,Twitter for iPhone
+1534550985636339712,1532732487511683072,"ㅤ
+
+          4.  do you play online 
+          games? if yes, what games 
+          do you usually play?
+
+ㅤㅤ",2022-06-08 15:00:40+00:00,,1,1,2,21,en,1534550977180602368,[],,,False,,mentionedUsers,Twitter for iPhone
+1538694168733687808,1401630812504838147,"Blaine’s Mystery Halo Giveaway! ⚡️
+
+- Follow me 
+- Like + Retweet 
+- comment down Your favorite RH event 
+
+Extras/Higher chances:
+- Retweet w/ Tags!
+- Stay active https://t.co/0yJ1JUVxqx",2022-06-20 01:24:12+00:00,,151,150,171,74,en,1538694168733687808,[],"{'annotations': [{'start': 0, 'end': 5, 'probability': 0.3828, 'type': 'Person', 'normalized_text': 'Blaine'}], 'urls': [{'start': 163, 'end': 186, 'url': 'https://t.co/0yJ1JUVxqx', 'expanded_url': 'https://twitter.com/TorturedText/status/1538694168733687808/photo/1', 'display_url': 'pic.twitter.com/0yJ1JUVxqx', 'media_key': '3_1538694164459683842'}]}",{'media_keys': ['3_1538694164459683842']},False,,everyone,Twitter for iPad
+1527984569680642049,1074000530123472897,"Around 1 month ago my game Pet Champions got deleted for no reason. Roblox later told me it was a mistake. Now the DEVELOPER place has been deleted, and my account has also been deleted.
+
+#Roblox #RobloxDev @Roblox @robloxdevrel @Roblox_RTC https://t.co/sD9usrKmkf",2022-05-21 12:08:04+00:00,,56,84,422,5,en,1527984569680642049,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'annotations': [{'start': 27, 'end': 39, 'probability': 0.328, 'type': 'Other', 'normalized_text': 'Pet Champions'}], 'hashtags': [{'start': 188, 'end': 195, 'tag': 'Roblox'}, {'start': 196, 'end': 206, 'tag': 'RobloxDev'}], 'urls': [{'start': 241, 'end': 264, 'url': 'https://t.co/sD9usrKmkf', 'expanded_url': 'https://twitter.com/WoizYT/status/1527984569680642049/photo/1', 'display_url': 'pic.twitter.com/sD9usrKmkf', 'media_key': '3_1527984321952460801'}], 'mentions': [{'start': 207, 'end': 214, 'username': 'Roblox', 'id': '16745055'}, {'start': 215, 'end': 228, 'username': 'robloxdevrel', 'id': '856650515874172928'}, {'start': 229, 'end': 240, 'username': 'Roblox_RTC', 'id': '1056053249470541824'}]}",{'media_keys': ['3_1527984321952460801']},False,,everyone,Twitter Web App
+1538757327473483776,1528131406639124483,Only my favorite people can reply. :),2022-06-20 05:35:10+00:00,,41,512,707,0,en,1538757327473483776,[],,,False,,everyone,Twitter for Android
+1539055525362556928,1192406630,@EnsSales Good number,2022-06-21 01:20:06+00:00,,0,1,0,0,en,1539055218431860742,[],"{'mentions': [{'start': 0, 'end': 9, 'username': 'EnsSales', 'id': '1416041604566110212'}]}",,False,,everyone,Twitter for iPhone
+1539056022182055937,235249547,@EnsSales Lets break that 1 eth wall downnnnnn,2022-06-21 01:22:04+00:00,,0,1,2,0,en,1539055218431860742,"[{'domain': {'id': '30', 'name': 'Entities [Entity Service]', 'description': 'Entity Service top level domain, every item that is in Entity Service should be in this domain'}, 'entity': {'id': '1007361429752594432', 'name': 'Ethereum cryptocurrency', 'description': 'Ethereum Cryptocurrency'}}, {'domain': {'id': '174', 'name': 'Digital Assets & Crypto', 'description': 'For cryptocurrency entities'}, 'entity': {'id': '1007361429752594432', 'name': 'Ethereum cryptocurrency', 'description': 'Ethereum Cryptocurrency'}}]","{'mentions': [{'start': 0, 'end': 9, 'username': 'EnsSales', 'id': '1416041604566110212'}]}",,False,,everyone,Twitter for iPhone
+1539080541684658176,1263714840800980994,"I am incredibly bored at the moment
+
+Please unbore me",2022-06-21 02:59:30+00:00,,1,3,5,0,en,1539080541684658176,[],,,False,,everyone,Twitter for iPhone

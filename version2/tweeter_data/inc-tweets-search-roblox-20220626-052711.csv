@@ -1,0 +1,208 @@
+tweetid,author_id,text,created_at,geo,retweets,replies,likes,quote_count,lang,conversation_id,context_annotations,entities,attachments,possibly_sensitive,withheld,reply_settings,source
+1531451856685256707,3143454491,"@ItsAmmon roblox has never embraced it as a social link, meaning a ton of developers (and therefore players) were laser focused on twitter
+
+the audience is clearly there, the Roblox account gets tens of thousands views/likes per post (which runs laps around it's twitters numbers)",2022-05-31 01:45:50+00:00,,0,2,12,0,en,1531420896270774273,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}, {'domain': {'id': '46', 'name': 'Brand Category', 'description': 'Categories within Brand Verticals that narrow down the scope of Brands'}, 'entity': {'id': '781974596752842752', 'name': 'Services'}}, {'domain': {'id': '47', 'name': 'Brand', 'description': 'Brands and Companies'}, 'entity': {'id': '10045225402', 'name': 'Twitter'}}]","{'mentions': [{'start': 0, 'end': 9, 'username': 'ItsAmmon', 'id': '1102772383071387648'}], 'annotations': [{'start': 131, 'end': 137, 'probability': 0.5424, 'type': 'Product', 'normalized_text': 'twitter'}, {'start': 175, 'end': 180, 'probability': 0.3908, 'type': 'Product', 'normalized_text': 'Roblox'}]}",,False,,everyone,Twitter Web App
+1531476387189514240,1526447647963357185,◌ㅤ۪ ㅤ͡ㅤ introduce yourself! ㅤ〫♡̫,2022-05-31 03:23:18+00:00,,0,1,2,12,ko,1531476381195902976,[],,,False,,everyone,Twitter for Android
+1531489542229852161,1507119971230441479,"@DevHouseTampa  #2 Making homemade smash burgers!🍔👨‍🍳
+
+#Roblox | #RobloxDev | #RobloxDevRelations |
+@robloxdevrel | @Roblox|#DevHouseTampa https://t.co/XkQkYYpopy",2022-05-31 04:15:35+00:00,,6,1,17,0,en,1531489542229852161,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'hashtags': [{'start': 55, 'end': 62, 'tag': 'Roblox'}, {'start': 65, 'end': 75, 'tag': 'RobloxDev'}, {'start': 78, 'end': 97, 'tag': 'RobloxDevRelations'}, {'start': 124, 'end': 138, 'tag': 'DevHouseTampa'}], 'mentions': [{'start': 0, 'end': 14, 'username': 'DevHouseTampa', 'id': '1507119971230441479'}, {'start': 100, 'end': 113, 'username': 'robloxdevrel', 'id': '856650515874172928'}, {'start': 116, 'end': 123, 'username': 'Roblox', 'id': '16745055'}], 'urls': [{'start': 139, 'end': 162, 'url': 'https://t.co/XkQkYYpopy', 'expanded_url': 'https://twitter.com/DevHouseTampa/status/1531489542229852161/photo/1', 'display_url': 'pic.twitter.com/XkQkYYpopy', 'media_key': '3_1531489226658922496'}]}",{'media_keys': ['3_1531489226658922496']},False,,everyone,Twitter Web App
+1531407389060112389,1273681223399817216,Is there really titties in roblox now?,2022-05-30 22:49:08+00:00,,1,8,18,0,en,1531407389060112389,[],,,False,,everyone,Twitter for Android
+1531247671654096896,1269889465838960640,"Promotion Time 
+1. Like/Retweet ♻️♥️
+2. Link your YT/Twitch
+3. Help each other😍
+4. Follow Me
+#SmallStreamer
+#SmallStreamersConnect
+#SupportSmallStreamers
+@sme_rt
+@promo_streams
+@SpideyRTs
+@Pulse_Rts
+@GamingRTweeters
+@SGH_RTs
+@Promo_YT
+@StreamerWall
+@StreamersRT1
+@MrURLVibez",2022-05-30 12:14:28+00:00,,33,62,64,0,en,1531247671654096896,"[{'domain': {'id': '46', 'name': 'Brand Category', 'description': 'Categories within Brand Verticals that narrow down the scope of Brands'}, 'entity': {'id': '781974596752842752', 'name': 'Services'}}, {'domain': {'id': '47', 'name': 'Brand', 'description': 'Brands and Companies'}, 'entity': {'id': '1054826545758396416', 'name': 'Twitch', 'description': 'Twitch'}}]","{'hashtags': [{'start': 93, 'end': 107, 'tag': 'SmallStreamer'}, {'start': 108, 'end': 130, 'tag': 'SmallStreamersConnect'}, {'start': 131, 'end': 153, 'tag': 'SupportSmallStreamers'}], 'mentions': [{'start': 154, 'end': 161, 'username': 'sme_rt', 'id': '1150729203563806720'}, {'start': 162, 'end': 176, 'username': 'promo_streams', 'id': '1256373983827693568'}, {'start': 177, 'end': 187, 'username': 'SpideyRTs', 'id': '1280015300222730240'}, {'start': 188, 'end': 198, 'username': 'Pulse_Rts', 'id': '731532571176251393'}, {'start': 199, 'end': 215, 'username': 'GamingRTweeters', 'id': '764928929647955969'}, {'start': 216, 'end': 224, 'username': 'SGH_RTs', 'id': '962219190538199041'}, {'start': 225, 'end': 234, 'username': 'Promo_YT', 'id': '3719266401'}, {'start': 235, 'end': 248, 'username': 'StreamerWall', 'id': '949558679677947905'}, {'start': 249, 'end': 262, 'username': 'StreamersRT1', 'id': '1330921036284637192'}, {'start': 263, 'end': 274, 'username': 'MrURLVibez', 'id': '3164578046'}]}",,False,,everyone,IFTTT
+1531253380743561216,1460541122380550150,"Anyone pushing affiliate?
+1 Like/Retweet
+2. Drop Your link
+3. Follow us
+4. Join us (link in bio)
+@stream_rt 
+@Rts_WW
+@FEAR_RTs
+@RexRTs
+@rtsmallstreams
+@SGH_RTs
+@StreamersRT1
+@rttanks
+@DripRT
+@BlazedRTs
+@Mighty_RTs
+@DynoRTs
+#twitchstreamer 
+@Quickest_Rts
+@NemoRETWEET5
+@Pulse_Rts",2022-05-30 12:37:09+00:00,,20,48,38,1,en,1531253380743561216,"[{'domain': {'id': '46', 'name': 'Brand Category', 'description': 'Categories within Brand Verticals that narrow down the scope of Brands'}, 'entity': {'id': '781974596752842752', 'name': 'Services'}}, {'domain': {'id': '47', 'name': 'Brand', 'description': 'Brands and Companies'}, 'entity': {'id': '1054826545758396416', 'name': 'Twitch', 'description': 'Twitch'}}]","{'hashtags': [{'start': 223, 'end': 238, 'tag': 'twitchstreamer'}], 'mentions': [{'start': 97, 'end': 107, 'username': 'stream_rt', 'id': '1267172192053350400'}, {'start': 109, 'end': 116, 'username': 'Rts_WW', 'id': '1380153937802706949'}, {'start': 117, 'end': 126, 'username': 'FEAR_RTs', 'id': '2493273856'}, {'start': 127, 'end': 134, 'username': 'RexRTs', 'id': '896465225938948096'}, {'start': 135, 'end': 150, 'username': 'rtsmallstreams', 'id': '1128878664572166144'}, {'start': 151, 'end': 159, 'username': 'SGH_RTs', 'id': '962219190538199041'}, {'start': 160, 'end': 173, 'username': 'StreamersRT1', 'id': '1330921036284637192'}, {'start': 174, 'end': 182, 'username': 'rttanks', 'id': '1418044846657441796'}, {'start': 183, 'end': 190, 'username': 'DripRT', 'id': '715904729516118017'}, {'start': 191, 'end': 201, 'username': 'BlazedRTs', 'id': '715492170392846336'}, {'start': 202, 'end': 213, 'username': 'Mighty_RTs', 'id': '903606845868257280'}, {'start': 214, 'end': 222, 'username': 'DynoRTs', 'id': '895382071438213120'}, {'start': 240, 'end': 253, 'username': 'Quickest_Rts', 'id': '2497531712'}, {'start': 254, 'end': 267, 'username': 'NemoRETWEET5', 'id': '1009916606850519043'}, {'start': 268, 'end': 278, 'username': 'Pulse_Rts', 'id': '731532571176251393'}]}",,False,,everyone,Twitter for iPhone
+1531488083870375937,980137454626893824,Voce moraria agui voce moraria no quartinho 3d que eu fiz moraria hein moraria? esta amanhecendo moraria ✨ https://t.co/rEvzlyEBoe,2022-05-31 04:09:47+00:00,,3,8,44,0,pt,1531488083870375937,[],"{'urls': [{'start': 107, 'end': 130, 'url': 'https://t.co/rEvzlyEBoe', 'expanded_url': 'https://twitter.com/nevuvu/status/1531488083870375937/photo/1', 'display_url': 'pic.twitter.com/rEvzlyEBoe', 'media_key': '3_1531487258947330049'}, {'start': 107, 'end': 130, 'url': 'https://t.co/rEvzlyEBoe', 'expanded_url': 'https://twitter.com/nevuvu/status/1531488083870375937/photo/1', 'display_url': 'pic.twitter.com/rEvzlyEBoe', 'media_key': '3_1531487914487693312'}, {'start': 107, 'end': 130, 'url': 'https://t.co/rEvzlyEBoe', 'expanded_url': 'https://twitter.com/nevuvu/status/1531488083870375937/photo/1', 'display_url': 'pic.twitter.com/rEvzlyEBoe', 'media_key': '3_1531487914944757762'}]}","{'media_keys': ['3_1531487258947330049', '3_1531487914487693312', '3_1531487914944757762']}",False,,everyone,Twitter Web App
+1528955661861519360,1477469542250995713,"spring halo 2020 giveaway!
+
+• follow me + @luvhrejohn 
+• like + retweet https://t.co/6LpWTjCKIA",2022-05-24 04:26:51+00:00,,294,206,303,61,en,1528955661861519360,[],"{'mentions': [{'start': 42, 'end': 53, 'username': 'luvhrejohn', 'id': '1486629951201689600'}], 'urls': [{'start': 72, 'end': 95, 'url': 'https://t.co/6LpWTjCKIA', 'expanded_url': 'https://twitter.com/cloudyyamilee/status/1528955661861519360/photo/1', 'display_url': 'pic.twitter.com/6LpWTjCKIA', 'media_key': '3_1528955658342608897'}]}",{'media_keys': ['3_1528955658342608897']},False,,mentionedUsers,Twitter for Android
+1531423133877559298,1396723336118521861,"Let's Grow!
+1 Like/Retweet
+2 Link your Twitch/YT
+3 Follow me!
+#smallstreamer #twitchstreaming
+#SmallStreamersConnect
+#SupportSmallStreams
+#SupportSmallStreamers
+@BlazedRTs
+@sme_rt
+@PromoteAMGamers
+@rtsmallstreams
+@SupStreamers
+@promo_streams
+@StreamersRT1
+#TwitchAffliate
+#twitch",2022-05-30 23:51:42+00:00,,23,57,47,1,en,1531423133877559298,"[{'domain': {'id': '46', 'name': 'Brand Category', 'description': 'Categories within Brand Verticals that narrow down the scope of Brands'}, 'entity': {'id': '781974596752842752', 'name': 'Services'}}, {'domain': {'id': '47', 'name': 'Brand', 'description': 'Brands and Companies'}, 'entity': {'id': '1054826545758396416', 'name': 'Twitch', 'description': 'Twitch'}}]","{'hashtags': [{'start': 62, 'end': 76, 'tag': 'smallstreamer'}, {'start': 77, 'end': 93, 'tag': 'twitchstreaming'}, {'start': 94, 'end': 116, 'tag': 'SmallStreamersConnect'}, {'start': 117, 'end': 137, 'tag': 'SupportSmallStreams'}, {'start': 138, 'end': 160, 'tag': 'SupportSmallStreamers'}, {'start': 256, 'end': 271, 'tag': 'TwitchAffliate'}, {'start': 272, 'end': 279, 'tag': 'twitch'}], 'mentions': [{'start': 161, 'end': 171, 'username': 'BlazedRTs', 'id': '715492170392846336'}, {'start': 172, 'end': 179, 'username': 'sme_rt', 'id': '1150729203563806720'}, {'start': 180, 'end': 196, 'username': 'PromoteAMGamers', 'id': '1084937149'}, {'start': 197, 'end': 212, 'username': 'rtsmallstreams', 'id': '1128878664572166144'}, {'start': 213, 'end': 226, 'username': 'SupStreamers', 'id': '1495689026249977861'}, {'start': 227, 'end': 241, 'username': 'promo_streams', 'id': '1256373983827693568'}, {'start': 242, 'end': 255, 'username': 'StreamersRT1', 'id': '1330921036284637192'}]}",,False,,everyone,Twitter Web App
+1492295755268124673,347591743,"Immerse yourself in the new @aloyoga Roblox experience where you can try free yoga classes, join guided meditates, and collect new items &amp; yoga poses for your avatar! Try it here ♡ https://t.co/LIX8w3KHsk https://t.co/WthhxUIw00",2022-02-12 00:33:28+00:00,,135,330,3942,15,en,1492295755268124673,"[{'domain': {'id': '47', 'name': 'Brand', 'description': 'Brands and Companies'}, 'entity': {'id': '1410252212530409481', 'name': 'Alo Yoga'}}, {'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'mentions': [{'start': 28, 'end': 36, 'username': 'aloyoga', 'id': '36832167'}], 'urls': [{'start': 185, 'end': 208, 'url': 'https://t.co/LIX8w3KHsk', 'expanded_url': 'http://roblox.com/aloyoga', 'display_url': 'roblox.com/aloyoga', 'status': 200, 'unwound_url': 'https://www.roblox.com/aloyoga'}, {'start': 209, 'end': 232, 'url': 'https://t.co/WthhxUIw00', 'expanded_url': 'https://twitter.com/LeahAshe/status/1492295755268124673/photo/1', 'display_url': 'pic.twitter.com/WthhxUIw00', 'media_key': '3_1492295437520306178'}]}",{'media_keys': ['3_1492295437520306178']},False,,everyone,Twitter Web App
+1531237135537381376,1114346612736831490,"PROMOTION TIME
+1. Like/Retweet
+2. Link your Twitch/YT
+3. Help each other grow
+4. Follow me!  #smallstreamer #SmallStreamersConnect #SupportSmallStreams #SupportSmallStreamers 
+@BlazedRTs @sme_rt
+@PromoteAMGamers
+@rtsmallstreams
+@SupStreamers
+@promo_streams
+@StreamersRT1
+#twitchtv",2022-05-30 11:32:36+00:00,,34,75,62,0,en,1531237135537381376,"[{'domain': {'id': '46', 'name': 'Brand Category', 'description': 'Categories within Brand Verticals that narrow down the scope of Brands'}, 'entity': {'id': '781974596752842752', 'name': 'Services'}}, {'domain': {'id': '47', 'name': 'Brand', 'description': 'Brands and Companies'}, 'entity': {'id': '1054826545758396416', 'name': 'Twitch', 'description': 'Twitch'}}]","{'hashtags': [{'start': 93, 'end': 107, 'tag': 'smallstreamer'}, {'start': 108, 'end': 130, 'tag': 'SmallStreamersConnect'}, {'start': 131, 'end': 151, 'tag': 'SupportSmallStreams'}, {'start': 152, 'end': 174, 'tag': 'SupportSmallStreamers'}, {'start': 271, 'end': 280, 'tag': 'twitchtv'}], 'mentions': [{'start': 176, 'end': 186, 'username': 'BlazedRTs', 'id': '715492170392846336'}, {'start': 187, 'end': 194, 'username': 'sme_rt', 'id': '1150729203563806720'}, {'start': 195, 'end': 211, 'username': 'PromoteAMGamers', 'id': '1084937149'}, {'start': 212, 'end': 227, 'username': 'rtsmallstreams', 'id': '1128878664572166144'}, {'start': 228, 'end': 241, 'username': 'SupStreamers', 'id': '1495689026249977861'}, {'start': 242, 'end': 256, 'username': 'promo_streams', 'id': '1256373983827693568'}, {'start': 257, 'end': 270, 'username': 'StreamersRT1', 'id': '1330921036284637192'}]}",,False,,everyone,Twitter Web App
+1531169197950124032,1341851801579118598,"PROMOTION TIME!!
+1. Like/Retweet
+2. Link your Twitch
+3. Follow Me 💙 My Link ⬇️
+4. Help each other grow
+#smallstreamer
+#SmallStreamersConnect
+#SupportSmallStreamers
+@BlazedRTs
+@sme_rt
+@PromoteAMGamer
+@rtsmallstreams
+@SupStreamers
+@promo_stream
+@StreamersRT1
+ #twitch 
+@Legitwow1",2022-05-30 07:02:39+00:00,,26,43,41,1,en,1531169197950124032,"[{'domain': {'id': '46', 'name': 'Brand Category', 'description': 'Categories within Brand Verticals that narrow down the scope of Brands'}, 'entity': {'id': '781974596752842752', 'name': 'Services'}}, {'domain': {'id': '47', 'name': 'Brand', 'description': 'Brands and Companies'}, 'entity': {'id': '1054826545758396416', 'name': 'Twitch', 'description': 'Twitch'}}]","{'hashtags': [{'start': 103, 'end': 117, 'tag': 'smallstreamer'}, {'start': 118, 'end': 140, 'tag': 'SmallStreamersConnect'}, {'start': 141, 'end': 163, 'tag': 'SupportSmallStreamers'}, {'start': 258, 'end': 265, 'tag': 'twitch'}], 'mentions': [{'start': 164, 'end': 174, 'username': 'BlazedRTs', 'id': '715492170392846336'}, {'start': 175, 'end': 182, 'username': 'sme_rt', 'id': '1150729203563806720'}, {'start': 183, 'end': 198, 'username': 'PromoteAMGamer', 'id': '1398877855'}, {'start': 199, 'end': 214, 'username': 'rtsmallstreams', 'id': '1128878664572166144'}, {'start': 215, 'end': 228, 'username': 'SupStreamers', 'id': '1495689026249977861'}, {'start': 229, 'end': 242, 'username': 'promo_stream', 'id': '1004464815836889088'}, {'start': 243, 'end': 256, 'username': 'StreamersRT1', 'id': '1330921036284637192'}, {'start': 267, 'end': 277, 'username': 'Legitwow1', 'id': '1341851801579118598'}]}",,False,,everyone,Twitter Web App
+1531161055761780736,1495897036784390150,"Promote Your Channel📢💸💸
+🌟Like &amp; Retweet
+🌟Link your Twitch/YT
+🌟Help each other
+
+ #smallstreamer 
+#SmallStreamersConnect
+#SupportSmallStreams 
+#SupportSmallStreamers
+@BlazedRTs
+@gainfortwitch
+@PromoteAMGamers
+@rtsmallstreams
+@SupStreamers
+@promo_streams 
+@StreamersRtw",2022-05-30 06:30:17+00:00,,19,46,40,2,en,1531161055761780736,"[{'domain': {'id': '46', 'name': 'Brand Category', 'description': 'Categories within Brand Verticals that narrow down the scope of Brands'}, 'entity': {'id': '781974596752842752', 'name': 'Services'}}, {'domain': {'id': '47', 'name': 'Brand', 'description': 'Brands and Companies'}, 'entity': {'id': '1054826545758396416', 'name': 'Twitch', 'description': 'Twitch'}}]","{'hashtags': [{'start': 84, 'end': 98, 'tag': 'smallstreamer'}, {'start': 100, 'end': 122, 'tag': 'SmallStreamersConnect'}, {'start': 123, 'end': 143, 'tag': 'SupportSmallStreams'}, {'start': 145, 'end': 167, 'tag': 'SupportSmallStreamers'}], 'mentions': [{'start': 168, 'end': 178, 'username': 'BlazedRTs', 'id': '715492170392846336'}, {'start': 179, 'end': 193, 'username': 'gainfortwitch', 'id': '1513774626815492101'}, {'start': 194, 'end': 210, 'username': 'PromoteAMGamers', 'id': '1084937149'}, {'start': 211, 'end': 226, 'username': 'rtsmallstreams', 'id': '1128878664572166144'}, {'start': 227, 'end': 240, 'username': 'SupStreamers', 'id': '1495689026249977861'}, {'start': 241, 'end': 255, 'username': 'promo_streams', 'id': '1256373983827693568'}, {'start': 257, 'end': 270, 'username': 'StreamersRtw', 'id': '1006239215657594880'}]}",,False,,everyone,IFTTT
+1531492957928542209,1402475811249209348,GUYS https://t.co/JR4GE43h0W,2022-05-31 04:29:09+00:00,,2,7,10,0,en,1531492957928542209,[],"{'urls': [{'start': 5, 'end': 28, 'url': 'https://t.co/JR4GE43h0W', 'expanded_url': 'https://twitter.com/fearzome/status/1531492957928542209/photo/1', 'display_url': 'pic.twitter.com/JR4GE43h0W', 'media_key': '3_1531492954149376000'}]}",{'media_keys': ['3_1531492954149376000']},False,,everyone,Twitter for iPhone
+1531262194247208960,77635349,"Type ""Fortnite Season 3 will have"" and let your phone do the magic... 😅 #FortniteSeason3",2022-05-30 13:12:11+00:00,,28,1242,1443,29,en,1531262194247208960,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '974285387987169280', 'name': 'Fortnite', 'description': 'This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t'}}]","{'hashtags': [{'start': 72, 'end': 88, 'tag': 'FortniteSeason3'}]}",,False,,everyone,Twitter Web App
+1531494530616242177,1247878475899236353,"⸦⸧ roblox robux
+
+  ◌ 80 robux – ₱50
+  ◌ 240 robux – ₱140
+  ◌ 400 robux – ₱235
+  ◌ 640 robux – ₱365
+  ◌ 960 robux – ₱545
+  ◌ 1200 robux – ₱675
+  ◌ 3200 robux – ₱1740
+  ◌ 5600 robux – ₱3080
+
+— requires username and password
+— 100% safe and legal! 🍜",2022-05-31 04:35:24+00:00,,0,1,0,0,en,1531494530616242177,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]",,,False,,everyone,Twitter for Android
+1531493954314809344,1372407578282631168,@yeehaw50103407 erm.,2022-05-31 04:33:07+00:00,,0,1,1,0,und,1531306258862678021,[],"{'mentions': [{'start': 0, 'end': 15, 'username': 'yeehaw50103407', 'id': '1482855330287702019'}]}",,False,,everyone,Twitter Web App
+1531494278169509888,1543911872,@prfctdjo DELETE THIS,2022-05-31 04:34:24+00:00,,0,1,1,0,en,1531490272688889856,[],"{'mentions': [{'start': 0, 'end': 9, 'username': 'prfctdjo', 'id': '904472991450501121'}]}",,False,,everyone,Twitter for iPhone
+1531493084479082496,3025674465,IT’S HAPPENING 😱😱😱 https://t.co/wa4ZLJeZ54,2022-05-31 04:29:39+00:00,,328,745,6399,33,en,1531493084479082496,[],"{'urls': [{'start': 19, 'end': 42, 'url': 'https://t.co/wa4ZLJeZ54', 'expanded_url': 'https://twitter.com/KreekCraft/status/1531493084479082496/photo/1', 'display_url': 'pic.twitter.com/wa4ZLJeZ54', 'media_key': '3_1531493081329152002'}]}",{'media_keys': ['3_1531493081329152002']},False,,everyone,Twitter for iPhone
+1531331354092347393,1394996915750768640,ROBLOX will collaborate with Jollibee and they will send free food to a winner.**,2022-05-30 17:47:00+00:00,,6,18,133,2,en,1531331354092347393,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'annotations': [{'start': 0, 'end': 5, 'probability': 0.5998, 'type': 'Organization', 'normalized_text': 'ROBLOX'}, {'start': 29, 'end': 36, 'probability': 0.38, 'type': 'Organization', 'normalized_text': 'Jollibee'}]}",,False,,everyone,TweetDeck
+1531493501216641024,1290185585408303104,"guys, what games should i stream if i hypothetically start streaming more... hypothetically btw",2022-05-31 04:31:19+00:00,,0,4,18,0,en,1531493266516070401,[],,,False,,everyone,Twitter for iPhone
+1531420896270774273,1102772383071387648,anyone else wonder why there is like zero roblox community presence on Instagram,2022-05-30 23:42:48+00:00,,11,46,414,1,en,1531420896270774273,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'annotations': [{'start': 71, 'end': 79, 'probability': 0.7811, 'type': 'Product', 'normalized_text': 'Instagram'}]}",,False,,everyone,Twitter for iPhone
+1531391199810097153,1476616737810440207,Should we make this our new Roblox logo? 💀 https://t.co/KdZBZk6Lw0,2022-05-30 21:44:48+00:00,,290,2257,5064,33,en,1531391199810097153,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'annotations': [{'start': 28, 'end': 38, 'probability': 0.4284, 'type': 'Product', 'normalized_text': 'Roblox logo'}], 'urls': [{'start': 43, 'end': 66, 'url': 'https://t.co/KdZBZk6Lw0', 'expanded_url': 'https://twitter.com/Roblicks/status/1531391199810097153/photo/1', 'display_url': 'pic.twitter.com/KdZBZk6Lw0', 'media_key': '3_1531390306914119682'}]}",{'media_keys': ['3_1531390306914119682']},False,,everyone,Twitter Web App
+1531493314121412609,1462182678879481858,@ChunkyLobster Bro why are you on your other account you weirdo,2022-05-31 04:30:34+00:00,,0,2,0,0,en,1531478199447830528,[],"{'mentions': [{'start': 0, 'end': 14, 'username': 'ChunkyLobster', 'id': '1531489323182440448'}]}",,False,,everyone,Twitter for iPhone
+1531137076112289793,1311492324711518208,all pet wears are gone!!,2022-05-30 04:55:00+00:00,,0,1,0,0,en,1530835645651775488,[],,,False,,everyone,Twitter for iPad
+1531460478660136961,1525327948978479104,como se descarga roblox en lap? xd,2022-05-31 02:20:05+00:00,,0,1,2,0,es,1531460478660136961,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]",,,False,,everyone,Twitter Web App
+1531490987071025152,28513621,@Ericmarin_ @KreekCraft Let’s make it happen!,2022-05-31 04:21:19+00:00,,62,85,1285,10,en,1531476930775613441,[],"{'mentions': [{'start': 0, 'end': 11, 'username': 'Ericmarin_', 'id': '1268595718689714176'}, {'start': 12, 'end': 23, 'username': 'KreekCraft', 'id': '3025674465'}]}",,False,,everyone,Twitter for iPhone
+1531443497886044161,1504848755769544711,How did it go from 1k robux to the most highest price fedora? Roblox why!? https://t.co/IciuheonT1,2022-05-31 01:12:37+00:00,,6,11,50,0,en,1531443497886044161,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'urls': [{'start': 75, 'end': 98, 'url': 'https://t.co/IciuheonT1', 'expanded_url': 'https://twitter.com/FrogGang_/status/1531443497886044161/photo/1', 'display_url': 'pic.twitter.com/IciuheonT1', 'media_key': '3_1531443274929491970'}]}",{'media_keys': ['3_1531443274929491970']},False,,everyone,Twitter Web App
+1529537215461736449,1476616737810440207,Hey kid want some free robux? Hop into my van https://t.co/af5YaBPq2Y,2022-05-25 18:57:44+00:00,,15,31,176,2,en,1529537215461736449,[],"{'urls': [{'start': 46, 'end': 69, 'url': 'https://t.co/af5YaBPq2Y', 'expanded_url': 'https://twitter.com/Roblicks/status/1529537215461736449/photo/1', 'display_url': 'pic.twitter.com/af5YaBPq2Y', 'media_key': '3_1529537213221982214'}]}",{'media_keys': ['3_1529537213221982214']},False,,everyone,Twitter for Android
+1530617725604704256,2347705387,@BuildIntoGames Pet simulator x is a dead game though 🤔,2022-05-28 18:31:17+00:00,,0,2,1,0,en,1526275294578999296,[],"{'mentions': [{'start': 0, 'end': 15, 'username': 'BuildIntoGames', 'id': '2233792838'}]}",,False,,everyone,Twitter for Android
+1531324613036220417,1339407984548560896,thoughts on the new roblox avatar? https://t.co/KYjhVPhEFd,2022-05-30 17:20:13+00:00,,288,1218,8655,121,en,1531324613036220417,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'urls': [{'start': 35, 'end': 58, 'url': 'https://t.co/KYjhVPhEFd', 'expanded_url': 'https://twitter.com/laughability2/status/1531324613036220417/photo/1', 'display_url': 'pic.twitter.com/KYjhVPhEFd', 'media_key': '3_1531324519373225985'}, {'start': 35, 'end': 58, 'url': 'https://t.co/KYjhVPhEFd', 'expanded_url': 'https://twitter.com/laughability2/status/1531324613036220417/photo/1', 'display_url': 'pic.twitter.com/KYjhVPhEFd', 'media_key': '3_1531324474963918849'}]}","{'media_keys': ['3_1531324519373225985', '3_1531324474963918849']}",False,,everyone,Twitter Web App
+1531478753901412352,935691318394626048,"Is YouTube a ""REAL"" job?",2022-05-31 03:32:43+00:00,,1,62,101,0,en,1531478753901412352,"[{'domain': {'id': '165', 'name': 'Technology', 'description': 'for individual and types of technology, e.g., food technology, 3D printing'}, 'entity': {'id': '1196446161223028736', 'name': 'Social media'}}, {'domain': {'id': '46', 'name': 'Brand Category', 'description': 'Categories within Brand Verticals that narrow down the scope of Brands'}, 'entity': {'id': '781974596752842752', 'name': 'Services'}}, {'domain': {'id': '47', 'name': 'Brand', 'description': 'Brands and Companies'}, 'entity': {'id': '10029382357', 'name': 'YouTube'}}]","{'annotations': [{'start': 3, 'end': 9, 'probability': 0.3836, 'type': 'Product', 'normalized_text': 'YouTube'}]}",,False,,everyone,Twitter for Android
+1531321212483293186,511273636,Vous jouez à quel jeux en ce moment ? C'est moi ou c'est le méga vide intergalactique ?,2022-05-30 17:06:42+00:00,,373,1810,14785,172,fr,1531321212483293186,"[{'domain': {'id': '10', 'name': 'Person', 'description': 'Named people in the world like Nelson Mandela'}, 'entity': {'id': '1446050379460800517', 'name': 'Locklear'}}, {'domain': {'id': '120', 'name': 'Digital Creator', 'description': 'Influencers who create content on digital platforms'}, 'entity': {'id': '1446050379460800517', 'name': 'Locklear'}}]",,,False,,everyone,Twitter for Android
+1527466063725678592,728449304319270916,wow I forgot about that. Custom music might not end up being a thing after all https://t.co/URqZwya15b,2022-05-20 01:47:43+00:00,,0,11,23,0,en,1527466063725678592,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'urls': [{'start': 79, 'end': 102, 'url': 'https://t.co/URqZwya15b', 'expanded_url': 'https://twitter.com/xTwinny_/status/1527459167757279232', 'display_url': 'twitter.com/xTwinny_/statu…'}]}",,False,,everyone,Twitter Web App
+1531102026360291330,1079277145002835968,playing roblox w niggas b the funniest shit ever,2022-05-30 02:35:44+00:00,,1,3,7,0,en,1531102026360291330,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]",,,False,,everyone,Twitter for iPhone
+1531469770658172933,828495957964656642,@Roblox_RTC @StompyDonut426,2022-05-31 02:57:01+00:00,,0,3,50,1,qam,1531290328866689027,[],"{'mentions': [{'start': 0, 'end': 11, 'username': 'Roblox_RTC', 'id': '1056053249470541824'}, {'start': 12, 'end': 27, 'username': 'StompyDonut426', 'id': '2968893058'}]}",,False,,everyone,Twitter for Android
+1531470373660794880,1454438035723112456,"@Roblicks starting a petition for Roblox to either change their logo to this, or SHUT DOWN!
+WHO'S WITH ME?!?!?!?",2022-05-31 02:59:25+00:00,,5,62,204,1,en,1531391199810097153,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'mentions': [{'start': 0, 'end': 9, 'username': 'Roblicks', 'id': '1476616737810440207'}], 'annotations': [{'start': 34, 'end': 39, 'probability': 0.3269, 'type': 'Product', 'normalized_text': 'Roblox'}]}",,False,,everyone,Twitter Web App
+1531489098854084608,1470259471498690561,@SpaceBen_RBLX @omgomg286 @Roblox_BRC @MaryLuna_YT Then it isn't an easy question 😎,2022-05-31 04:13:49+00:00,,0,1,2,0,en,1531162600355950592,[],"{'mentions': [{'start': 0, 'end': 14, 'username': 'SpaceBen_RBLX', 'id': '1267101193706168321'}, {'start': 15, 'end': 25, 'username': 'omgomg286', 'id': '1302618825108586496'}, {'start': 26, 'end': 37, 'username': 'Roblox_BRC', 'id': '1469159266259185668'}, {'start': 38, 'end': 50, 'username': 'MaryLuna_YT', 'id': '1384689369257152523'}]}",,False,,everyone,Twitter for Android
+1531491936548270080,1120071091278323712,@Walay1k @Kahtaztw @ContinuumOrg bee swarm goes hard,2022-05-31 04:25:06+00:00,,0,1,4,0,en,1531489462164721664,[],"{'mentions': [{'start': 0, 'end': 8, 'username': 'Walay1k', 'id': '1106734215289147392'}, {'start': 9, 'end': 18, 'username': 'kahtaztw', 'id': '1020322306806054912'}, {'start': 19, 'end': 32, 'username': 'ContinuumOrg', 'id': '1471395550633381888'}]}",,False,,everyone,Twitter Web App
+1531275380530696193,1460147913301000194,"rating ur roblox user name (brutally)
+
+comment down!",2022-05-30 14:04:35+00:00,,11,151,95,1,en,1531275380530696193,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]",,,False,,everyone,Twitter for Android
+1531320679190118400,888867384404176896,Comment a P2W Roblox Game 😳,2022-05-30 17:04:35+00:00,,12,518,411,2,en,1531320679190118400,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'annotations': [{'start': 10, 'end': 24, 'probability': 0.218, 'type': 'Product', 'normalized_text': 'P2W Roblox Game'}]}",,False,,everyone,Twitter for iPhone
+1531097244375597057,1364700636797931527,"Let's Grow!
+I follow back!
+1 Like/Retweet
+2 Link your Twitch/YT
+3 Follow me!
+#smallstreamer
+#SmallStreamersConnect
+#SupportSmallStreams
+#SupportSmallStreamers
+@BlazedRTs
+@sme_rt
+@PromoteAMGamers
+@rtsmallstreams
+@SupStreamers
+@promo_streams
+@StreamersRT1
+#TwitchAffliate
+#twitch",2022-05-30 02:16:44+00:00,,20,52,43,0,en,1531097244375597057,"[{'domain': {'id': '46', 'name': 'Brand Category', 'description': 'Categories within Brand Verticals that narrow down the scope of Brands'}, 'entity': {'id': '781974596752842752', 'name': 'Services'}}, {'domain': {'id': '47', 'name': 'Brand', 'description': 'Brands and Companies'}, 'entity': {'id': '1054826545758396416', 'name': 'Twitch', 'description': 'Twitch'}}]","{'hashtags': [{'start': 77, 'end': 91, 'tag': 'smallstreamer'}, {'start': 92, 'end': 114, 'tag': 'SmallStreamersConnect'}, {'start': 115, 'end': 135, 'tag': 'SupportSmallStreams'}, {'start': 136, 'end': 158, 'tag': 'SupportSmallStreamers'}, {'start': 254, 'end': 269, 'tag': 'TwitchAffliate'}, {'start': 270, 'end': 277, 'tag': 'twitch'}], 'mentions': [{'start': 159, 'end': 169, 'username': 'BlazedRTs', 'id': '715492170392846336'}, {'start': 170, 'end': 177, 'username': 'sme_rt', 'id': '1150729203563806720'}, {'start': 178, 'end': 194, 'username': 'PromoteAMGamers', 'id': '1084937149'}, {'start': 195, 'end': 210, 'username': 'rtsmallstreams', 'id': '1128878664572166144'}, {'start': 211, 'end': 224, 'username': 'SupStreamers', 'id': '1495689026249977861'}, {'start': 225, 'end': 239, 'username': 'promo_streams', 'id': '1256373983827693568'}, {'start': 240, 'end': 253, 'username': 'StreamersRT1', 'id': '1330921036284637192'}]}",,False,,everyone,Twitter for Android
+1531489155284344832,1495082775988350985,"@westofmain_ @TheOmniLiberal They sure as hell lost the most.
+But how exactly do you quantify that they ""helped"" the most?",2022-05-31 04:14:02+00:00,,0,1,3,0,en,1531483259762262017,[],"{'mentions': [{'start': 0, 'end': 12, 'username': 'westofmain_', 'id': '1407160991876530176'}, {'start': 13, 'end': 28, 'username': 'TheOmniLiberal', 'id': '1356514488451817472'}]}",,False,,everyone,Twitter Web App
+1531442962504327169,1362390159149391876,"Who should I promote this weekend❓#Twitch 💜
+1. Like/Retweet
+2. Link your Twitch/YT
+3. Help each other grow
+4. Follow me!  #smallstreamer #SmallStreamersConnect #SupportSmallStreamers @BlazedRTs @sme_rt @PromoteAMGamers @rtsmallstreams @SupStreamers @promo_streams @StreamersRT1",2022-05-31 01:10:29+00:00,,28,52,53,1,en,1531442962504327169,"[{'domain': {'id': '46', 'name': 'Brand Category', 'description': 'Categories within Brand Verticals that narrow down the scope of Brands'}, 'entity': {'id': '781974596752842752', 'name': 'Services'}}, {'domain': {'id': '47', 'name': 'Brand', 'description': 'Brands and Companies'}, 'entity': {'id': '1054826545758396416', 'name': 'Twitch', 'description': 'Twitch'}}]","{'hashtags': [{'start': 34, 'end': 41, 'tag': 'Twitch'}, {'start': 122, 'end': 136, 'tag': 'smallstreamer'}, {'start': 137, 'end': 159, 'tag': 'SmallStreamersConnect'}, {'start': 160, 'end': 182, 'tag': 'SupportSmallStreamers'}], 'mentions': [{'start': 183, 'end': 193, 'username': 'BlazedRTs', 'id': '715492170392846336'}, {'start': 194, 'end': 201, 'username': 'sme_rt', 'id': '1150729203563806720'}, {'start': 202, 'end': 218, 'username': 'PromoteAMGamers', 'id': '1084937149'}, {'start': 219, 'end': 234, 'username': 'rtsmallstreams', 'id': '1128878664572166144'}, {'start': 235, 'end': 248, 'username': 'SupStreamers', 'id': '1495689026249977861'}, {'start': 249, 'end': 263, 'username': 'promo_streams', 'id': '1256373983827693568'}, {'start': 264, 'end': 277, 'username': 'StreamersRT1', 'id': '1330921036284637192'}]}",,False,,everyone,Twitter for iPhone
+1531476042438803456,1362390159149391876,"Who is under 1000 followers?!
+1 Like/Retweet
+2 Link your Twitch/YT
+3 Follow my twitch/Support. 
+#twitchtv
+#twitch
+#smallstreamer
+#SupportSmallStreams
+#SupportSmallStreamers
+@sme_rt
+@BlazedRTs
+@SpideyRTs
+@PromoteAMGamers
+@rtsmallstreams
+@SupStreamers
+@promo_streams
+@StreamersRT1",2022-05-31 03:21:56+00:00,,27,46,56,1,en,1531476042438803456,"[{'domain': {'id': '46', 'name': 'Brand Category', 'description': 'Categories within Brand Verticals that narrow down the scope of Brands'}, 'entity': {'id': '781974596752842752', 'name': 'Services'}}, {'domain': {'id': '47', 'name': 'Brand', 'description': 'Brands and Companies'}, 'entity': {'id': '1054826545758396416', 'name': 'Twitch', 'description': 'Twitch'}}]","{'hashtags': [{'start': 96, 'end': 105, 'tag': 'twitchtv'}, {'start': 106, 'end': 113, 'tag': 'twitch'}, {'start': 114, 'end': 128, 'tag': 'smallstreamer'}, {'start': 129, 'end': 149, 'tag': 'SupportSmallStreams'}, {'start': 150, 'end': 172, 'tag': 'SupportSmallStreamers'}], 'mentions': [{'start': 173, 'end': 180, 'username': 'sme_rt', 'id': '1150729203563806720'}, {'start': 181, 'end': 191, 'username': 'BlazedRTs', 'id': '715492170392846336'}, {'start': 192, 'end': 202, 'username': 'SpideyRTs', 'id': '1280015300222730240'}, {'start': 203, 'end': 219, 'username': 'PromoteAMGamers', 'id': '1084937149'}, {'start': 220, 'end': 235, 'username': 'rtsmallstreams', 'id': '1128878664572166144'}, {'start': 236, 'end': 249, 'username': 'SupStreamers', 'id': '1495689026249977861'}, {'start': 250, 'end': 264, 'username': 'promo_streams', 'id': '1256373983827693568'}, {'start': 265, 'end': 278, 'username': 'StreamersRT1', 'id': '1330921036284637192'}]}",,False,,everyone,Twitter for iPhone
+1531442059864948738,1362390159149391876,"Want growth?📈
+1. Like/Retweet ♥️/🔁
+2. Link your Twitch/YT 🔗
+3.Follow me! 🚶‍♂️
+4.Follow each other! 🏃‍♂️
+#smallstreamer #SmallStreamersConnect #SupportSmallStreams #SupportSmallStreamers @BlazedRTs @sme_rt @PromoteAMGamers @rtsmallstreams @SupStreamers @promo_streams @StreamersRT1",2022-05-31 01:06:54+00:00,,21,50,40,1,en,1531442059864948738,"[{'domain': {'id': '46', 'name': 'Brand Category', 'description': 'Categories within Brand Verticals that narrow down the scope of Brands'}, 'entity': {'id': '781974596752842752', 'name': 'Services'}}, {'domain': {'id': '47', 'name': 'Brand', 'description': 'Brands and Companies'}, 'entity': {'id': '1054826545758396416', 'name': 'Twitch', 'description': 'Twitch'}}]","{'hashtags': [{'start': 104, 'end': 118, 'tag': 'smallstreamer'}, {'start': 119, 'end': 141, 'tag': 'SmallStreamersConnect'}, {'start': 142, 'end': 162, 'tag': 'SupportSmallStreams'}, {'start': 163, 'end': 185, 'tag': 'SupportSmallStreamers'}], 'mentions': [{'start': 186, 'end': 196, 'username': 'BlazedRTs', 'id': '715492170392846336'}, {'start': 197, 'end': 204, 'username': 'sme_rt', 'id': '1150729203563806720'}, {'start': 205, 'end': 221, 'username': 'PromoteAMGamers', 'id': '1084937149'}, {'start': 222, 'end': 237, 'username': 'rtsmallstreams', 'id': '1128878664572166144'}, {'start': 238, 'end': 251, 'username': 'SupStreamers', 'id': '1495689026249977861'}, {'start': 252, 'end': 266, 'username': 'promo_streams', 'id': '1256373983827693568'}, {'start': 267, 'end': 280, 'username': 'StreamersRT1', 'id': '1330921036284637192'}]}",,False,,everyone,Twitter for iPhone

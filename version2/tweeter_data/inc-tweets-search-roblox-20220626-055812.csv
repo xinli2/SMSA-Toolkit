@@ -1,0 +1,153 @@
+tweetid,author_id,text,created_at,geo,retweets,replies,likes,quote_count,lang,conversation_id,context_annotations,entities,attachments,possibly_sensitive,withheld,reply_settings,source
+1530571643239780354,1201893465795256325,how often do you see the pls donate ad? https://t.co/buvsySCjFE,2022-05-28 15:28:11+00:00,,20,366,406,7,en,1530571643239780354,[],"{'urls': [{'start': 40, 'end': 63, 'url': 'https://t.co/buvsySCjFE', 'expanded_url': 'https://twitter.com/haz3m_/status/1530571643239780354/photo/1', 'display_url': 'pic.twitter.com/buvsySCjFE', 'media_key': '3_1530571618455535616'}]}",{'media_keys': ['3_1530571618455535616']},False,,everyone,Twitter Web App
+1530579536630501376,1155762565089234944,"@briantheruller 1. Jay-Z
+2. Nas
+3. Joe Budden
+4. Styles P
+5. Black Thought
+6. Fabolous
+7. Jadakiss
+8. Biggie
+9. Ghostface
+10. Kendrick
+11. Beanie Sigel
+12. Rakim
+13. PushaT
+14. Redman
+15. Pac
+16. Scarface
+17. Andre 3000
+18. Common
+19. J Cole
+20. Lupe Fiasco
+21. Royce
+22. DMX
+23. Drake
+24. T.l",2022-05-28 15:59:32+00:00,,20,244,1097,88,en,1530570057742524416,"[{'domain': {'id': '10', 'name': 'Person', 'description': 'Named people in the world like Nelson Mandela'}, 'entity': {'id': '995960834009399296', 'name': 'André 3000', 'description': 'André 3000'}}, {'domain': {'id': '10', 'name': 'Person', 'description': 'Named people in the world like Nelson Mandela'}, 'entity': {'id': '1070726534938296320', 'name': 'Black Thought', 'description': 'American rapper and actor'}}, {'domain': {'id': '10', 'name': 'Person', 'description': 'Named people in the world like Nelson Mandela'}, 'entity': {'id': '1277665608771895296', 'name': 'Jadakiss'}}, {'domain': {'id': '54', 'name': 'Musician', 'description': 'A musician in the world, like Adele or Bob Dylan'}, 'entity': {'id': '995960834009399296', 'name': 'André 3000', 'description': 'André 3000'}}, {'domain': {'id': '54', 'name': 'Musician', 'description': 'A musician in the world, like Adele or Bob Dylan'}, 'entity': {'id': '1277665608771895296', 'name': 'Jadakiss'}}, {'domain': {'id': '55', 'name': 'Music Genre', 'description': 'A category for a musical style, like Pop, Rock, or Rap'}, 'entity': {'id': '810937888334487552', 'name': 'Rap', 'description': 'Hip-Hop/Rap'}}, {'domain': {'id': '10', 'name': 'Person', 'description': 'Named people in the world like Nelson Mandela'}, 'entity': {'id': '807286069301383168', 'name': 'J. Cole', 'description': 'J. Cole'}}, {'domain': {'id': '10', 'name': 'Person', 'description': 'Named people in the world like Nelson Mandela'}, 'entity': {'id': '819248983872634880', 'name': 'Fabolous', 'description': 'Fabolous'}}, {'domain': {'id': '10', 'name': 'Person', 'description': 'Named people in the world like Nelson Mandela'}, 'entity': {'id': '867001809843269633', 'name': 'Jay Z', 'description': 'Jay Z'}}, {'domain': {'id': '10', 'name': 'Person', 'description': 'Named people in the world like Nelson Mandela'}, 'entity': {'id': '879335640600530945', 'name': 'Joe Budden', 'description': 'Joe Budden'}}, {'domain': {'id': '10', 'name': 'Person', 'description': 'Named people in the world like Nelson Mandela'}, 'entity': {'id': '890579311886979072', 'name': 'DMX', 'description': 'DMX'}}, {'domain': {'id': '54', 'name': 'Musician', 'description': 'A musician in the world, like Adele or Bob Dylan'}, 'entity': {'id': '807286069301383168', 'name': 'J. Cole', 'description': 'J. Cole'}}, {'domain': {'id': '54', 'name': 'Musician', 'description': 'A musician in the world, like Adele or Bob Dylan'}, 'entity': {'id': '819248983872634880', 'name': 'Fabolous', 'description': 'Fabolous'}}, {'domain': {'id': '54', 'name': 'Musician', 'description': 'A musician in the world, like Adele or Bob Dylan'}, 'entity': {'id': '867001809843269633', 'name': 'Jay Z', 'description': 'Jay Z'}}, {'domain': {'id': '54', 'name': 'Musician', 'description': 'A musician in the world, like Adele or Bob Dylan'}, 'entity': {'id': '879335640600530945', 'name': 'Joe Budden', 'description': 'Joe Budden'}}, {'domain': {'id': '54', 'name': 'Musician', 'description': 'A musician in the world, like Adele or Bob Dylan'}, 'entity': {'id': '890579311886979072', 'name': 'DMX', 'description': 'DMX'}}, {'domain': {'id': '55', 'name': 'Music Genre', 'description': 'A category for a musical style, like Pop, Rock, or Rap'}, 'entity': {'id': '810937888334487552', 'name': 'Rap', 'description': 'Hip-Hop/Rap'}}]","{'annotations': [{'start': 35, 'end': 44, 'probability': 0.5177, 'type': 'Person', 'normalized_text': 'Joe Budden'}], 'mentions': [{'start': 0, 'end': 15, 'username': 'briantheruller', 'id': '1442696255025582084'}]}",,False,,everyone,Twitter for iPhone
+1530336480060751876,778450189627498496,who wants some robux 🤔 https://t.co/g2kCnD5dZ3,2022-05-27 23:53:43+00:00,,273,1842,1001,10,en,1530336480060751876,[],"{'urls': [{'start': 23, 'end': 46, 'url': 'https://t.co/g2kCnD5dZ3', 'expanded_url': 'https://twitter.com/VuxxVuxx/status/1530336480060751876/photo/1', 'display_url': 'pic.twitter.com/g2kCnD5dZ3', 'media_key': '3_1530336475560148993'}]}",{'media_keys': ['3_1530336475560148993']},False,,everyone,Twitter for iPhone
+1529770336937562112,16913418,Gucci Town is coming to @Roblox. Start exploring tomorrow. #AlessandroMichele #GucciTown https://t.co/0PvtDCKUAg,2022-05-26 10:24:04+00:00,,392,799,3731,163,en,1529770336937562112,"[{'domain': {'id': '46', 'name': 'Brand Category', 'description': 'Categories within Brand Verticals that narrow down the scope of Brands'}, 'entity': {'id': '781974596807299072', 'name': 'Apparel/Accessories'}}, {'domain': {'id': '47', 'name': 'Brand', 'description': 'Brands and Companies'}, 'entity': {'id': '1266401847104827392', 'name': 'Gucci'}}, {'domain': {'id': '65', 'name': 'Interests and Hobbies Vertical', 'description': 'Top level interests and hobbies groupings, like Food or Travel'}, 'entity': {'id': '1256236649253449729', 'name': 'Fashion & beauty'}}, {'domain': {'id': '67', 'name': 'Interests and Hobbies', 'description': 'Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks'}, 'entity': {'id': '839543390668673024', 'name': 'Fashion'}}, {'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'annotations': [{'start': 0, 'end': 9, 'probability': 0.6118, 'type': 'Organization', 'normalized_text': 'Gucci Town'}], 'urls': [{'start': 89, 'end': 112, 'url': 'https://t.co/0PvtDCKUAg', 'expanded_url': 'https://twitter.com/gucci/status/1529770336937562112/photo/1', 'display_url': 'pic.twitter.com/0PvtDCKUAg', 'media_key': '3_1529770322639060992'}], 'mentions': [{'start': 24, 'end': 31, 'username': 'Roblox', 'id': '16745055'}], 'hashtags': [{'start': 59, 'end': 77, 'tag': 'AlessandroMichele'}, {'start': 78, 'end': 88, 'tag': 'GucciTown'}]}",{'media_keys': ['3_1529770322639060992']},False,,everyone,Twitter Web App
+1530110196097376257,857561234505433090,Roblox or Minecraft?,2022-05-27 08:54:33+00:00,,34,597,666,18,en,1530110196097376257,"[{'domain': {'id': '45', 'name': 'Brand Vertical', 'description': 'Top level entities that describe a Brands industry'}, 'entity': {'id': '781974597310615553', 'name': 'Entertainment'}}, {'domain': {'id': '46', 'name': 'Brand Category', 'description': 'Categories within Brand Verticals that narrow down the scope of Brands'}, 'entity': {'id': '781974597218340864', 'name': 'Video Games'}}, {'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '10043689888', 'name': 'Minecraft'}}, {'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'annotations': [{'start': 0, 'end': 5, 'probability': 0.3387, 'type': 'Product', 'normalized_text': 'Roblox'}, {'start': 10, 'end': 18, 'probability': 0.5924, 'type': 'Product', 'normalized_text': 'Minecraft'}]}",,False,,everyone,Twitter Web App
+1517104367614242818,1510278645641891841,Royale high cross trade scammer https://t.co/G7My6N53Vj,2022-04-21 11:34:02+00:00,,2,1,3,0,en,1517104367614242818,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1230882318224510978', 'name': 'Royale High'}}]","{'urls': [{'start': 32, 'end': 55, 'url': 'https://t.co/G7My6N53Vj', 'expanded_url': 'https://twitter.com/Dxrling_Ally/status/1517104367614242818/video/1', 'display_url': 'pic.twitter.com/G7My6N53Vj', 'media_key': '7_1517104134729703424'}]}",{'media_keys': ['7_1517104134729703424']},False,,everyone,Twitter Web App
+1530369062827696128,1260561495898894336,Roblox chat 💀 https://t.co/dcCA8fbKQ8,2022-05-28 02:03:12+00:00,,1050,2370,13485,279,en,1530369062827696128,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'urls': [{'start': 14, 'end': 37, 'url': 'https://t.co/dcCA8fbKQ8', 'expanded_url': 'https://twitter.com/DziredRBLX/status/1530369062827696128/photo/1', 'display_url': 'pic.twitter.com/dcCA8fbKQ8', 'media_key': '3_1530369060143259651'}]}",{'media_keys': ['3_1530369060143259651']},False,,everyone,Twitter for iPhone
+1530658803255021569,1324836609741725696,is fortnite or roblox better,2022-05-28 21:14:31+00:00,,0,20,12,0,en,1530658803255021569,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '974285387987169280', 'name': 'Fortnite', 'description': 'This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t'}}, {'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]",,,False,,everyone,Twitter Web App
+1529093514608386050,1350577821102518279,"10 robux #gw  ₊˚ɞ
+
+↝ follow me + @xAliceMoon w 🔔
+↝ like n rt
+
+ੈ♡‧₊˚ extras below",2022-05-24 13:34:37+00:00,,47,39,51,19,en,1529093514608386050,[],"{'hashtags': [{'start': 9, 'end': 12, 'tag': 'gw'}]}",,False,,everyone,Twitter Web App
+1529539689191030784,1417992256364191744,"BLOXHUB BETA IS THIS SATURDAY @ 3 PM EST! 🥳
+
+☀️ All Links: https://t.co/B7gi1HBywM
+
+🏆 HUGE GIVEAWAY:
+- 200k BUCKS
+- 150x MEMBERSHIPS
+- 100k ROBUX
+
+🔔 TO ENTER:
+- RETWEET + LIKE + FOLLOW!
+- Tag 2 people @BloxhubGG @Roblox
+
+#Giveaways #robux #RobloxDev  #Roblox  #robloxgiveaways https://t.co/tcGBj0FkWe",2022-05-25 19:07:34+00:00,,1340,1213,1391,57,en,1529539689191030784,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'urls': [{'start': 59, 'end': 82, 'url': 'https://t.co/B7gi1HBywM', 'expanded_url': 'https://bloxhub.gg/', 'display_url': 'bloxhub.gg', 'images': [{'url': 'https://pbs.twimg.com/news_img/1537745544935882755/zq0265fn?format=jpg&name=orig', 'width': 2000, 'height': 1125}, {'url': 'https://pbs.twimg.com/news_img/1537745544935882755/zq0265fn?format=jpg&name=150x150', 'width': 150, 'height': 150}], 'status': 200, 'title': 'BloxHub', 'description': 'Thoughts, stories and ideas.', 'unwound_url': 'https://bloxhub.gg/'}, {'start': 277, 'end': 300, 'url': 'https://t.co/tcGBj0FkWe', 'expanded_url': 'https://twitter.com/BloxhubGG/status/1529539689191030784/video/1', 'display_url': 'pic.twitter.com/tcGBj0FkWe', 'media_key': '7_1529538425522634754'}], 'mentions': [{'start': 201, 'end': 211, 'username': 'BloxhubGG', 'id': '1417992256364191744'}, {'start': 212, 'end': 219, 'username': 'Roblox', 'id': '16745055'}], 'hashtags': [{'start': 221, 'end': 231, 'tag': 'Giveaways'}, {'start': 232, 'end': 238, 'tag': 'robux'}, {'start': 239, 'end': 249, 'tag': 'RobloxDev'}, {'start': 251, 'end': 258, 'tag': 'Roblox'}, {'start': 260, 'end': 276, 'tag': 'robloxgiveaways'}]}",{'media_keys': ['7_1529538425522634754']},False,,everyone,Twitter Web App
+1530659475899576321,716973427035222021,@itzinfernooo you're right 🙂 https://t.co/XvQBQ22D14,2022-05-28 21:17:11+00:00,,2,12,68,1,en,1530653121331900417,[],"{'urls': [{'start': 29, 'end': 52, 'url': 'https://t.co/XvQBQ22D14', 'expanded_url': 'https://twitter.com/Motionii/status/1530659475899576321/video/1', 'display_url': 'pic.twitter.com/XvQBQ22D14', 'media_key': '7_1530659242880864256'}], 'mentions': [{'start': 0, 'end': 13, 'username': 'itzinfernooo', 'id': '1084127922535964672'}]}",{'media_keys': ['7_1530659242880864256']},False,,everyone,Twitter Web App
+1530657234094628866,2610588099,the collector would love minecraft,2022-05-28 21:08:17+00:00,,19,9,246,0,en,1530657234094628866,"[{'domain': {'id': '45', 'name': 'Brand Vertical', 'description': 'Top level entities that describe a Brands industry'}, 'entity': {'id': '781974597310615553', 'name': 'Entertainment'}}, {'domain': {'id': '46', 'name': 'Brand Category', 'description': 'Categories within Brand Verticals that narrow down the scope of Brands'}, 'entity': {'id': '781974597218340864', 'name': 'Video Games'}}, {'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '10043689888', 'name': 'Minecraft'}}]",,,False,,everyone,Twitter for iPhone
+1530331628156899330,1510991223326138368,"✦——50k #RHD Giveaway!——✦  
+―― Just follow me + our lovely sponsor @luvhNorami 💗
+―― Like + rt
+
+✦——  HC : : 
+Follow 
+@maiidmaria 
+ 
+@aziahaziq 
+ 
+RT with tags
+Be active when you can! I’ll notice if you’re part of my actives 💗
+―― Gl &lt;3 
+
+✦┊ Layout by @♡remisotterland",2022-05-27 23:34:26+00:00,,61,32,60,23,en,1530331628156899330,[],"{'mentions': [{'start': 130, 'end': 140, 'username': 'aziahaziq', 'id': '1495501550436839426'}], 'hashtags': [{'start': 7, 'end': 11, 'tag': 'RHD'}]}",,False,,everyone,Twitter for iPhone
+1530659907976024069,1316090588333305857,@Objectivebitter Wait actually again?,2022-05-28 21:18:55+00:00,,0,1,1,0,en,1530659783438651400,[],"{'mentions': [{'start': 0, 'end': 16, 'username': 'Objectivebitter', 'id': '848641651912388610'}]}",,False,,everyone,Twitter for iPhone
+1529965623534575616,1447417406306062337,"100k #rhd giveaway!! 
+
+•follow me + @aziahaziq + @auroraRH2 w notifs 
+•like + rt 
+
+extras in thread https://t.co/xZ0pfjV099",2022-05-26 23:20:04+00:00,,36,24,41,10,en,1529965623534575616,[],"{'urls': [{'start': 100, 'end': 123, 'url': 'https://t.co/xZ0pfjV099', 'expanded_url': 'https://twitter.com/xAliceMoon/status/1529965623534575616/photo/1', 'display_url': 'pic.twitter.com/xZ0pfjV099', 'media_key': '3_1529965619495460870'}], 'mentions': [{'start': 36, 'end': 46, 'username': 'aziahaziq', 'id': '1495501550436839426'}, {'start': 49, 'end': 59, 'username': 'AuroraRH2', 'id': '1510991223326138368'}], 'hashtags': [{'start': 5, 'end': 9, 'tag': 'rhd'}]}",{'media_keys': ['3_1529965619495460870']},False,,everyone,Twitter for iPhone
+1530659435764383744,1530247574782980096,@PUNKEDLUU 🌟 May I ask what it was?,2022-05-28 21:17:02+00:00,,0,1,0,0,en,1530658518801473537,[],"{'mentions': [{'start': 0, 'end': 10, 'username': 'PUNKEDLUU', 'id': '1479598322709155842'}]}",,False,,everyone,Twitter for iPhone
+1528806695471833093,1092062972908847104,"[#PREVIEW] You can now try playing the K-PARK on Roblox! (Spotify Island)
+
+Here you will find missions to get LALALAY's butterfly item for free and also a parkour effect called ""SUNMI's Effect"". Then in the map you will find a figure who is similar to @miyaohyeah 
+
+#SUNMI #선미 https://t.co/arxdHMZVhT",2022-05-23 18:34:54+00:00,,10,0,34,8,en,1528806695471833093,"[{'domain': {'id': '45', 'name': 'Brand Vertical', 'description': 'Top level entities that describe a Brands industry'}, 'entity': {'id': '781974597310615553', 'name': 'Entertainment'}}, {'domain': {'id': '46', 'name': 'Brand Category', 'description': 'Categories within Brand Verticals that narrow down the scope of Brands'}, 'entity': {'id': '781974597222535168', 'name': 'Online Services'}}, {'domain': {'id': '47', 'name': 'Brand', 'description': 'Brands and Companies'}, 'entity': {'id': '10040276669', 'name': 'Spotify'}}, {'domain': {'id': '67', 'name': 'Interests and Hobbies', 'description': 'Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks'}, 'entity': {'id': '1288826829634035714', 'name': 'Backstage'}}, {'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'annotations': [{'start': 49, 'end': 54, 'probability': 0.368, 'type': 'Product', 'normalized_text': 'Roblox'}, {'start': 178, 'end': 182, 'probability': 0.4614, 'type': 'Person', 'normalized_text': 'SUNMI'}], 'urls': [{'start': 277, 'end': 300, 'url': 'https://t.co/arxdHMZVhT', 'expanded_url': 'https://twitter.com/Sunmi_Union/status/1528806695471833093/video/1', 'display_url': 'pic.twitter.com/arxdHMZVhT', 'media_key': '7_1528806434988777473'}], 'mentions': [{'start': 252, 'end': 263, 'username': 'miyaohyeah', 'id': '2347170860'}], 'hashtags': [{'start': 1, 'end': 9, 'tag': 'PREVIEW'}, {'start': 266, 'end': 272, 'tag': 'SUNMI'}, {'start': 273, 'end': 276, 'tag': '선미'}]}",{'media_keys': ['7_1528806434988777473']},False,,everyone,Twitter for Android
+1530657101919420416,2850532049,OKAY WHAT IS THAT ITS HUGE WTF https://t.co/wHgkar3Jz9,2022-05-28 21:07:45+00:00,,86,446,6612,15,en,1530656566231322625,[],"{'urls': [{'start': 31, 'end': 54, 'url': 'https://t.co/wHgkar3Jz9', 'expanded_url': 'https://twitter.com/AlbertsStuff/status/1530657101919420416/photo/1', 'display_url': 'pic.twitter.com/wHgkar3Jz9', 'media_key': '3_1530657097922367491'}]}",{'media_keys': ['3_1530657097922367491']},False,,everyone,Twitter for iPhone
+1530311095969259522,1428534152916316162,"If You Could Delete One Game On Roblox, What Would You Delete?",2022-05-27 22:12:51+00:00,,30,807,911,17,en,1530311095969259522,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]",,,False,,everyone,Twitter Web App
+1530551545972023297,1416727114087346177,"I'm looking for a Roblox animator, someone who can make a cool looking intro with some custom models that I will personally send to you to use for the animation, if you're interested lmk, It'll be a payed job 🤑🤑
+
+#Roblox #RobloxDev #robloxanimation #robloxart",2022-05-28 14:08:19+00:00,,5,30,29,0,en,1530551545972023297,"[{'domain': {'id': '65', 'name': 'Interests and Hobbies Vertical', 'description': 'Top level interests and hobbies groupings, like Food or Travel'}, 'entity': {'id': '1280550787207147521', 'name': 'Arts & culture'}}, {'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'annotations': [{'start': 18, 'end': 23, 'probability': 0.4416, 'type': 'Product', 'normalized_text': 'Roblox'}], 'hashtags': [{'start': 213, 'end': 220, 'tag': 'Roblox'}, {'start': 221, 'end': 231, 'tag': 'RobloxDev'}, {'start': 232, 'end': 248, 'tag': 'robloxanimation'}, {'start': 249, 'end': 259, 'tag': 'robloxart'}]}",,False,,everyone,Twitter for Android
+1528893835652255745,1447417406306062337,"Dream halo giveaway
+
+-follow me + @MoonTulpa 
+-like + rt
+-comment dream halo
+extras in thread https://t.co/clT8PUPnDU",2022-05-24 00:21:10+00:00,,166,160,171,52,en,1528893835652255745,[],"{'urls': [{'start': 94, 'end': 117, 'url': 'https://t.co/clT8PUPnDU', 'expanded_url': 'https://twitter.com/xAliceMoon/status/1528893835652255745/photo/1', 'display_url': 'pic.twitter.com/clT8PUPnDU', 'media_key': '3_1528893369719607297'}], 'mentions': [{'start': 34, 'end': 44, 'username': 'MoonTulpa', 'id': '1439283361948831745'}]}",{'media_keys': ['3_1528893369719607297']},False,,everyone,Twitter Web App
+1530412191123664896,1521856004195221504,@DziredRBLX And I get banned for 3 days just by saying [you wanna play a sim?],2022-05-28 04:54:34+00:00,,0,2,3,0,en,1530369062827696128,[],"{'mentions': [{'start': 0, 'end': 11, 'username': 'DziredRBLX', 'id': '1260561495898894336'}]}",,False,,everyone,Twitter for iPad
+1530649456613281792,1355340075047944194,NAWWW NOT ANOTHER LAWSUIT COMING UP https://t.co/yccDCAL1Wc,2022-05-28 20:37:23+00:00,,39,75,1101,12,en,1530649456613281792,[],"{'urls': [{'start': 36, 'end': 59, 'url': 'https://t.co/yccDCAL1Wc', 'expanded_url': 'https://twitter.com/deltafosho/status/1530649456613281792/photo/1', 'display_url': 'pic.twitter.com/yccDCAL1Wc', 'media_key': '3_1530648555689418752'}]}",{'media_keys': ['3_1530648555689418752']},False,,everyone,Twitter Web App
+1530546935488294913,1280632147343216641,"$5,000 Roblox Robux Card Giveaway
+
+HOW TO ENTER: 
+1 - Like + Retweet
+2 - Follow @plebcy
+3 - Reply “Roblox”
+
+[ENDS IN A 3 DAYS] #Giveaways #robux #RobloxDev #Roblox #robloxgiveaways #robloxgiveaway #robloxar https://t.co/duKeSV5zb3",2022-05-28 13:50:00+00:00,,368,412,478,5,en,1530546935488294913,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'urls': [{'start': 207, 'end': 230, 'url': 'https://t.co/duKeSV5zb3', 'expanded_url': 'https://twitter.com/plebcy/status/1530546935488294913/photo/1', 'display_url': 'pic.twitter.com/duKeSV5zb3', 'media_key': '3_1530310997256417281'}], 'mentions': [{'start': 80, 'end': 87, 'username': 'plebcy', 'id': '1280632147343216641'}], 'hashtags': [{'start': 127, 'end': 137, 'tag': 'Giveaways'}, {'start': 138, 'end': 144, 'tag': 'robux'}, {'start': 145, 'end': 155, 'tag': 'RobloxDev'}, {'start': 156, 'end': 163, 'tag': 'Roblox'}, {'start': 164, 'end': 180, 'tag': 'robloxgiveaways'}, {'start': 181, 'end': 196, 'tag': 'robloxgiveaway'}, {'start': 197, 'end': 206, 'tag': 'robloxar'}]}",{'media_keys': ['3_1530310997256417281']},False,,everyone,Twitter Web App
+1530629423006896130,1513861074424147974,"♡︎DREAM PET GIVEAWAY♡︎
+——
+Rules: 
+-Follow me and @mittensnote with 🔔
+-Like &amp; rt
+-comment ur dp!
+(not like a frost plz💔)
+Extras:
+-Tag friends
+-Qrt
+-follow @formrmitt and @6f33tundr 
+——
+*ENDS AT 50+ ENTRYS ONLY*
+#Adoptme #adoptmegw #adoptmegiveaway #dreampet #robloxgiveaway",2022-05-28 19:17:46+00:00,,59,56,64,28,en,1530629423006896130,[],"{'mentions': [{'start': 49, 'end': 61, 'username': 'mittensnote', 'id': '1524115712897298434'}, {'start': 173, 'end': 183, 'username': '6f33tundr', 'id': '1525809313608081409'}], 'hashtags': [{'start': 214, 'end': 222, 'tag': 'Adoptme'}, {'start': 223, 'end': 233, 'tag': 'adoptmegw'}, {'start': 234, 'end': 250, 'tag': 'adoptmegiveaway'}, {'start': 251, 'end': 260, 'tag': 'dreampet'}, {'start': 261, 'end': 276, 'tag': 'robloxgiveaway'}]}",,False,,mentionedUsers,Twitter for iPad
+1530623940359495683,4390006709,"LMAO
+
+Throwback to 2017 when I asked @Roblox to follow me 😂😭💀
+And here we are with a follow and some un-read messages 😎🙌 https://t.co/zmUqv6lonR",2022-05-28 18:55:59+00:00,,10,12,222,0,en,1530623940359495683,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'urls': [{'start': 121, 'end': 144, 'url': 'https://t.co/zmUqv6lonR', 'expanded_url': 'https://twitter.com/RBLXcrackop/status/1530623940359495683/photo/1', 'display_url': 'pic.twitter.com/zmUqv6lonR', 'media_key': '3_1530623430189514754'}, {'start': 121, 'end': 144, 'url': 'https://t.co/zmUqv6lonR', 'expanded_url': 'https://twitter.com/RBLXcrackop/status/1530623940359495683/photo/1', 'display_url': 'pic.twitter.com/zmUqv6lonR', 'media_key': '3_1530623823858614277'}], 'mentions': [{'start': 37, 'end': 44, 'username': 'Roblox', 'id': '16745055'}]}","{'media_keys': ['3_1530623430189514754', '3_1530623823858614277']}",False,,everyone,Twitter Web App
+1528872822193664000,1447417406306062337,"mystery halo surprise dm 
+
+•follow me + @MoonTulpa 
+•like + rt 
+•comment 
+
+ends: when I’m not broke 
+extras in thread",2022-05-23 22:57:40+00:00,,189,166,197,62,en,1528872822193664000,[],"{'mentions': [{'start': 40, 'end': 50, 'username': 'MoonTulpa', 'id': '1439283361948831745'}]}",,False,,everyone,Twitter for iPhone
+1530610664296787969,3410449274,"I LOVE THIS MAP SO MUCH 😍, it would mean a lot if you checked it out :) The team absolutely crushed this one out SO fast.
+
+6621-3644-6946
+#FortniteCreative @FNCreate https://t.co/Gz8pydmWJK",2022-05-28 18:03:14+00:00,,1,3,75,1,en,1530610664296787969,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '974285387987169280', 'name': 'Fortnite', 'description': 'This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t'}}]","{'urls': [{'start': 166, 'end': 189, 'url': 'https://t.co/Gz8pydmWJK', 'expanded_url': 'https://twitter.com/PWRCreate/status/1530610095956041730', 'display_url': 'twitter.com/PWRCreate/stat…'}], 'mentions': [{'start': 156, 'end': 165, 'username': 'FNCreate', 'id': '1184836053548634114'}], 'hashtags': [{'start': 138, 'end': 155, 'tag': 'FortniteCreative'}]}",,False,,everyone,Twitter Web App
+1530396654565830657,1460229245700120579,@ocwcss4l It’s so….,2022-05-28 03:52:50+00:00,,0,1,1,0,en,1530376122160099328,[],,,False,,everyone,Twitter for iPhone
+1528891520656773120,1447417406306062337,"50,000 #RHD giveaway
+-follow me + @AllieSlays_ w notifs
+-like + rt
+extras in thread https://t.co/LvoXNywCOs",2022-05-24 00:11:58+00:00,,120,89,120,29,en,1528891520656773120,[],"{'urls': [{'start': 84, 'end': 107, 'url': 'https://t.co/LvoXNywCOs', 'expanded_url': 'https://twitter.com/xAliceMoon/status/1528891520656773120/photo/1', 'display_url': 'pic.twitter.com/LvoXNywCOs', 'media_key': '3_1528891106305490945'}], 'mentions': [{'start': 34, 'end': 46, 'username': 'AllieSlays_', 'id': '1450208643601911810'}], 'hashtags': [{'start': 7, 'end': 11, 'tag': 'RHD'}]}",{'media_keys': ['3_1528891106305490945']},False,,mentionedUsers,Twitter Web App
+1530657495601094664,778450189627498496,"10,000 Robux Giveaway!
+
+HOW TO ENTER:
+Follow @VuxxVuxx
+Like + Retweet
+Reply “Vux”
+
+Winner picked this Monday. Good luck! https://t.co/GE49QFHOsR",2022-05-28 21:09:19+00:00,,1098,1455,1449,17,en,1530657495601094664,[],"{'urls': [{'start': 121, 'end': 144, 'url': 'https://t.co/GE49QFHOsR', 'expanded_url': 'https://twitter.com/VuxxVuxx/status/1530657495601094664/photo/1', 'display_url': 'pic.twitter.com/GE49QFHOsR', 'media_key': '3_1530657491499065347'}], 'mentions': [{'start': 45, 'end': 54, 'username': 'VuxxVuxx', 'id': '778450189627498496'}]}",{'media_keys': ['3_1530657491499065347']},False,,everyone,Twitter for iPhone
+1530656566231322625,2850532049,THERES A WASP IN MY OFFICE NO VIDEOS EVER AGAIN,2022-05-28 21:05:38+00:00,,301,395,10028,21,en,1530656566231322625,[],,,False,,everyone,Twitter for iPhone
+1530656597046870021,1447417406306062337,"100,000 Rhd giveaway 
+
+•follow me + @justcrosstrades w notifs 
+•like + rt 
+
+Extras in thread https://t.co/UEhR5Buim6",2022-05-28 21:05:45+00:00,,54,38,54,15,en,1530656597046870021,[],"{'urls': [{'start': 93, 'end': 116, 'url': 'https://t.co/UEhR5Buim6', 'expanded_url': 'https://twitter.com/xAliceMoon/status/1530656597046870021/photo/1', 'display_url': 'pic.twitter.com/UEhR5Buim6', 'media_key': '3_1530656592387002368'}], 'mentions': [{'start': 36, 'end': 52, 'username': 'justcrosstrades', 'id': '1365846170065637378'}]}",{'media_keys': ['3_1530656592387002368']},False,,everyone,Twitter for iPhone

@@ -1,0 +1,411 @@
+tweetid,author_id,text,created_at,geo,retweets,replies,likes,quote_count,lang,conversation_id,context_annotations,entities,attachments,possibly_sensitive,withheld,reply_settings,source
+1531314019369377792,1232444908151201792,"@Roblox_RTC I never even knew meep city had a Twitter page, glad that this wasn’t the official one then lol",2022-05-30 16:38:07+00:00,,0,0,0,0,en,1531290328866689027,"[{'domain': {'id': '46', 'name': 'Brand Category', 'description': 'Categories within Brand Verticals that narrow down the scope of Brands'}, 'entity': {'id': '781974596752842752', 'name': 'Services'}}, {'domain': {'id': '47', 'name': 'Brand', 'description': 'Brands and Companies'}, 'entity': {'id': '10045225402', 'name': 'Twitter'}}]","{'annotations': [{'start': 46, 'end': 52, 'probability': 0.7531, 'type': 'Product', 'normalized_text': 'Twitter'}], 'mentions': [{'start': 0, 'end': 11, 'username': 'Roblox_RTC', 'id': '1056053249470541824'}]}",,False,,everyone,Twitter for iPad
+1531314014927585280,1477641247661637633,"Item: Neon Green Beautiful Hair
+Deal: 34%
+Price: 8500
+
+Rap: 9083
+Value: 13000
+
+https://t.co/s2cgT7dM0w
+
+#roblox #robloxtrading",2022-05-30 16:38:06+00:00,,1,0,0,0,en,1531314014927585280,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'annotations': [{'start': 6, 'end': 35, 'probability': 0.5416, 'type': 'Product', 'normalized_text': 'Neon Green Beautiful Hair Deal'}], 'hashtags': [{'start': 104, 'end': 111, 'tag': 'roblox'}, {'start': 112, 'end': 126, 'tag': 'robloxtrading'}], 'urls': [{'start': 79, 'end': 102, 'url': 'https://t.co/s2cgT7dM0w', 'expanded_url': 'https://www.roblox.com/catalog/151786902/Neon-Green-Beautiful-Hair', 'display_url': 'roblox.com/catalog/151786…'}]}",,False,,everyone,Watchfox Roblox Limited Deals
+1531314007574978560,1477641247661637633,"Item: Supa Dupa Fly Cap
+Deal: 34%
+Price: 33000
+
+Rap: 36620
+Value: 50000
+
+https://t.co/nD67IgSBy6
+
+#roblox #robloxtrading",2022-05-30 16:38:04+00:00,,0,0,0,0,ht,1531314007574978560,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'hashtags': [{'start': 98, 'end': 105, 'tag': 'roblox'}, {'start': 106, 'end': 120, 'tag': 'robloxtrading'}], 'urls': [{'start': 73, 'end': 96, 'url': 'https://t.co/nD67IgSBy6', 'expanded_url': 'https://www.roblox.com/catalog/1609401184/Supa-Dupa-Fly-Cap', 'display_url': 'roblox.com/catalog/160940…'}]}",,False,,everyone,Watchfox Roblox Limited Deals
+1531313986230276100,1477641247661637633,"Item: Bucket
+Deal: 30%
+Price: 10500
+
+Rap: 10637
+Value: 15000
+
+https://t.co/IX0XDLG8kI
+
+#roblox #robloxtrading",2022-05-30 16:37:59+00:00,,0,0,0,0,en,1531313986230276100,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'hashtags': [{'start': 87, 'end': 94, 'tag': 'roblox'}, {'start': 95, 'end': 109, 'tag': 'robloxtrading'}], 'urls': [{'start': 62, 'end': 85, 'url': 'https://t.co/IX0XDLG8kI', 'expanded_url': 'https://www.roblox.com/catalog/1081239/Bucket', 'display_url': 'roblox.com/catalog/108123…'}]}",,False,,everyone,Watchfox Roblox Limited Deals
+1531313981314543617,1345539552811905024,@eresasu9 @AntuTumor @ryujingatito pasa roblox y jugamos,2022-05-30 16:37:58+00:00,,0,1,0,0,es,1531077589481168897,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'mentions': [{'start': 0, 'end': 9, 'username': 'eresasu9', 'id': '1414672861130809346'}, {'start': 10, 'end': 20, 'username': 'AntuTumor', 'id': '1226732215775744000'}, {'start': 21, 'end': 34, 'username': 'ryujingatito', 'id': '1451285016877666305'}]}",,False,,everyone,Twitter for Android
+1531313973005635589,635151227,ROBLOX SALE OFFICaLLY BACK,2022-05-30 16:37:56+00:00,,0,0,2,0,en,1531313973005635589,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]",,,False,,everyone,Twitter Web App
+1531313965002792961,1477641247661637633,"Item: Neon Green Beautiful Hair
+Deal: 38%
+Price: 8000
+
+Rap: 9083
+Value: 13000
+
+https://t.co/s2cgT7dM0w
+
+#roblox #robloxtrading",2022-05-30 16:37:54+00:00,,0,0,0,0,en,1531313965002792961,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'annotations': [{'start': 6, 'end': 35, 'probability': 0.6459, 'type': 'Product', 'normalized_text': 'Neon Green Beautiful Hair Deal'}], 'hashtags': [{'start': 104, 'end': 111, 'tag': 'roblox'}, {'start': 112, 'end': 126, 'tag': 'robloxtrading'}], 'urls': [{'start': 79, 'end': 102, 'url': 'https://t.co/s2cgT7dM0w', 'expanded_url': 'https://www.roblox.com/catalog/151786902/Neon-Green-Beautiful-Hair', 'display_url': 'roblox.com/catalog/151786…'}]}",,False,,everyone,Watchfox Roblox Limited Deals
+1531313957662867457,1477641247661637633,"Item: Bucket
+Deal: 40%
+Price: 9000
+
+Rap: 10637
+Value: 15000
+
+https://t.co/IX0XDLG8kI
+
+#roblox #robloxtrading",2022-05-30 16:37:52+00:00,,0,0,0,0,en,1531313957662867457,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'hashtags': [{'start': 86, 'end': 93, 'tag': 'roblox'}, {'start': 94, 'end': 108, 'tag': 'robloxtrading'}], 'urls': [{'start': 61, 'end': 84, 'url': 'https://t.co/IX0XDLG8kI', 'expanded_url': 'https://www.roblox.com/catalog/1081239/Bucket', 'display_url': 'roblox.com/catalog/108123…'}]}",,False,,everyone,Watchfox Roblox Limited Deals
+1531313944555622403,1278873543351164929,"I'm trading MC set, DV set &amp; SF skates for mm2 godlies! Ngf but I have pinned proofs, and I'm still trying to collect more! Dm me if needed :D #royalehigh #royalehightrades #royalehightrading #Mm2trades #Roblox",2022-05-30 16:37:49+00:00,,0,0,0,0,en,1531313944555622403,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}, {'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1230882318224510978', 'name': 'Royale High'}}]","{'hashtags': [{'start': 147, 'end': 158, 'tag': 'royalehigh'}, {'start': 159, 'end': 176, 'tag': 'royalehightrades'}, {'start': 177, 'end': 195, 'tag': 'royalehightrading'}, {'start': 196, 'end': 206, 'tag': 'Mm2trades'}, {'start': 207, 'end': 214, 'tag': 'Roblox'}]}",,False,,everyone,Twitter Web App
+1531313917825191936,1432886713546772487,"Do you guys think the Memorial Day sell will happen today?🤨
+Let’s hear your opinions 
+#MemorialDay #Memorial 
+#roblox #robloxsale",2022-05-30 16:37:43+00:00,,0,0,1,0,en,1531313917825191936,"[{'domain': {'id': '29', 'name': 'Events [Entity Service]', 'description': 'Entity Service related Events domain'}, 'entity': {'id': '1240941899902357510', 'name': 'Memorial Day ', 'description': 'This entity for Memorial day for all years'}}, {'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}, {'domain': {'id': '119', 'name': 'Holiday', 'description': 'Holidays like Christmas or Halloween'}, 'entity': {'id': '1240941899902357510', 'name': 'Memorial Day ', 'description': 'This entity for Memorial day for all years'}}, {'domain': {'id': '29', 'name': 'Events [Entity Service]', 'description': 'Entity Service related Events domain'}, 'entity': {'id': '1527410191876038657', 'name': 'Memorial Day is observed on May 30', 'description': 'The following Tweets are part of a live conversation detected by an algorithm.'}}]","{'annotations': [{'start': 22, 'end': 33, 'probability': 0.7585, 'type': 'Other', 'normalized_text': 'Memorial Day'}], 'hashtags': [{'start': 86, 'end': 98, 'tag': 'MemorialDay'}, {'start': 99, 'end': 108, 'tag': 'Memorial'}, {'start': 110, 'end': 117, 'tag': 'roblox'}, {'start': 118, 'end': 129, 'tag': 'robloxsale'}]}",,False,,everyone,Twitter for iPhone
+1531313915493134336,1484373766301835270,"well guys, this is it. memorials day is officially starting??https://t.co/giGUlrSxaO #Roblox   #RobloxDevs #RobloxDev #robloxmemorialsdaysale",2022-05-30 16:37:42+00:00,,0,0,0,0,en,1531313915493134336,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'hashtags': [{'start': 85, 'end': 92, 'tag': 'Roblox'}, {'start': 95, 'end': 106, 'tag': 'RobloxDevs'}, {'start': 107, 'end': 117, 'tag': 'RobloxDev'}, {'start': 118, 'end': 141, 'tag': 'robloxmemorialsdaysale'}], 'urls': [{'start': 61, 'end': 84, 'url': 'https://t.co/giGUlrSxaO', 'expanded_url': 'https://www.roblox.com/catalog/477860473/BIG-Silverthorn-Antlers', 'display_url': 'roblox.com/catalog/477860…'}]}",,False,,everyone,Twitter Web App
+1531313879510224897,1425303814991609857,ban her pls she is very toxic and online dater @Roblox_RTC https://t.co/spKraN8JQy,2022-05-30 16:37:33+00:00,,0,0,0,1,en,1531313879510224897,[],"{'urls': [{'start': 59, 'end': 82, 'url': 'https://t.co/spKraN8JQy', 'expanded_url': 'https://twitter.com/Sashkie3/status/1531313879510224897/photo/1', 'display_url': 'pic.twitter.com/spKraN8JQy', 'media_key': '3_1531313792683892737'}], 'mentions': [{'start': 47, 'end': 58, 'username': 'Roblox_RTC', 'id': '1056053249470541824'}]}",{'media_keys': ['3_1531313792683892737']},False,,everyone,Twitter Web App
+1531313865270640644,1362503120622915592,WHY CANT I UPLOAD A SONG I MADE TO ROBLOX?!?,2022-05-30 16:37:30+00:00,,0,1,1,0,en,1531313865270640644,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'annotations': [{'start': 35, 'end': 40, 'probability': 0.38, 'type': 'Product', 'normalized_text': 'ROBLOX'}]}",,False,,everyone,Twitter for iPhone
+1531313845792231425,3140298823,@eriyaaa_1485 Matic sipag talaga ate😭 pero napansin ko rin 'yung Roblox👀🫶🏻,2022-05-30 16:37:25+00:00,,0,1,1,0,tl,1531309276740075521,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'mentions': [{'start': 0, 'end': 13, 'username': 'eriyaaa_1485', 'id': '1523883297629110273'}]}",,False,,everyone,Twitter for Android
+1531313833398382592,1469618147862872064,"@CherryIsTaken2 @Roblox_RTC , 🥲",2022-05-30 16:37:22+00:00,,0,0,0,0,und,1531216266496724994,[],"{'mentions': [{'start': 0, 'end': 15, 'username': 'CherryIsTaken2', 'id': '1453687291654836224'}, {'start': 16, 'end': 27, 'username': 'Roblox_RTC', 'id': '1056053249470541824'}]}",,False,,everyone,Twitter for Android
+1531313814876172290,1477641247661637633,"Item: Adurite Antlers
+Deal: 33%
+Price: 15999
+
+Rap: 15964
+Value: 24000
+
+https://t.co/1hFfnPZvl4
+
+#roblox #robloxtrading",2022-05-30 16:37:18+00:00,,0,0,0,0,en,1531313814876172290,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'annotations': [{'start': 6, 'end': 25, 'probability': 0.5693, 'type': 'Product', 'normalized_text': 'Adurite Antlers Deal'}], 'hashtags': [{'start': 96, 'end': 103, 'tag': 'roblox'}, {'start': 104, 'end': 118, 'tag': 'robloxtrading'}], 'urls': [{'start': 71, 'end': 94, 'url': 'https://t.co/1hFfnPZvl4', 'expanded_url': 'https://www.roblox.com/catalog/162066057/Adurite-Antlers', 'display_url': 'roblox.com/catalog/162066…'}]}",,False,,everyone,Watchfox Roblox Limited Deals
+1531313793552326656,1477641247661637633,"Item: New York
+Deal: 39%
+Price: 1500
+
+Rap: 2471
+Value: 2471
+
+https://t.co/0dIDwwd2IJ
+
+#roblox #robloxtrading",2022-05-30 16:37:13+00:00,,0,0,0,0,en,1531313793552326656,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'annotations': [{'start': 6, 'end': 13, 'probability': 0.4886, 'type': 'Organization', 'normalized_text': 'New York'}], 'hashtags': [{'start': 86, 'end': 93, 'tag': 'roblox'}, {'start': 94, 'end': 108, 'tag': 'robloxtrading'}], 'urls': [{'start': 61, 'end': 84, 'url': 'https://t.co/0dIDwwd2IJ', 'expanded_url': 'https://www.roblox.com/catalog/125861106/New-York', 'display_url': 'roblox.com/catalog/125861…'}]}",,False,,everyone,Watchfox Roblox Limited Deals
+1531313773914505217,1181717134075944960,@Ragecat568_ @TwitterSupport @Haminations Now you lost your Roblox privileges,2022-05-30 16:37:08+00:00,,0,1,0,0,en,1531126649047379968,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'annotations': [{'start': 60, 'end': 65, 'probability': 0.4979, 'type': 'Product', 'normalized_text': 'Roblox'}], 'mentions': [{'start': 13, 'end': 28, 'username': 'TwitterSupport', 'id': '17874544'}, {'start': 29, 'end': 41, 'username': 'Haminations', 'id': '907602970342178817'}]}",,False,,everyone,Twitter for iPhone
+1531313751596711936,1036276553074835456,@itz_redfirebox @gucci https://t.co/dGkdOHnOZn you can get it with gems in the Gucci Town game!,2022-05-30 16:37:03+00:00,,1,1,2,0,en,1531288940581363714,"[{'domain': {'id': '46', 'name': 'Brand Category', 'description': 'Categories within Brand Verticals that narrow down the scope of Brands'}, 'entity': {'id': '781974596807299072', 'name': 'Apparel/Accessories'}}, {'domain': {'id': '47', 'name': 'Brand', 'description': 'Brands and Companies'}, 'entity': {'id': '1266401847104827392', 'name': 'Gucci'}}, {'domain': {'id': '65', 'name': 'Interests and Hobbies Vertical', 'description': 'Top level interests and hobbies groupings, like Food or Travel'}, 'entity': {'id': '1256236649253449729', 'name': 'Fashion & beauty'}}, {'domain': {'id': '67', 'name': 'Interests and Hobbies', 'description': 'Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks'}, 'entity': {'id': '839543390668673024', 'name': 'Fashion'}}]","{'annotations': [{'start': 79, 'end': 88, 'probability': 0.5535, 'type': 'Product', 'normalized_text': 'Gucci Town'}], 'urls': [{'start': 23, 'end': 46, 'url': 'https://t.co/dGkdOHnOZn', 'expanded_url': 'https://www.roblox.com/catalog/9731019453/Gucci-Hair-Piece-1', 'display_url': 'roblox.com/catalog/973101…'}], 'mentions': [{'start': 0, 'end': 15, 'username': 'itz_redfirebox', 'id': '1219013710494273536'}, {'start': 16, 'end': 22, 'username': 'gucci', 'id': '16913418'}]}",,False,,everyone,Twitter for iPhone
+1531313743640109057,1477641247661637633,"Item: Catching Snowflakes
+Deal: 32%
+Price: 19000
+
+Rap: 20407
+Value: 28000
+
+https://t.co/7wY89MItGp
+
+#roblox #robloxtrading",2022-05-30 16:37:01+00:00,,1,0,1,0,en,1531313743640109057,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'hashtags': [{'start': 100, 'end': 107, 'tag': 'roblox'}, {'start': 108, 'end': 122, 'tag': 'robloxtrading'}], 'urls': [{'start': 75, 'end': 98, 'url': 'https://t.co/7wY89MItGp', 'expanded_url': 'https://www.roblox.com/catalog/1213472762/Catching-Snowflakes', 'display_url': 'roblox.com/catalog/121347…'}]}",,False,,everyone,Watchfox Roblox Limited Deals
+1531313729194930181,1477641247661637633,"Item: Catching Snowflakes
+Deal: 32%
+Price: 18999
+
+Rap: 20407
+Value: 28000
+
+https://t.co/7wY89MItGp
+
+#roblox #robloxtrading",2022-05-30 16:36:58+00:00,,0,0,0,0,en,1531313729194930181,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'hashtags': [{'start': 100, 'end': 107, 'tag': 'roblox'}, {'start': 108, 'end': 122, 'tag': 'robloxtrading'}], 'urls': [{'start': 75, 'end': 98, 'url': 'https://t.co/7wY89MItGp', 'expanded_url': 'https://www.roblox.com/catalog/1213472762/Catching-Snowflakes', 'display_url': 'roblox.com/catalog/121347…'}]}",,False,,everyone,Watchfox Roblox Limited Deals
+1531313693459419137,1477641247661637633,"Item: Bombastic Shutter Shades
+Deal: 44%
+Price: 1750
+
+Rap: 3173
+Value: 3173
+
+https://t.co/mDIyO7RHQC
+
+#roblox #robloxtrading",2022-05-30 16:36:49+00:00,,0,0,0,0,en,1531313693459419137,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'hashtags': [{'start': 102, 'end': 109, 'tag': 'roblox'}, {'start': 110, 'end': 124, 'tag': 'robloxtrading'}], 'urls': [{'start': 77, 'end': 100, 'url': 'https://t.co/mDIyO7RHQC', 'expanded_url': 'https://www.roblox.com/catalog/190247723/Bombastic-Shutter-Shades', 'display_url': 'roblox.com/catalog/190247…'}]}",,False,,everyone,Watchfox Roblox Limited Deals
+1531313682784960515,1200954966162255882,"Roblox is going CRAZY on limited items! My RAP is constantly increasing because of all the rare items I have.
+
+The Silverhorn Antlers just went limited after being offsale for some years. I'm waiting to watch the price skyrocket from the extremely high demand it has.",2022-05-30 16:36:47+00:00,,0,0,2,0,en,1531313682784960515,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'annotations': [{'start': 0, 'end': 5, 'probability': 0.399, 'type': 'Organization', 'normalized_text': 'Roblox'}, {'start': 115, 'end': 132, 'probability': 0.3085, 'type': 'Product', 'normalized_text': 'Silverhorn Antlers'}]}",,False,,everyone,Twitter for iPhone
+1531313672127143941,1477641247661637633,"Item: Pi RAIG Table
+Deal: 31%
+Price: 777
+
+Rap: 1134
+Value: 1134
+
+https://t.co/0uWhPNNJhB
+
+#roblox #robloxtrading",2022-05-30 16:36:44+00:00,,0,0,0,0,en,1531313672127143941,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'annotations': [{'start': 6, 'end': 23, 'probability': 0.486, 'type': 'Product', 'normalized_text': 'Pi RAIG Table Deal'}], 'hashtags': [{'start': 90, 'end': 97, 'tag': 'roblox'}, {'start': 98, 'end': 112, 'tag': 'robloxtrading'}], 'urls': [{'start': 65, 'end': 88, 'url': 'https://t.co/0uWhPNNJhB', 'expanded_url': 'https://www.roblox.com/catalog/148791414/Pi-RAIG-Table', 'display_url': 'roblox.com/catalog/148791…'}]}",,False,,everyone,Watchfox Roblox Limited Deals
+1531313644306419714,1264400209997697031,"@Roblox_RTC_BR Querer comprar eu até quero, pera... n sou rico😔",2022-05-30 16:36:37+00:00,,0,0,0,0,pt,1531313327200251906,[],"{'mentions': [{'start': 0, 'end': 14, 'username': 'Roblox_RTC_BR', 'id': '1417587809502826500'}]}",,False,,everyone,Twitter for Android
+1531313635792146433,1340881932918214657,@jeremaikoI free epic roblox giveaway when,2022-05-30 16:36:35+00:00,,0,2,0,0,en,1531312563668934656,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'mentions': [{'start': 0, 'end': 11, 'username': 'jeremaikoI', 'id': '1506237398392336386'}]}",,False,,everyone,Twitter for Android
+1531313633715699713,1531313293868118018,Roblox plane crazy competition,2022-05-30 16:36:35+00:00,,0,0,0,0,en,1531313633715699713,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'annotations': [{'start': 0, 'end': 5, 'probability': 0.3095, 'type': 'Organization', 'normalized_text': 'Roblox'}]}",,False,,everyone,Twitter Web App
+1531313622424727552,1477641247661637633,"Item: The Axe of Undoing: A Walmart Exclusive
+Deal: 30%
+Price: 1300
+
+Rap: 1883
+Value: 1883
+
+https://t.co/Cc2G1v2djw
+
+#roblox #robloxtrading",2022-05-30 16:36:32+00:00,,0,0,0,0,en,1531313622424727552,"[{'domain': {'id': '45', 'name': 'Brand Vertical', 'description': 'Top level entities that describe a Brands industry'}, 'entity': {'id': '781974596706635776', 'name': 'Retail'}}, {'domain': {'id': '46', 'name': 'Brand Category', 'description': 'Categories within Brand Verticals that narrow down the scope of Brands'}, 'entity': {'id': '781974597570732032', 'name': 'Multi-Purpose Department'}}, {'domain': {'id': '47', 'name': 'Brand', 'description': 'Brands and Companies'}, 'entity': {'id': '10026347212', 'name': 'Walmart'}}, {'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'hashtags': [{'start': 117, 'end': 124, 'tag': 'roblox'}, {'start': 125, 'end': 139, 'tag': 'robloxtrading'}], 'urls': [{'start': 92, 'end': 115, 'url': 'https://t.co/Cc2G1v2djw', 'expanded_url': 'https://www.roblox.com/catalog/73799348/The-Axe-of-Undoing-A-Walmart-Exclusive', 'display_url': 'roblox.com/catalog/737993…'}]}",,False,,everyone,Watchfox Roblox Limited Deals
+1531313603822747649,975385661099462658,"BEST GAME EVER IS BACK!! | Loomian Legacy [#1] | #ROBLOX New Series https://t.co/5yHQwPA4OE
+
+What is Roblox?
+
+Roblox offers kids millions of https://t.co/TgsMSDHqxI #loomianlegacy",2022-05-30 16:36:28+00:00,,0,0,0,0,en,1531313603822747649,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'hashtags': [{'start': 49, 'end': 56, 'tag': 'ROBLOX'}, {'start': 165, 'end': 179, 'tag': 'loomianlegacy'}], 'urls': [{'start': 68, 'end': 91, 'url': 'https://t.co/5yHQwPA4OE', 'expanded_url': 'https://www.youtube.com/watch?v=8ET_VRjWRM0', 'display_url': 'youtube.com/watch?v=8ET_VR…'}, {'start': 141, 'end': 164, 'url': 'https://t.co/TgsMSDHqxI', 'expanded_url': 'https://conclud.com/best-game-ever-is-back-loomian-legacy-1-roblox-new-series/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost', 'display_url': 'conclud.com/best-game-ever…'}]}",,False,,everyone,Revive Social App
+1531313572147494913,1477641247661637633,"Item: Perfectly Legitimate Business Hat
+Deal: 32%
+Price: 6799
+
+Rap: 7452
+Value: 10000
+
+https://t.co/OlPqRE6919
+
+#roblox #robloxtrading",2022-05-30 16:36:20+00:00,,2,0,0,0,en,1531313572147494913,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'hashtags': [{'start': 112, 'end': 119, 'tag': 'roblox'}, {'start': 120, 'end': 134, 'tag': 'robloxtrading'}], 'urls': [{'start': 87, 'end': 110, 'url': 'https://t.co/OlPqRE6919', 'expanded_url': 'https://www.roblox.com/catalog/19027209/Perfectly-Legitimate-Business-Hat', 'display_url': 'roblox.com/catalog/190272…'}]}",,False,,everyone,Watchfox Roblox Limited Deals
+1531313531580186624,1518840157738311681,"@baeli_shumi FaceBook 😭 I tried to, had no luck there honestly. I stuck to Roblox at first personally, and for 11 years at this point 🙏",2022-05-30 16:36:11+00:00,,0,0,0,0,en,1531006344764997633,"[{'domain': {'id': '46', 'name': 'Brand Category', 'description': 'Categories within Brand Verticals that narrow down the scope of Brands'}, 'entity': {'id': '781974596752842752', 'name': 'Services'}}, {'domain': {'id': '47', 'name': 'Brand', 'description': 'Brands and Companies'}, 'entity': {'id': '10029202045', 'name': 'Facebook'}}, {'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}, {'domain': {'id': '165', 'name': 'Technology', 'description': 'for individual and types of technology, e.g., food technology, 3D printing'}, 'entity': {'id': '1196446161223028736', 'name': 'Social media'}}]","{'annotations': [{'start': 13, 'end': 20, 'probability': 0.4728, 'type': 'Organization', 'normalized_text': 'FaceBook'}, {'start': 76, 'end': 81, 'probability': 0.3669, 'type': 'Product', 'normalized_text': 'Roblox'}], 'mentions': [{'start': 0, 'end': 12, 'username': 'baeli_shumi', 'id': '1491592813028556805'}]}",,False,,everyone,Twitter for Android
+1531313518703562752,1307446342239698944,"@francis_navarez @Chaseroony bro in 2016 playing this the first time i was deadass like ""NAHH WHAT THE FUCK? ROBLOX CAN RUN THIS?"" important to note i used a shitty old laptop then",2022-05-30 16:36:07+00:00,,0,0,7,0,en,1531087944739500032,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'mentions': [{'start': 0, 'end': 16, 'username': 'francis_navarez', 'id': '1292450924649041920'}, {'start': 17, 'end': 28, 'username': 'Chaseroony', 'id': '1129473457685651458'}]}",,False,,everyone,Twitter for Android
+1531313512227684353,22751024,Answer Four Questions Before Your Brand Jumps On The Metaverse Bandwagon https://t.co/nFhpM8kuY6 @forrester @McProulx #Metaverse #marcom #marketers #marketing #Roblox #brands #adland #agencies #FOMO #MarketingStrategy #purpose #communicatie #reclame #bureaus #CMO @MeetTheMonks,2022-05-30 16:36:06+00:00,,0,0,0,0,en,1531313512227684353,"[{'domain': {'id': '30', 'name': 'Entities [Entity Service]', 'description': 'Entity Service top level domain, every item that is in Entity Service should be in this domain'}, 'entity': {'id': '848920371311001600', 'name': 'Technology', 'description': 'Technology and computing'}}, {'domain': {'id': '66', 'name': 'Interests and Hobbies Category', 'description': 'A grouping of interests and hobbies entities, like Novelty Food or Destinations'}, 'entity': {'id': '857879016971186177', 'name': 'Marketing', 'description': 'Marketing'}}, {'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}, {'domain': {'id': '164', 'name': 'Fields of study', 'description': 'for all fields of study, e.g., futurology, microbiology '}, 'entity': {'id': '1278093262406815744', 'name': 'Fields of study'}}, {'domain': {'id': '165', 'name': 'Technology', 'description': 'for individual and types of technology, e.g., food technology, 3D printing'}, 'entity': {'id': '848920371311001600', 'name': 'Technology', 'description': 'Technology and computing'}}]","{'hashtags': [{'start': 118, 'end': 128, 'tag': 'Metaverse'}, {'start': 129, 'end': 136, 'tag': 'marcom'}, {'start': 137, 'end': 147, 'tag': 'marketers'}, {'start': 148, 'end': 158, 'tag': 'marketing'}, {'start': 159, 'end': 166, 'tag': 'Roblox'}, {'start': 167, 'end': 174, 'tag': 'brands'}, {'start': 175, 'end': 182, 'tag': 'adland'}, {'start': 183, 'end': 192, 'tag': 'agencies'}, {'start': 193, 'end': 198, 'tag': 'FOMO'}, {'start': 199, 'end': 217, 'tag': 'MarketingStrategy'}, {'start': 218, 'end': 226, 'tag': 'purpose'}, {'start': 227, 'end': 240, 'tag': 'communicatie'}, {'start': 241, 'end': 249, 'tag': 'reclame'}, {'start': 250, 'end': 258, 'tag': 'bureaus'}, {'start': 259, 'end': 263, 'tag': 'CMO'}], 'urls': [{'start': 73, 'end': 96, 'url': 'https://t.co/nFhpM8kuY6', 'expanded_url': 'https://bit.ly/3t5OuYm', 'display_url': 'bit.ly/3t5OuYm'}], 'mentions': [{'start': 97, 'end': 107, 'username': 'forrester', 'id': '7712452'}, {'start': 108, 'end': 117, 'username': 'McProulx', 'id': '12075892'}, {'start': 264, 'end': 277, 'username': 'MeetTheMonks', 'id': '18640791'}]}",,False,,everyone,TweetDeck
+1531313510638034944,1486393750062514176,@Roblox_RTC_BR Será que a bighead vai vir?,2022-05-30 16:36:06+00:00,,0,0,0,0,pt,1531313327200251906,[],"{'annotations': [{'start': 26, 'end': 32, 'probability': 0.876, 'type': 'Person', 'normalized_text': 'bighead'}], 'mentions': [{'start': 0, 'end': 14, 'username': 'Roblox_RTC_BR', 'id': '1417587809502826500'}]}",,False,,everyone,Twitter for Android
+1531313469970079746,1060321813304090625,@sfm_txt so we finally arived at the age of roblox nostalgia ?,2022-05-30 16:35:56+00:00,,0,0,0,0,en,1531310796097081344,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'mentions': [{'start': 0, 'end': 8, 'username': 'sfm_txt', 'id': '1377361377896103940'}]}",,False,,everyone,Twitter Web App
+1531313465754886144,1477641247661637633,"Item: Purple Wistful Wink
+Deal: 34%
+Price: 13200
+
+Rap: 13986
+Value: 20000
+
+https://t.co/HBWR8gVTSn
+
+#roblox #robloxtrading",2022-05-30 16:35:55+00:00,,0,0,0,0,en,1531313465754886144,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'annotations': [{'start': 6, 'end': 29, 'probability': 0.5033, 'type': 'Product', 'normalized_text': 'Purple Wistful Wink Deal'}], 'hashtags': [{'start': 100, 'end': 107, 'tag': 'roblox'}, {'start': 108, 'end': 122, 'tag': 'robloxtrading'}], 'urls': [{'start': 75, 'end': 98, 'url': 'https://t.co/HBWR8gVTSn', 'expanded_url': 'https://www.roblox.com/catalog/583722710/Purple-Wistful-Wink', 'display_url': 'roblox.com/catalog/583722…'}]}",,False,,everyone,Watchfox Roblox Limited Deals
+1531313408133550085,1477641247661637633,"Item: Purple Mermaid Princess
+Deal: 31%
+Price: 22000
+
+Rap: 24428
+Value: 32000
+
+https://t.co/PAHGwGMa58
+
+#roblox #robloxtrading",2022-05-30 16:35:41+00:00,,0,0,0,0,en,1531313408133550085,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'annotations': [{'start': 6, 'end': 33, 'probability': 0.7328, 'type': 'Product', 'normalized_text': 'Purple Mermaid Princess Deal'}], 'hashtags': [{'start': 104, 'end': 111, 'tag': 'roblox'}, {'start': 112, 'end': 126, 'tag': 'robloxtrading'}], 'urls': [{'start': 79, 'end': 102, 'url': 'https://t.co/PAHGwGMa58', 'expanded_url': 'https://www.roblox.com/catalog/1428424821/Purple-Mermaid-Princess', 'display_url': 'roblox.com/catalog/142842…'}]}",,False,,everyone,Watchfox Roblox Limited Deals
+1531313384620277762,1036276553074835456,@audrelyns @gucci you can unlock the hair with gems in here: https://t.co/zBqQgOvCUV,2022-05-30 16:35:35+00:00,,0,1,2,0,en,1531288940581363714,"[{'domain': {'id': '46', 'name': 'Brand Category', 'description': 'Categories within Brand Verticals that narrow down the scope of Brands'}, 'entity': {'id': '781974596807299072', 'name': 'Apparel/Accessories'}}, {'domain': {'id': '47', 'name': 'Brand', 'description': 'Brands and Companies'}, 'entity': {'id': '1266401847104827392', 'name': 'Gucci'}}, {'domain': {'id': '65', 'name': 'Interests and Hobbies Vertical', 'description': 'Top level interests and hobbies groupings, like Food or Travel'}, 'entity': {'id': '1256236649253449729', 'name': 'Fashion & beauty'}}, {'domain': {'id': '67', 'name': 'Interests and Hobbies', 'description': 'Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks'}, 'entity': {'id': '839543390668673024', 'name': 'Fashion'}}]","{'urls': [{'start': 61, 'end': 84, 'url': 'https://t.co/zBqQgOvCUV', 'expanded_url': 'https://www.roblox.com/games/7830918930/Gucci-Town', 'display_url': 'roblox.com/games/78309189…', 'images': [{'url': 'https://pbs.twimg.com/news_img/1537767814563602433/UFilNXVF?format=jpg&name=orig', 'width': 498, 'height': 280}, {'url': 'https://pbs.twimg.com/news_img/1537767814563602433/UFilNXVF?format=jpg&name=150x150', 'width': 150, 'height': 150}], 'status': 200, 'title': 'Gucci Town', 'description': 'Check out Gucci Town. It’s one of the millions of unique, user-generated 3D experiences created on Roblox. Welcome to Gucci Town, population infinity. ♾️ Surprises await as Alessandro Michele’s vision transforms into a played story, with the Gucci Community as the main character. Journey through each space to create, connect, and collect, the Gucci way in this ongoing experience. 🕹️ Compete in games to earn GG Gems 🖼️ Discover and create one-of-a-kind art pieces 👜 Learn about the House’s heritage and artisanship 🏛️ Explore the impossible conversations of Vault 📸 Strike a pose and show off your personal Gucci style with the world 🏬 Explore a boutique of limited-edition virtual items from Gucci ☕ Or, simply take a break, power up, and connect with others Like Goals: 40k likes - Unique code! 👜 The first collection of items in the Gucci Shop will be available until June 17, 2022, with a new limited Gucci Blondie bag released each week. Come back regularly to unlock and purchase the ', 'unwound_url': 'https://www.roblox.com/games/7830918930/Gucci-Town'}], 'mentions': [{'start': 0, 'end': 10, 'username': 'audrelyns', 'id': '1318646801172467715'}, {'start': 11, 'end': 17, 'username': 'gucci', 'id': '16913418'}]}",,False,,everyone,Twitter for iPhone
+1531313352575787008,1306929861739646976,@Roblox we want workclocks not the antlers :((,2022-05-30 16:35:28+00:00,,0,0,1,0,en,1531313352575787008,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'mentions': [{'start': 0, 'end': 7, 'username': 'Roblox', 'id': '16745055'}]}",,False,,everyone,Twitter Web App
+1531313343679569926,1477641247661637633,"Item: Blue Wistful Wink
+Deal: 34%
+Price: 11751
+
+Rap: 11823
+Value: 18000
+
+https://t.co/MaKGEI7P5q
+
+#roblox #robloxtrading",2022-05-30 16:35:26+00:00,,0,0,0,0,en,1531313343679569926,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'annotations': [{'start': 6, 'end': 27, 'probability': 0.4341, 'type': 'Product', 'normalized_text': 'Blue Wistful Wink Deal'}], 'hashtags': [{'start': 98, 'end': 105, 'tag': 'roblox'}, {'start': 106, 'end': 120, 'tag': 'robloxtrading'}], 'urls': [{'start': 73, 'end': 96, 'url': 'https://t.co/MaKGEI7P5q', 'expanded_url': 'https://www.roblox.com/catalog/583721561/Blue-Wistful-Wink', 'display_url': 'roblox.com/catalog/583721…'}]}",,False,,everyone,Watchfox Roblox Limited Deals
+1531313336486440961,1477641247661637633,"Item: Perfectly Legitimate Business Hat
+Deal: 30%
+Price: 6999
+
+Rap: 7452
+Value: 10000
+
+https://t.co/OlPqRE6919
+
+#roblox #robloxtrading",2022-05-30 16:35:24+00:00,,0,0,0,0,en,1531313336486440961,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'hashtags': [{'start': 112, 'end': 119, 'tag': 'roblox'}, {'start': 120, 'end': 134, 'tag': 'robloxtrading'}], 'urls': [{'start': 87, 'end': 110, 'url': 'https://t.co/OlPqRE6919', 'expanded_url': 'https://www.roblox.com/catalog/19027209/Perfectly-Legitimate-Business-Hat', 'display_url': 'roblox.com/catalog/190272…'}]}",,False,,everyone,Watchfox Roblox Limited Deals
+1531313327200251906,1417587809502826500,"ÚLTIMAS NOTÍCIAS: A BIG: Silverthorn Antlers está a venda por 25.000 Robux e provavelmente ficará limited nos próximos MINUTOS! Caso seja rico e queira comprar, essa é sua chance!
+
+https://t.co/QL4GfdQ0GK https://t.co/ys0aKt5mhQ https://t.co/KRfg2aV80C",2022-05-30 16:35:22+00:00,,2,6,21,1,pt,1531313327200251906,[],"{'urls': [{'start': 181, 'end': 204, 'url': 'https://t.co/QL4GfdQ0GK', 'expanded_url': 'https://www.roblox.com/catalog/477860473/BIG-Silverthorn-Antlers?rbxp=48103520', 'display_url': 'roblox.com/catalog/477860…', 'status': 200, 'title': 'BIG: Silverthorn Antlers - Roblox', 'description': 'Roblox is a global platform that brings people together through play.', 'unwound_url': 'https://www.roblox.com/catalog/477860473/BIG-Silverthorn-Antlers?rbxp=48103520'}, {'start': 205, 'end': 228, 'url': 'https://t.co/ys0aKt5mhQ', 'expanded_url': 'https://twitter.com/Roblox_RTC_BR/status/1531313327200251906/photo/1', 'display_url': 'pic.twitter.com/ys0aKt5mhQ', 'media_key': '3_1531313319818186754'}, {'start': 229, 'end': 252, 'url': 'https://t.co/KRfg2aV80C', 'expanded_url': 'https://twitter.com/RPlusNotifier/status/1531312430529269760', 'display_url': 'twitter.com/RPlusNotifier/…'}]}",{'media_keys': ['3_1531313319818186754']},False,,everyone,Twitter Web App
+1531313305591095297,1376329835556048900,I GOT MY ACCOUNT BACK LMAOOO THE HACKER DIDN'T EVEN TAKE ANYTHING HAHAHA #roblox #royalehigh #iwin,2022-05-30 16:35:17+00:00,,2,0,0,0,en,1531313305591095297,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}, {'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1230882318224510978', 'name': 'Royale High'}}]","{'hashtags': [{'start': 73, 'end': 80, 'tag': 'roblox'}, {'start': 81, 'end': 92, 'tag': 'royalehigh'}, {'start': 93, 'end': 98, 'tag': 'iwin'}]}",,False,,everyone,Twitter for iPhone
+1531313271613136896,1338152453351550976,@Roblox_RTC Nobody cares about meepcity plus I kinda wish it's should of get banned and never returns to roblox again,2022-05-30 16:35:09+00:00,,0,1,0,0,en,1531290328866689027,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'mentions': [{'start': 0, 'end': 11, 'username': 'Roblox_RTC', 'id': '1056053249470541824'}]}",,False,,everyone,Twitter for Android
+1531313230248910848,1300833749580554242,@The__BU @EGOTISMS_RBLX He works for Roblox https://t.co/6oBXesQypc,2022-05-30 16:34:59+00:00,,1,0,5,0,en,1531309009923358720,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'annotations': [{'start': 37, 'end': 42, 'probability': 0.4389, 'type': 'Product', 'normalized_text': 'Roblox'}], 'urls': [{'start': 44, 'end': 67, 'url': 'https://t.co/6oBXesQypc', 'expanded_url': 'https://twitter.com/TheCurtisPlays/status/1531313230248910848/photo/1', 'display_url': 'pic.twitter.com/6oBXesQypc', 'media_key': '3_1531313226612350977'}], 'mentions': [{'start': 0, 'end': 8, 'username': 'The__BU', 'id': '1272507567181303808'}, {'start': 9, 'end': 23, 'username': 'EGOTISMS_RBLX', 'id': '848945786389966853'}]}",{'media_keys': ['3_1531313226612350977']},False,,everyone,Twitter for iPhone
+1531313214465658880,1290786184336154624,ROBLOX with Cedi and Wife! https://t.co/Y8OiY3b04m,2022-05-30 16:34:55+00:00,,0,0,0,0,en,1531313214465658880,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'annotations': [{'start': 12, 'end': 15, 'probability': 0.7819, 'type': 'Person', 'normalized_text': 'Cedi'}], 'urls': [{'start': 27, 'end': 50, 'url': 'https://t.co/Y8OiY3b04m', 'expanded_url': 'https://twitch.tv/newguy0008', 'display_url': 'twitch.tv/newguy0008'}]}",,False,,everyone,Streamlabs Twitter
+1531313196933386240,1145863437584441344,@_Folvee_ @Cinderwerewolf Moderation on ROBLOX is just painful imo,2022-05-30 16:34:51+00:00,,0,1,1,0,en,1530947696537632769,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'annotations': [{'start': 40, 'end': 45, 'probability': 0.3578, 'type': 'Product', 'normalized_text': 'ROBLOX'}], 'mentions': [{'start': 0, 'end': 9, 'username': '_Folvee_', 'id': '1363144319985713161'}, {'start': 10, 'end': 25, 'username': 'Cinderwerewolf', 'id': '1523920249728696320'}]}",,False,,everyone,Twitter for Android
+1531313165203836928,1503920024373035009,@Sashkie3 @Roblox_RTC oh ok thx,2022-05-30 16:34:43+00:00,,0,0,0,0,en,1531310680082526208,[],"{'mentions': [{'start': 0, 'end': 9, 'username': 'Sashkie3', 'id': '1425303814991609857'}, {'start': 10, 'end': 21, 'username': 'Roblox_RTC', 'id': '1056053249470541824'}]}",,False,,everyone,Twitter Web App
+1531313148577337344,1390640133284716546,@imdarrylbarrel @RPlusNotifier roblox is doing a sale for rich people ☹️,2022-05-30 16:34:39+00:00,,0,0,0,0,en,1531312430529269760,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'mentions': [{'start': 0, 'end': 15, 'username': 'imdarrylbarrel', 'id': '1330761215610478592'}, {'start': 16, 'end': 30, 'username': 'RPlusNotifier', 'id': '713208007522279425'}]}",,False,,everyone,Twitter for iPhone
+1531313144538202120,1477641247661637633,"Item: Neon Green Beautiful Hair
+Deal: 30%
+Price: 9083
+
+Rap: 9204
+Value: 13000
+
+https://t.co/s2cgT7dM0w
+
+#roblox #robloxtrading",2022-05-30 16:34:38+00:00,,0,0,0,0,en,1531313144538202120,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'hashtags': [{'start': 104, 'end': 111, 'tag': 'roblox'}, {'start': 112, 'end': 126, 'tag': 'robloxtrading'}], 'urls': [{'start': 79, 'end': 102, 'url': 'https://t.co/s2cgT7dM0w', 'expanded_url': 'https://www.roblox.com/catalog/151786902/Neon-Green-Beautiful-Hair', 'display_url': 'roblox.com/catalog/151786…'}]}",,False,,everyone,Watchfox Roblox Limited Deals
+1531313138481737728,1431546050997796864,"and then we had a conversation about what happened today and asked eachother if we had fun. It was time for me to head home, it was getting late so I left and decided to play roblox and chat with Manny through text and phone calls. Thats what I did all day yesterday.",2022-05-30 16:34:37+00:00,,0,0,2,0,en,1531297931248254977,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'annotations': [{'start': 196, 'end': 200, 'probability': 0.9754, 'type': 'Person', 'normalized_text': 'Manny'}]}",,False,,everyone,Twitter for Android
+1531313115484266497,1477641247661637633,"Item: Neon Green Beautiful Hair
+Deal: 38%
+Price: 7999
+
+Rap: 9204
+Value: 13000
+
+https://t.co/s2cgT7dM0w
+
+#roblox #robloxtrading",2022-05-30 16:34:31+00:00,,2,0,1,0,en,1531313115484266497,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'annotations': [{'start': 6, 'end': 35, 'probability': 0.4545, 'type': 'Product', 'normalized_text': 'Neon Green Beautiful Hair Deal'}], 'hashtags': [{'start': 104, 'end': 111, 'tag': 'roblox'}, {'start': 112, 'end': 126, 'tag': 'robloxtrading'}], 'urls': [{'start': 79, 'end': 102, 'url': 'https://t.co/s2cgT7dM0w', 'expanded_url': 'https://www.roblox.com/catalog/151786902/Neon-Green-Beautiful-Hair', 'display_url': 'roblox.com/catalog/151786…'}]}",,False,,everyone,Watchfox Roblox Limited Deals
+1531313110493052928,1394768553329496068,@Syamras20 @Roblox_RTC should i say it for you to be happy?,2022-05-30 16:34:30+00:00,,0,0,0,0,en,1531259243189440513,[],"{'mentions': [{'start': 0, 'end': 10, 'username': 'Syamras20', 'id': '1453644459938246659'}, {'start': 11, 'end': 22, 'username': 'Roblox_RTC', 'id': '1056053249470541824'}]}",,False,,following,Twitter Web App
+1531313079593717761,1442150956016173075,@Roblox_RTC_BR @LeaksEvents ata,2022-05-30 16:34:23+00:00,,0,0,0,0,und,1531310862933413889,[],"{'mentions': [{'start': 0, 'end': 14, 'username': 'Roblox_RTC_BR', 'id': '1417587809502826500'}, {'start': 15, 'end': 27, 'username': 'LeaksEvents', 'id': '1422163374339727363'}]}",,False,,everyone,Twitter Web App
+1531313056499867649,3233075696,@MisterBiighead @OnionsRPR @SpideyHD_ @iconicleah @Roblox_RTC This already aged terrible sale just started,2022-05-30 16:34:17+00:00,,0,1,1,0,en,1531092357592104961,[],"{'mentions': [{'start': 0, 'end': 15, 'username': 'MisterBiighead', 'id': '1179462459456925697'}, {'start': 16, 'end': 26, 'username': 'OnionsRPR', 'id': '1516728035650805761'}, {'start': 27, 'end': 37, 'username': 'SpideyHD_', 'id': '1312527437608235008'}, {'start': 38, 'end': 49, 'username': 'iconicleah', 'id': '1157741675890040844'}, {'start': 50, 'end': 61, 'username': 'Roblox_RTC', 'id': '1056053249470541824'}]}",,False,,everyone,Twitter for iPhone
+1531313032902520832,1329213755503255553,"ROBLOX SALE IS CONFIRMED!!! WE GOT A SALE WWIE RHGYNUWK,ERfg vbdafhm,j",2022-05-30 16:34:12+00:00,,1,0,1,0,nl,1531313032902520832,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]",,,False,,everyone,Twitter Web App
+1531313029673017346,1477641247661637633,"Item: One Star General's Beret
+Deal: 34%
+Price: 4000
+
+Rap: 6071
+Value: 6071
+
+https://t.co/UWSQSWjyqJ
+
+#roblox #robloxtrading",2022-05-30 16:34:11+00:00,,0,0,0,0,en,1531313029673017346,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'annotations': [{'start': 6, 'end': 34, 'probability': 0.3617, 'type': 'Product', 'normalized_text': ""One Star General's Beret Deal""}], 'hashtags': [{'start': 102, 'end': 109, 'tag': 'roblox'}, {'start': 110, 'end': 124, 'tag': 'robloxtrading'}], 'urls': [{'start': 77, 'end': 100, 'url': 'https://t.co/UWSQSWjyqJ', 'expanded_url': ""https://www.roblox.com/catalog/28039679/One-Star-General's-Beret"", 'display_url': 'roblox.com/catalog/280396…'}]}",,False,,everyone,Watchfox Roblox Limited Deals
+1531313002833711112,20510475,"20K Robux Giveaway!
+Starts Wednesday!
+Join The Discord for More Information.
+https://t.co/cA5lN9JM7l
+#roblox #robux #robloxgiveaway #robuxgiveaway #petsimx #adoptme #discord #giveaway https://t.co/Gm52XBsjUl",2022-05-30 16:34:04+00:00,,10,2,11,1,en,1531313002833711112,"[{'domain': {'id': '47', 'name': 'Brand', 'description': 'Brands and Companies'}, 'entity': {'id': '1168499224297656321', 'name': 'Discord'}}, {'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}, {'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1229416301245763584', 'name': 'Adopt Me'}}, {'domain': {'id': '165', 'name': 'Technology', 'description': 'for individual and types of technology, e.g., food technology, 3D printing'}, 'entity': {'id': '1196446161223028736', 'name': 'Social media'}}]","{'hashtags': [{'start': 101, 'end': 108, 'tag': 'roblox'}, {'start': 109, 'end': 115, 'tag': 'robux'}, {'start': 116, 'end': 131, 'tag': 'robloxgiveaway'}, {'start': 132, 'end': 146, 'tag': 'robuxgiveaway'}, {'start': 147, 'end': 155, 'tag': 'petsimx'}, {'start': 156, 'end': 164, 'tag': 'adoptme'}, {'start': 165, 'end': 173, 'tag': 'discord'}, {'start': 174, 'end': 183, 'tag': 'giveaway'}], 'urls': [{'start': 77, 'end': 100, 'url': 'https://t.co/cA5lN9JM7l', 'expanded_url': 'https://discord.gg/hpsvxKY2DY', 'display_url': 'discord.gg/hpsvxKY2DY'}, {'start': 184, 'end': 207, 'url': 'https://t.co/Gm52XBsjUl', 'expanded_url': 'https://twitter.com/ghostymama/status/1531313002833711112/photo/1', 'display_url': 'pic.twitter.com/Gm52XBsjUl', 'media_key': '3_1531312951956848641'}]}",{'media_keys': ['3_1531312951956848641']},False,,everyone,Twitter Web App
+1531312971779084288,1494757591980953605,@Chaseroony @Roblox ... W H A T...,2022-05-30 16:33:57+00:00,,0,0,0,0,en,1531088882351034368,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'mentions': [{'start': 0, 'end': 11, 'username': 'Chaseroony', 'id': '1129473457685651458'}, {'start': 12, 'end': 19, 'username': 'Roblox', 'id': '16745055'}]}",,False,,everyone,Twitter for Android
+1531312971414052865,1425303814991609857,@a_henrye @Roblox_RTC HesMyHalf,2022-05-30 16:33:57+00:00,,0,1,0,0,no,1531310680082526208,[],"{'mentions': [{'start': 0, 'end': 9, 'username': 'a_henrye', 'id': '1503920024373035009'}, {'start': 10, 'end': 21, 'username': 'Roblox_RTC', 'id': '1056053249470541824'}]}",,False,,everyone,Twitter Web App
+1531312937045991426,1477641247661637633,"Item: Bucket
+Deal: 40%
+Price: 9000
+
+Rap: 10819
+Value: 15000
+
+https://t.co/IX0XDLG8kI
+
+#roblox #robloxtrading",2022-05-30 16:33:49+00:00,,0,0,0,0,en,1531312937045991426,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'hashtags': [{'start': 86, 'end': 93, 'tag': 'roblox'}, {'start': 94, 'end': 108, 'tag': 'robloxtrading'}], 'urls': [{'start': 61, 'end': 84, 'url': 'https://t.co/IX0XDLG8kI', 'expanded_url': 'https://www.roblox.com/catalog/1081239/Bucket', 'display_url': 'roblox.com/catalog/108123…'}]}",,False,,everyone,Watchfox Roblox Limited Deals
+1531312930205192196,1519439324407898115,"i am art /furry i am max! i am 19 feel free to make me art fi you like to
+Tage me in it #RIP MILO my dog i am Content Creator on youtube and i am
+Developer  on Roblox #furry #abdllifestyle #ABDLBABYFYURRY #ABDL ☺️☺️☺️☺️😌😌😎😎 https://t.co/z74KzVHF3V",2022-05-30 16:33:47+00:00,,1,0,4,0,en,1531312930205192196,"[{'domain': {'id': '30', 'name': 'Entities [Entity Service]', 'description': 'Entity Service top level domain, every item that is in Entity Service should be in this domain'}, 'entity': {'id': '852262932607926273', 'name': 'Pets', 'description': 'Pets'}}, {'domain': {'id': '30', 'name': 'Entities [Entity Service]', 'description': 'Entity Service top level domain, every item that is in Entity Service should be in this domain'}, 'entity': {'id': '853980498816679937', 'name': 'Dogs', 'description': 'Dogs'}}, {'domain': {'id': '66', 'name': 'Interests and Hobbies Category', 'description': 'A grouping of interests and hobbies entities, like Novelty Food or Destinations'}, 'entity': {'id': '1045058369852067840', 'name': 'Furries', 'description': 'This entity tracks all conversation related to furries & furry fandom. For a more heavily-curated, Topic-ready version, see Furry fandom (1514304215165796352). '}}, {'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}, {'domain': {'id': '165', 'name': 'Technology', 'description': 'for individual and types of technology, e.g., food technology, 3D printing'}, 'entity': {'id': '1196446161223028736', 'name': 'Social media'}}, {'domain': {'id': '46', 'name': 'Brand Category', 'description': 'Categories within Brand Verticals that narrow down the scope of Brands'}, 'entity': {'id': '781974596752842752', 'name': 'Services'}}, {'domain': {'id': '47', 'name': 'Brand', 'description': 'Brands and Companies'}, 'entity': {'id': '10029382357', 'name': 'YouTube'}}]","{'annotations': [{'start': 129, 'end': 135, 'probability': 0.6442, 'type': 'Product', 'normalized_text': 'youtube'}, {'start': 160, 'end': 165, 'probability': 0.4064, 'type': 'Product', 'normalized_text': 'Roblox'}], 'hashtags': [{'start': 88, 'end': 92, 'tag': 'RIP'}, {'start': 167, 'end': 173, 'tag': 'furry'}, {'start': 174, 'end': 188, 'tag': 'abdllifestyle'}, {'start': 189, 'end': 204, 'tag': 'ABDLBABYFYURRY'}, {'start': 205, 'end': 210, 'tag': 'ABDL'}], 'urls': [{'start': 224, 'end': 247, 'url': 'https://t.co/z74KzVHF3V', 'expanded_url': 'https://twitter.com/DevLife9/status/1531312930205192196/photo/1', 'display_url': 'pic.twitter.com/z74KzVHF3V', 'media_key': '3_1531312710067052545'}]}",{'media_keys': ['3_1531312710067052545']},False,,everyone,Twitter Web App
+1531312928552542208,1430324765596786692,"anyways, I made the concept showcase, just in case someone sees it and actually gets inspired to make it a full game and not just a concept idea https://t.co/L9QM9x6dTI",2022-05-30 16:33:47+00:00,,0,0,0,0,en,1531312928552542208,[],"{'urls': [{'start': 145, 'end': 168, 'url': 'https://t.co/L9QM9x6dTI', 'expanded_url': 'https://www.roblox.com/games/9770899855/Raise-a-Wobbler-Concept-Showcase', 'display_url': 'roblox.com/games/97708998…'}]}",,False,,everyone,Twitter Web App
+1531312928527421440,1529933056651542546,The robbery team is coming #robberyteam #Roblox https://t.co/zR9dndoWqu,2022-05-30 16:33:47+00:00,,0,0,0,0,en,1531312928527421440,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'hashtags': [{'start': 27, 'end': 39, 'tag': 'robberyteam'}, {'start': 40, 'end': 47, 'tag': 'Roblox'}], 'urls': [{'start': 48, 'end': 71, 'url': 'https://t.co/zR9dndoWqu', 'expanded_url': 'https://twitter.com/ballzman69/status/1531312928527421440/photo/1', 'display_url': 'pic.twitter.com/zR9dndoWqu', 'media_key': '3_1531312926207918083'}]}",{'media_keys': ['3_1531312926207918083']},False,,everyone,Twitter for Android
+1531312923640881152,1413826871188410371,"❤️‍🔥$10,000 Robux Giveaway❤️‍🔥
+
+HOW TO ENTER: 🔔
+1 - Like + Retweet🌀♻️
+2 - Follow 🫡
+3 - Reply “Robux”🏵️
+
+Winner will be picked in 🎉 3 Days. 
+GL everyone
+🔴Tags:🔴
+#Roblox #robloxgiveaway #RobloxDev #robloxart #Giveaway #robuxgiveaway #adoptmegiveaway https://t.co/cYUJ04chhB",2022-05-30 16:33:46+00:00,,120,116,112,1,en,1531312923640881152,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'hashtags': [{'start': 160, 'end': 167, 'tag': 'Roblox'}, {'start': 168, 'end': 183, 'tag': 'robloxgiveaway'}, {'start': 184, 'end': 194, 'tag': 'RobloxDev'}, {'start': 195, 'end': 205, 'tag': 'robloxart'}, {'start': 206, 'end': 215, 'tag': 'Giveaway'}, {'start': 216, 'end': 230, 'tag': 'robuxgiveaway'}, {'start': 231, 'end': 247, 'tag': 'adoptmegiveaway'}], 'urls': [{'start': 248, 'end': 271, 'url': 'https://t.co/cYUJ04chhB', 'expanded_url': 'https://twitter.com/AlixRobux/status/1531163166482243585/photo/1', 'display_url': 'pic.twitter.com/cYUJ04chhB', 'media_key': '3_1531163164083093506'}]}",{'media_keys': ['3_1531163164083093506']},False,,everyone,Twitter for Android
+1531312915751518210,1324352550414462976,@underTV_RBX @ANDRElNAS found it https://t.co/HeiTdJBMfJ,2022-05-30 16:33:44+00:00,,0,0,0,0,en,1530905360562892801,[],"{'urls': [{'start': 33, 'end': 56, 'url': 'https://t.co/HeiTdJBMfJ', 'expanded_url': 'https://www.roblox.com/catalog/9338023216/thighs-everything', 'display_url': 'roblox.com/catalog/933802…'}], 'mentions': [{'start': 0, 'end': 12, 'username': 'underTV_RBX', 'id': '1145633925424984064'}, {'start': 13, 'end': 23, 'username': 'ANDRElNAS', 'id': '1160992545016614912'}]}",,False,,everyone,Twitter Web App
+1531312904603041793,1477641247661637633,"Item: Green Banded Top Hat
+Deal: 31%
+Price: 11000
+
+Rap: 11454
+Value: 16000
+
+https://t.co/vHKwwJA9Y9
+
+#roblox #robloxtrading",2022-05-30 16:33:41+00:00,,0,0,0,0,en,1531312904603041793,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'hashtags': [{'start': 101, 'end': 108, 'tag': 'roblox'}, {'start': 109, 'end': 123, 'tag': 'robloxtrading'}], 'urls': [{'start': 76, 'end': 99, 'url': 'https://t.co/vHKwwJA9Y9', 'expanded_url': 'https://www.roblox.com/catalog/1563352/Green-Banded-Top-Hat', 'display_url': 'roblox.com/catalog/156335…'}]}",,False,,everyone,Watchfox Roblox Limited Deals
+1531312887314239488,1365737441131458562,"Another fit made for Sunset Island that I think is adorable , Pictures taken at Divinia Park #Roblox #royalehigh https://t.co/lQVmFITpmQ",2022-05-30 16:33:37+00:00,,0,0,0,0,en,1531312887314239488,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}, {'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1230882318224510978', 'name': 'Royale High'}}]","{'annotations': [{'start': 21, 'end': 33, 'probability': 0.6, 'type': 'Place', 'normalized_text': 'Sunset Island'}, {'start': 80, 'end': 91, 'probability': 0.8697, 'type': 'Place', 'normalized_text': 'Divinia Park'}], 'hashtags': [{'start': 93, 'end': 100, 'tag': 'Roblox'}, {'start': 101, 'end': 112, 'tag': 'royalehigh'}], 'urls': [{'start': 113, 'end': 136, 'url': 'https://t.co/lQVmFITpmQ', 'expanded_url': 'https://twitter.com/AbsekiiRblx/status/1531312887314239488/photo/1', 'display_url': 'pic.twitter.com/lQVmFITpmQ', 'media_key': '3_1531312879294681088'}, {'start': 113, 'end': 136, 'url': 'https://t.co/lQVmFITpmQ', 'expanded_url': 'https://twitter.com/AbsekiiRblx/status/1531312887314239488/photo/1', 'display_url': 'pic.twitter.com/lQVmFITpmQ', 'media_key': '3_1531312879303016448'}, {'start': 113, 'end': 136, 'url': 'https://t.co/lQVmFITpmQ', 'expanded_url': 'https://twitter.com/AbsekiiRblx/status/1531312887314239488/photo/1', 'display_url': 'pic.twitter.com/lQVmFITpmQ', 'media_key': '3_1531312879290425346'}]}","{'media_keys': ['3_1531312879294681088', '3_1531312879303016448', '3_1531312879290425346']}",False,,everyone,Twitter for iPad
+1531312851276660738,1477641247661637633,"Item: Green Banded Top Hat
+Deal: 34%
+Price: 10500
+
+Rap: 11454
+Value: 16000
+
+https://t.co/vHKwwJA9Y9
+
+#roblox #robloxtrading",2022-05-30 16:33:28+00:00,,0,0,0,0,en,1531312851276660738,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'hashtags': [{'start': 101, 'end': 108, 'tag': 'roblox'}, {'start': 109, 'end': 123, 'tag': 'robloxtrading'}], 'urls': [{'start': 76, 'end': 99, 'url': 'https://t.co/vHKwwJA9Y9', 'expanded_url': 'https://www.roblox.com/catalog/1563352/Green-Banded-Top-Hat', 'display_url': 'roblox.com/catalog/156335…'}]}",,False,,everyone,Watchfox Roblox Limited Deals
+1531312816426196995,1477641247661637633,"Item: Adurite Antlers
+Deal: 33%
+Price: 16000
+
+Rap: 15964
+Value: 24000
+
+https://t.co/1hFfnPZvl4
+
+#roblox #robloxtrading",2022-05-30 16:33:20+00:00,,1,0,0,0,en,1531312816426196995,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'annotations': [{'start': 6, 'end': 25, 'probability': 0.5672, 'type': 'Product', 'normalized_text': 'Adurite Antlers Deal'}], 'hashtags': [{'start': 96, 'end': 103, 'tag': 'roblox'}, {'start': 104, 'end': 118, 'tag': 'robloxtrading'}], 'urls': [{'start': 71, 'end': 94, 'url': 'https://t.co/1hFfnPZvl4', 'expanded_url': 'https://www.roblox.com/catalog/162066057/Adurite-Antlers', 'display_url': 'roblox.com/catalog/162066…'}]}",,False,,everyone,Watchfox Roblox Limited Deals
+1531312816371781632,1477641247661637633,"Item: Neon Green Beautiful Hair
+Deal: 34%
+Price: 8500
+
+Rap: 9204
+Value: 13000
+
+https://t.co/s2cgT7dM0w
+
+#roblox #robloxtrading",2022-05-30 16:33:20+00:00,,1,0,0,0,en,1531312816371781632,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'hashtags': [{'start': 104, 'end': 111, 'tag': 'roblox'}, {'start': 112, 'end': 126, 'tag': 'robloxtrading'}], 'urls': [{'start': 79, 'end': 102, 'url': 'https://t.co/s2cgT7dM0w', 'expanded_url': 'https://www.roblox.com/catalog/151786902/Neon-Green-Beautiful-Hair', 'display_url': 'roblox.com/catalog/151786…'}]}",,False,,everyone,Watchfox Roblox Limited Deals
+1531312749631913984,963600797450764288,"Hi!  I know I've been absent the past year.  I'm going to be trying to get back to doing some things though.  I never expected this many people to be playing Guess How Many!  If there's an update you'd like to see let me know :)  
+https://t.co/W3Gh0nkjkR https://t.co/mVobjjGYpR",2022-05-30 16:33:04+00:00,,2,1,2,0,en,1531312749631913984,[],"{'urls': [{'start': 231, 'end': 254, 'url': 'https://t.co/W3Gh0nkjkR', 'expanded_url': 'https://www.roblox.com/groups/3485404/Hidden-Powerup', 'display_url': 'roblox.com/groups/3485404…'}, {'start': 255, 'end': 278, 'url': 'https://t.co/mVobjjGYpR', 'expanded_url': 'https://twitter.com/HiddenPowerup/status/1531312749631913984/photo/1', 'display_url': 'pic.twitter.com/mVobjjGYpR', 'media_key': '3_1531312440113348613'}]}",{'media_keys': ['3_1531312440113348613']},False,,everyone,Twitter Web App
+1531312742476423173,1477641247661637633,"Item: Noir Periastron Psi
+Deal: 30%
+Price: 35000
+
+Rap: 47308
+Value: 50000
+
+https://t.co/PhYJDMkSr4
+
+#roblox #robloxtrading",2022-05-30 16:33:02+00:00,,1,0,0,0,ht,1531312742476423173,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'hashtags': [{'start': 100, 'end': 107, 'tag': 'roblox'}, {'start': 108, 'end': 122, 'tag': 'robloxtrading'}], 'urls': [{'start': 75, 'end': 98, 'url': 'https://t.co/PhYJDMkSr4', 'expanded_url': 'https://www.roblox.com/catalog/120307951/Noir-Periastron-Psi', 'display_url': 'roblox.com/catalog/120307…'}]}",,False,,everyone,Watchfox Roblox Limited Deals
+1531312729700859905,1473327629797249029,@Roblox @DavidBaszucki can you ban all kids and toxic player?,2022-05-30 16:32:59+00:00,,1,0,0,0,en,1524122544499875841,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'mentions': [{'start': 0, 'end': 7, 'username': 'Roblox', 'id': '16745055'}, {'start': 8, 'end': 22, 'username': 'DavidBaszucki', 'id': '43963122'}]}",,False,,everyone,Twitter Web App
+1531312715431542784,1477641247661637633,"Item: Purple Wistful Wink
+Deal: 30%
+Price: 13986
+
+Rap: 14207
+Value: 20000
+
+https://t.co/HBWR8gVTSn
+
+#roblox #robloxtrading",2022-05-30 16:32:56+00:00,,1,0,0,0,en,1531312715431542784,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'annotations': [{'start': 6, 'end': 29, 'probability': 0.5249, 'type': 'Product', 'normalized_text': 'Purple Wistful Wink Deal'}], 'hashtags': [{'start': 100, 'end': 107, 'tag': 'roblox'}, {'start': 108, 'end': 122, 'tag': 'robloxtrading'}], 'urls': [{'start': 75, 'end': 98, 'url': 'https://t.co/HBWR8gVTSn', 'expanded_url': 'https://www.roblox.com/catalog/583722710/Purple-Wistful-Wink', 'display_url': 'roblox.com/catalog/583722…'}]}",,False,,everyone,Watchfox Roblox Limited Deals
+1531312647559426048,1348917459701669889,@Roblox_RTC idk,2022-05-30 16:32:40+00:00,,0,0,0,0,und,1531092357592104961,[],"{'mentions': [{'start': 0, 'end': 11, 'username': 'Roblox_RTC', 'id': '1056053249470541824'}]}",,False,,everyone,Twitter Web App
+1531312559961567232,1443208470895874050,"SPARE 33 FOLLOWERS?? trying to reach 600 by june 5th 🤭🤭
+#royalehigh #royalehightrading #royalehighart #roblox #robloxart #robloxartist #artistsontwitter https://t.co/gHLvdnhab7",2022-05-30 16:32:19+00:00,,31,7,128,2,en,1531312559961567232,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}, {'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1230882318224510978', 'name': 'Royale High'}}]","{'hashtags': [{'start': 56, 'end': 67, 'tag': 'royalehigh'}, {'start': 68, 'end': 86, 'tag': 'royalehightrading'}, {'start': 87, 'end': 101, 'tag': 'royalehighart'}, {'start': 102, 'end': 109, 'tag': 'roblox'}, {'start': 110, 'end': 120, 'tag': 'robloxart'}, {'start': 121, 'end': 134, 'tag': 'robloxartist'}, {'start': 135, 'end': 152, 'tag': 'artistsontwitter'}], 'urls': [{'start': 153, 'end': 176, 'url': 'https://t.co/gHLvdnhab7', 'expanded_url': 'https://twitter.com/denvurdiorr/status/1531312559961567232/photo/1', 'display_url': 'pic.twitter.com/gHLvdnhab7', 'media_key': '3_1531312525362757632'}, {'start': 153, 'end': 176, 'url': 'https://t.co/gHLvdnhab7', 'expanded_url': 'https://twitter.com/denvurdiorr/status/1531312559961567232/photo/1', 'display_url': 'pic.twitter.com/gHLvdnhab7', 'media_key': '3_1531312536658022400'}, {'start': 153, 'end': 176, 'url': 'https://t.co/gHLvdnhab7', 'expanded_url': 'https://twitter.com/denvurdiorr/status/1531312559961567232/photo/1', 'display_url': 'pic.twitter.com/gHLvdnhab7', 'media_key': '3_1531312547441569792'}, {'start': 153, 'end': 176, 'url': 'https://t.co/gHLvdnhab7', 'expanded_url': 'https://twitter.com/denvurdiorr/status/1531312559961567232/photo/1', 'display_url': 'pic.twitter.com/gHLvdnhab7', 'media_key': '3_1531312556820025345'}]}","{'media_keys': ['3_1531312525362757632', '3_1531312536658022400', '3_1531312547441569792', '3_1531312556820025345']}",False,,everyone,Twitter for Android
+1531312556408807425,1454928667084087299,@BloxhubGG @Roblox Verify WYZ8A34,2022-05-30 16:32:18+00:00,,1,0,0,0,de,1529539689191030784,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'mentions': [{'start': 0, 'end': 10, 'username': 'BloxhubGG', 'id': '1417992256364191744'}, {'start': 11, 'end': 18, 'username': 'Roblox', 'id': '16745055'}]}",,False,,everyone,Twitter Web App
+1531312550465261570,420446850,"Got children who love to play Roblox?  Check out our quick-fire safety guide for Parents &amp; Carers  
+ #OnlineSafety #SocialMediaSafety #eSafety #Safeguarding https://t.co/x0BiLXLXlQ https://t.co/6PXlmCK74H",2022-05-30 16:32:17+00:00,,1,0,0,0,en,1531312550465261570,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'annotations': [{'start': 30, 'end': 35, 'probability': 0.4397, 'type': 'Product', 'normalized_text': 'Roblox'}], 'hashtags': [{'start': 105, 'end': 118, 'tag': 'OnlineSafety'}, {'start': 119, 'end': 137, 'tag': 'SocialMediaSafety'}, {'start': 138, 'end': 146, 'tag': 'eSafety'}, {'start': 147, 'end': 160, 'tag': 'Safeguarding'}], 'urls': [{'start': 161, 'end': 184, 'url': 'https://t.co/x0BiLXLXlQ', 'expanded_url': 'https://rfr.bz/t4e9jjq', 'display_url': 'rfr.bz/t4e9jjq'}, {'start': 185, 'end': 208, 'url': 'https://t.co/6PXlmCK74H', 'expanded_url': 'https://twitter.com/waynedenner/status/1531312550465261570/photo/1', 'display_url': 'pic.twitter.com/6PXlmCK74H', 'media_key': '3_1531312547961245697'}]}",{'media_keys': ['3_1531312547961245697']},False,,everyone,Campaign Share
+1531312528235667456,1439411641062502404,@HighNoto Roblox,2022-05-30 16:32:11+00:00,,0,0,1,0,en,1531083877971804163,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'mentions': [{'start': 0, 'end': 9, 'username': 'HighNoto', 'id': '1532664990070493184'}]}",,False,,everyone,Twitter for iPhone
+1531312515778547712,1473325611204714507,"@SharkBloxYT i found the Sword of Honor it was updatet i think it will get limited i dont know i bothg it
+
+https://t.co/f2bJAB8pAl",2022-05-30 16:32:08+00:00,,0,0,0,0,en,1531312515778547712,[],"{'annotations': [{'start': 25, 'end': 38, 'probability': 0.6025, 'type': 'Other', 'normalized_text': 'Sword of Honor'}], 'urls': [{'start': 107, 'end': 130, 'url': 'https://t.co/f2bJAB8pAl', 'expanded_url': 'https://web.roblox.com/catalog/2830435845/Swordpack-of-Honor', 'display_url': 'web.roblox.com/catalog/283043…'}], 'mentions': [{'start': 0, 'end': 12, 'username': 'SharkBloxYT', 'id': '985359254184964096'}]}",,False,,everyone,Twitter Web App
+1531312473046925315,1477641247661637633,"Item: Supa Dupa Fly Cap
+Deal: 34%
+Price: 33000
+
+Rap: 38050
+Value: 50000
+
+https://t.co/nD67IgSBy6
+
+#roblox #robloxtrading",2022-05-30 16:31:58+00:00,,1,0,0,0,ht,1531312473046925315,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'hashtags': [{'start': 98, 'end': 105, 'tag': 'roblox'}, {'start': 106, 'end': 120, 'tag': 'robloxtrading'}], 'urls': [{'start': 73, 'end': 96, 'url': 'https://t.co/nD67IgSBy6', 'expanded_url': 'https://www.roblox.com/catalog/1609401184/Supa-Dupa-Fly-Cap', 'display_url': 'roblox.com/catalog/160940…'}]}",,False,,everyone,Watchfox Roblox Limited Deals
+1531312460141142016,1428908305523560451,THE SALE JUST STARTED @Roblox THANK YOU #MemorialDay #Robloxsale https://t.co/4Iff3t6KkD,2022-05-30 16:31:55+00:00,,1,1,1,0,en,1531312460141142016,"[{'domain': {'id': '29', 'name': 'Events [Entity Service]', 'description': 'Entity Service related Events domain'}, 'entity': {'id': '1240941899902357510', 'name': 'Memorial Day ', 'description': 'This entity for Memorial day for all years'}}, {'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}, {'domain': {'id': '119', 'name': 'Holiday', 'description': 'Holidays like Christmas or Halloween'}, 'entity': {'id': '1240941899902357510', 'name': 'Memorial Day ', 'description': 'This entity for Memorial day for all years'}}]","{'hashtags': [{'start': 40, 'end': 52, 'tag': 'MemorialDay'}, {'start': 53, 'end': 64, 'tag': 'Robloxsale'}], 'urls': [{'start': 65, 'end': 88, 'url': 'https://t.co/4Iff3t6KkD', 'expanded_url': 'https://twitter.com/AniethyGames/status/1531312460141142016/photo/1', 'display_url': 'pic.twitter.com/4Iff3t6KkD', 'media_key': '3_1531312314036670465'}], 'mentions': [{'start': 22, 'end': 29, 'username': 'Roblox', 'id': '16745055'}]}",{'media_keys': ['3_1531312314036670465']},False,,everyone,Twitter Web App
+1531312430529269760,713208007522279425,"Went on sale
+BIG: Silverthorn Antlers
+Price: R$25,000
+https://t.co/jmVIxbfg8R",2022-05-30 16:31:48+00:00,,39,193,529,17,en,1531312430529269760,[],"{'annotations': [{'start': 18, 'end': 42, 'probability': 0.5306, 'type': 'Product', 'normalized_text': 'Silverthorn Antlers Price'}], 'urls': [{'start': 54, 'end': 77, 'url': 'https://t.co/jmVIxbfg8R', 'expanded_url': 'https://www.roblox.com/catalog/477860473/BIG-Silverthorn-Antlers?rbxp=48103520', 'display_url': 'roblox.com/catalog/477860…', 'status': 200, 'title': 'BIG: Silverthorn Antlers - Roblox', 'description': 'Roblox is a global platform that brings people together through play.', 'unwound_url': 'https://www.roblox.com/catalog/477860473/BIG-Silverthorn-Antlers?rbxp=48103520'}]}",,False,,everyone,Roblox+ Notifier
+1531312429862379521,1477641247661637633,"Item: Neon Green Beautiful Hair
+Deal: 31%
+Price: 8970
+
+Rap: 9204
+Value: 13000
+
+https://t.co/s2cgT7dM0w
+
+#roblox #robloxtrading",2022-05-30 16:31:48+00:00,,1,0,0,0,en,1531312429862379521,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'hashtags': [{'start': 104, 'end': 111, 'tag': 'roblox'}, {'start': 112, 'end': 126, 'tag': 'robloxtrading'}], 'urls': [{'start': 79, 'end': 102, 'url': 'https://t.co/s2cgT7dM0w', 'expanded_url': 'https://www.roblox.com/catalog/151786902/Neon-Green-Beautiful-Hair', 'display_url': 'roblox.com/catalog/151786…'}]}",,False,,everyone,Watchfox Roblox Limited Deals
+1531312383456468992,1489101909851967492,@plebcy Roblox,2022-05-30 16:31:37+00:00,,0,0,0,0,en,1528136301144428546,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'mentions': [{'start': 0, 'end': 7, 'username': 'plebcy', 'id': '1280632147343216641'}]}",,False,,everyone,Twitter Web App
+1531312379954446336,1477641247661637633,"Item: Bucket
+Deal: 30%
+Price: 10500
+
+Rap: 10819
+Value: 15000
+
+https://t.co/IX0XDLG8kI
+
+#roblox #robloxtrading",2022-05-30 16:31:36+00:00,,2,0,1,0,en,1531312379954446336,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'hashtags': [{'start': 87, 'end': 94, 'tag': 'roblox'}, {'start': 95, 'end': 109, 'tag': 'robloxtrading'}], 'urls': [{'start': 62, 'end': 85, 'url': 'https://t.co/IX0XDLG8kI', 'expanded_url': 'https://www.roblox.com/catalog/1081239/Bucket', 'display_url': 'roblox.com/catalog/108123…'}]}",,False,,everyone,Watchfox Roblox Limited Deals
+1531312355413479424,1429810175515430918,"roblox piggy is very successful, all goes to flamingo. https://t.co/IbnAwWjNqQ",2022-05-30 16:31:30+00:00,,0,1,1,0,en,1531312355413479424,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'urls': [{'start': 55, 'end': 78, 'url': 'https://t.co/IbnAwWjNqQ', 'expanded_url': 'https://twitter.com/MarioGamer6060/status/1531312355413479424/photo/1', 'display_url': 'pic.twitter.com/IbnAwWjNqQ', 'media_key': '3_1531312320730865665'}]}",{'media_keys': ['3_1531312320730865665']},False,,everyone,Twitter Web App
+1531312353861681152,1530876668801327104,Yo_Nanay Roblox Halloween Video Goes Viral On Social Media https://t.co/YrMjQVSHik,2022-05-30 16:31:30+00:00,,0,0,0,0,en,1531312353861681152,"[{'domain': {'id': '29', 'name': 'Events [Entity Service]', 'description': 'Entity Service related Events domain'}, 'entity': {'id': '1301463450099482625', 'name': 'Halloween ', 'description': 'This entity includes all conversations for Halloween for all years'}}, {'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}, {'domain': {'id': '119', 'name': 'Holiday', 'description': 'Holidays like Christmas or Halloween'}, 'entity': {'id': '1162465817822261248', 'name': 'Halloween 2019'}}]","{'urls': [{'start': 59, 'end': 82, 'url': 'https://t.co/YrMjQVSHik', 'expanded_url': 'https://newzacid.com/yo_nanay-roblox-halloween-video-goes-viral-on-social-media/', 'display_url': 'newzacid.com/yo_nanay-roblo…'}]}",,False,,everyone,WordPress.com
+1531312351785394177,1477641247661637633,"Item: Neon Green Beautiful Hair
+Deal: 30%
+Price: 8989
+
+Rap: 9204
+Value: 13000
+
+https://t.co/s2cgT7dM0w
+
+#roblox #robloxtrading",2022-05-30 16:31:29+00:00,,1,0,0,0,en,1531312351785394177,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'hashtags': [{'start': 104, 'end': 111, 'tag': 'roblox'}, {'start': 112, 'end': 126, 'tag': 'robloxtrading'}], 'urls': [{'start': 79, 'end': 102, 'url': 'https://t.co/s2cgT7dM0w', 'expanded_url': 'https://www.roblox.com/catalog/151786902/Neon-Green-Beautiful-Hair', 'display_url': 'roblox.com/catalog/151786…'}]}",,False,,everyone,Watchfox Roblox Limited Deals
+1531312345854648320,1524282437576146946,Yo_Nanay Roblox Halloween Video Goes Viral On Social Media https://t.co/X6vookV90C,2022-05-30 16:31:28+00:00,,0,0,1,0,en,1531312345854648320,"[{'domain': {'id': '29', 'name': 'Events [Entity Service]', 'description': 'Entity Service related Events domain'}, 'entity': {'id': '1301463450099482625', 'name': 'Halloween ', 'description': 'This entity includes all conversations for Halloween for all years'}}, {'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}, {'domain': {'id': '119', 'name': 'Holiday', 'description': 'Holidays like Christmas or Halloween'}, 'entity': {'id': '1162465817822261248', 'name': 'Halloween 2019'}}]","{'urls': [{'start': 59, 'end': 82, 'url': 'https://t.co/X6vookV90C', 'expanded_url': 'https://newzacid.com/yo_nanay-roblox-halloween-video-goes-viral-on-social-media/', 'display_url': 'newzacid.com/yo_nanay-roblo…'}]}",,False,,everyone,WordPress.com
+1531312336056725505,1489101909851967492,@plebcy roblox,2022-05-30 16:31:25+00:00,,0,0,0,0,en,1528478355103817729,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'mentions': [{'start': 0, 'end': 7, 'username': 'plebcy', 'id': '1280632147343216641'}]}",,False,,everyone,Twitter Web App
+1531312303689371649,1365737441131458562,"Probably one of my favorite fits so far!! Pictures taken at Divinia Park
+ #royalehigh #roblox https://t.co/wld0PbsVjC",2022-05-30 16:31:18+00:00,,1,0,0,0,en,1531312303689371649,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}, {'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1230882318224510978', 'name': 'Royale High'}}]","{'annotations': [{'start': 60, 'end': 71, 'probability': 0.81, 'type': 'Place', 'normalized_text': 'Divinia Park'}], 'hashtags': [{'start': 74, 'end': 85, 'tag': 'royalehigh'}, {'start': 86, 'end': 93, 'tag': 'roblox'}], 'urls': [{'start': 94, 'end': 117, 'url': 'https://t.co/wld0PbsVjC', 'expanded_url': 'https://twitter.com/AbsekiiRblx/status/1531312303689371649/photo/1', 'display_url': 'pic.twitter.com/wld0PbsVjC', 'media_key': '3_1531312296299048961'}, {'start': 94, 'end': 117, 'url': 'https://t.co/wld0PbsVjC', 'expanded_url': 'https://twitter.com/AbsekiiRblx/status/1531312303689371649/photo/1', 'display_url': 'pic.twitter.com/wld0PbsVjC', 'media_key': '3_1531312296332599296'}, {'start': 94, 'end': 117, 'url': 'https://t.co/wld0PbsVjC', 'expanded_url': 'https://twitter.com/AbsekiiRblx/status/1531312303689371649/photo/1', 'display_url': 'pic.twitter.com/wld0PbsVjC', 'media_key': '3_1531312296349286400'}]}","{'media_keys': ['3_1531312296299048961', '3_1531312296332599296', '3_1531312296349286400']}",False,,everyone,Twitter for iPad
+1531312269308702720,4737564999,[FR/PC]go roblox https://t.co/bx3x9pNBDu,2022-05-30 16:31:10+00:00,,0,0,0,0,en,1531312269308702720,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'urls': [{'start': 17, 'end': 40, 'url': 'https://t.co/bx3x9pNBDu', 'expanded_url': 'https://streamlabs.com/goldestorm/home', 'display_url': 'streamlabs.com/goldestorm/home'}]}",,False,,everyone,Streamlabs Twitter
+1531312267794518016,1191802187678179330,@roblox the least you can do is put the big head back up for good and not be limited so players who don’t have 1 billon dollars can by it maybe?,2022-05-30 16:31:09+00:00,,1,0,0,0,en,1531312267794518016,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'mentions': [{'start': 0, 'end': 7, 'username': 'Roblox', 'id': '16745055'}]}",,False,,everyone,Twitter for iPhone

@@ -1,0 +1,100 @@
+tweetid,author_id,text,created_at,geo,retweets,replies,likes,quote_count,lang,conversation_id,context_annotations,entities,attachments,possibly_sensitive,withheld,reply_settings,source
+1528250346010574849,1429147364040839169,@Roblox_RTC https://t.co/3xfVRB7TMA,2022-05-22 05:44:10+00:00,,1,2,90,0,qme,1528177183881326592,[],"{'mentions': [{'start': 0, 'end': 11, 'username': 'Roblox_RTC', 'id': '1056053249470541824'}], 'urls': [{'start': 12, 'end': 35, 'url': 'https://t.co/3xfVRB7TMA', 'expanded_url': 'https://twitter.com/DaBloxyNews/status/1528250346010574849/photo/1', 'display_url': 'pic.twitter.com/3xfVRB7TMA', 'media_key': '3_1528250341950558208'}]}",{'media_keys': ['3_1528250341950558208']},False,,everyone,Twitter for iPhone
+1528118880538832896,1373697089482321921,Besides Lego Monkie kid what are your guys other interest?,2022-05-21 21:01:46+00:00,,2,36,73,2,en,1528118880538832896,"[{'domain': {'id': '45', 'name': 'Brand Vertical', 'description': 'Top level entities that describe a Brands industry'}, 'entity': {'id': '781974596740190208', 'name': 'CPG'}}, {'domain': {'id': '46', 'name': 'Brand Category', 'description': 'Categories within Brand Verticals that narrow down the scope of Brands'}, 'entity': {'id': '781974596148862977', 'name': 'Child Care'}}, {'domain': {'id': '47', 'name': 'Brand', 'description': 'Brands and Companies'}, 'entity': {'id': '10024374015', 'name': 'LEGO'}}, {'domain': {'id': '65', 'name': 'Interests and Hobbies Vertical', 'description': 'Top level interests and hobbies groupings, like Food or Travel'}, 'entity': {'id': '864925500627484672', 'name': 'Family and life stages', 'description': 'Family and Life Stages'}}]","{'annotations': [{'start': 8, 'end': 18, 'probability': 0.443, 'type': 'Person', 'normalized_text': 'Lego Monkie'}]}",,False,,everyone,Twitter for iPhone
+1528277538551779330,1424251676102377472,This fight scene is dramatic,2022-05-22 07:32:13+00:00,,0,1,1,0,en,1528261803985215488,[],,,False,,mentionedUsers,Twitter Web App
+1527556235679395841,1454188385334005761,@imcyrian Light,2022-05-20 07:46:01+00:00,,0,4,2,0,en,1527550646563401728,[],"{'mentions': [{'start': 0, 'end': 9, 'username': 'imcyrian', 'id': '1101376954161229827'}]}",,False,,everyone,Twitter Web App
+1528177183881326592,1056053249470541824,JUST IN: Raise A Floppa has been taken down again! Here's what the owner says is the problem this time.. https://t.co/R0dRNmkT1m,2022-05-22 00:53:27+00:00,,316,639,5936,61,en,1528177183881326592,[],"{'urls': [{'start': 105, 'end': 128, 'url': 'https://t.co/R0dRNmkT1m', 'expanded_url': 'https://twitter.com/Roblox_RTC/status/1528177183881326592/photo/1', 'display_url': 'pic.twitter.com/R0dRNmkT1m', 'media_key': '3_1528177181024722944'}]}",{'media_keys': ['3_1528177181024722944']},False,,everyone,Twitter for iPhone
+1528178428964392960,1496606155296186376,"@Roblox_RTC Another day of chaos on roblox
+
+Roblox needs to hire humans for their moderation https://t.co/kEH5uSIoYh",2022-05-22 00:58:24+00:00,,0,9,156,0,en,1528177183881326592,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'mentions': [{'start': 0, 'end': 11, 'username': 'Roblox_RTC', 'id': '1056053249470541824'}], 'annotations': [{'start': 36, 'end': 49, 'probability': 0.3209, 'type': 'Product', 'normalized_text': 'roblox Roblox'}], 'urls': [{'start': 93, 'end': 116, 'url': 'https://t.co/kEH5uSIoYh', 'expanded_url': 'https://twitter.com/DipsytheTubby/status/1528178428964392960/video/1', 'display_url': 'pic.twitter.com/kEH5uSIoYh', 'media_key': '7_1528178336190562304'}]}",{'media_keys': ['7_1528178336190562304']},True,,everyone,Twitter for iPad
+1524743314221801472,1298688170394038272,"WHO wants 2000 free #robux ?🤍 💵 
+• follow me + @kyanmamas w:🔔’s on
+• like + retweet w/tags
+• tag 1-5+ people
+
+stay active ⭐️ https://t.co/19IHMDqTvD",2022-05-12 13:28:29+00:00,,207,165,189,108,en,1524743314221801472,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'hashtags': [{'start': 20, 'end': 26, 'tag': 'robux'}], 'mentions': [{'start': 47, 'end': 57, 'username': 'kyanmamas', 'id': '891137271071723521'}], 'urls': [{'start': 125, 'end': 148, 'url': 'https://t.co/19IHMDqTvD', 'expanded_url': 'https://twitter.com/Secretlysimpin/status/1524743314221801472/photo/1', 'display_url': 'pic.twitter.com/19IHMDqTvD', 'media_key': '3_1524743307267432448'}]}",{'media_keys': ['3_1524743307267432448']},False,,everyone,Twitter for iPhone
+1528266606983491584,1434410172873646080,"🎀🎁 5000 ROBUX GIVEAWAY!!! 🎀🎁
+
+There will be 5 winners and each winner will get 1000robux! 🏆
+
+-- Follow me with notifs ✅
+-- Tag 5 friends ✅
+-- Retweet with tags ✅
+
+‼ ENDS WHEN I WILL REACH 500 FOLLOWERS, GL! ‼
+
+#robux #robuxgiveaway #giveaways https://t.co/r99rZx5aPx",2022-05-22 06:48:47+00:00,,218,221,251,159,en,1528266606983491584,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'hashtags': [{'start': 210, 'end': 216, 'tag': 'robux'}, {'start': 217, 'end': 231, 'tag': 'robuxgiveaway'}, {'start': 232, 'end': 242, 'tag': 'giveaways'}], 'urls': [{'start': 243, 'end': 266, 'url': 'https://t.co/r99rZx5aPx', 'expanded_url': 'https://twitter.com/Al4n3kk/status/1528266606983491584/photo/1', 'display_url': 'pic.twitter.com/r99rZx5aPx', 'media_key': '3_1528265588321275906'}]}",{'media_keys': ['3_1528265588321275906']},False,,everyone,Twitter Web App
+1396886284291936258,3301488020,my sis plays astronut in the ocean and dumb ways to die theme song on repeat you can't convince me having a roblox obsessed sister is worse than that,2021-05-24 17:50:17+00:00,,0,2,2,1,en,1396886284291936258,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]",,,False,,everyone,Twitter for iPhone
+1528150386812637184,1301504083879178242,"Royale Reb Full Set GW!!
+RH
+-
+rules
+-
+like
+rt
+Follow
+-
+EXTRA
+follow @nessaplayzs 
++ RT with tags
+-
+#royalehightrades #rhgw
+#Giveaways #royalehigh #royalehighGiveaways #rhgiveaway 
+MUST HAVE 20+ entre!",2022-05-21 23:06:58+00:00,,34,26,39,20,en,1528150386812637184,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1230882318224510978', 'name': 'Royale High'}}]","{'hashtags': [{'start': 99, 'end': 116, 'tag': 'royalehightrades'}, {'start': 117, 'end': 122, 'tag': 'rhgw'}, {'start': 123, 'end': 133, 'tag': 'Giveaways'}, {'start': 134, 'end': 145, 'tag': 'royalehigh'}, {'start': 146, 'end': 166, 'tag': 'royalehighGiveaways'}, {'start': 167, 'end': 178, 'tag': 'rhgiveaway'}], 'mentions': [{'start': 68, 'end': 80, 'username': 'nessaplayzs', 'id': '1226998329764143105'}]}",,False,,everyone,Twitter Web App
+1528119027674910720,1347653977211428866,"What year did you join roblox? 
+
+What’s your favourite roblox game?
+
+What year did you join roblox?
+
+Guess the game (wrong answers only)
+
+What year did you join roblox?
+
+What year did you join roblox?",2022-05-21 21:02:21+00:00,,11,150,434,4,en,1528119027674910720,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]",,,False,,everyone,Twitter for iPhone
+1528276267019120640,1391966233348644864,Me https://t.co/ZIbMde1vIN,2022-05-22 07:27:10+00:00,,0,1,2,0,und,1528276267019120640,[],"{'urls': [{'start': 3, 'end': 26, 'url': 'https://t.co/ZIbMde1vIN', 'expanded_url': 'https://twitter.com/lamefluffball/status/1528276267019120640/photo/1', 'display_url': 'pic.twitter.com/ZIbMde1vIN', 'media_key': '3_1528276264162717696'}]}",{'media_keys': ['3_1528276264162717696']},False,,everyone,Twitter for iPhone
+1528121522233040896,1257362640839548928,"❏ ˗ˋˏ #  250 robux giveaway! ❞ 𖥻
+
+▫┆Must follow me w/🔔
+▫┆Like and retweet w/tags
+▫┆Comment “done” 
+▫┆Must show proof
+
+✧┊Prize
+
+➤ 250 #robux 
+
+1 winner!
+
+✧┊Extras in thread
+
+Ends at 75+ retweets 
+
+Tags: #royalehigh #adoptme #roblox #robux https://t.co/667NC6PGjg",2022-05-21 21:12:16+00:00,,82,77,90,52,en,1528121522233040896,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}, {'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1229416301245763584', 'name': 'Adopt Me'}}, {'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1230882318224510978', 'name': 'Royale High'}}]","{'hashtags': [{'start': 133, 'end': 139, 'tag': 'robux'}, {'start': 202, 'end': 213, 'tag': 'royalehigh'}, {'start': 214, 'end': 222, 'tag': 'adoptme'}, {'start': 223, 'end': 230, 'tag': 'roblox'}, {'start': 231, 'end': 237, 'tag': 'robux'}], 'urls': [{'start': 238, 'end': 261, 'url': 'https://t.co/667NC6PGjg', 'expanded_url': 'https://twitter.com/FviryDelilah/status/1528121522233040896/photo/1', 'display_url': 'pic.twitter.com/667NC6PGjg', 'media_key': '3_1528121518592405504'}]}",{'media_keys': ['3_1528121518592405504']},False,,everyone,Twitter for iPhone
+1528217062861983744,1161742947441709056,He’s got the power to do it https://t.co/9mbXoUwkZI,2022-05-22 03:31:55+00:00,,13,9,147,0,en,1528217062861983744,[],"{'urls': [{'start': 28, 'end': 51, 'url': 'https://t.co/9mbXoUwkZI', 'expanded_url': 'https://twitter.com/FudgeInspector/status/1528217062861983744/photo/1', 'display_url': 'pic.twitter.com/9mbXoUwkZI', 'media_key': '3_1528216996017360896'}]}",{'media_keys': ['3_1528216996017360896']},False,,everyone,Twitter for iPhone
+1527755661022461953,1056053249470541824,"Another Friday, another featured! Post some of your awesome and amazing creations you've done this week for a chance to get featured :) https://t.co/BM51kadSjl",2022-05-20 20:58:28+00:00,,9,45,258,1,en,1527755661022461953,[],"{'urls': [{'start': 136, 'end': 159, 'url': 'https://t.co/BM51kadSjl', 'expanded_url': 'https://twitter.com/Roblox_RTC/status/1527755661022461953/photo/1', 'display_url': 'pic.twitter.com/BM51kadSjl', 'media_key': '3_1527755655020482560'}]}",{'media_keys': ['3_1527755655020482560']},False,,everyone,TweetDeck
+1527866150922891264,1443914826279886848,@7GNSampleText @decofcardsTweet @Avisoene @Roblox @_vetex he was being serious and if it was a joke he did a shit job,2022-05-21 04:17:31+00:00,,1,2,1,0,en,1527446153888821248,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'mentions': [{'start': 0, 'end': 14, 'username': '7GNSampleText', 'id': '1361100856309911557'}, {'start': 15, 'end': 31, 'username': 'decofcardsTweet', 'id': '1262752352227823616'}, {'start': 32, 'end': 41, 'username': 'Avisoene', 'id': '1472831358414123008'}, {'start': 42, 'end': 49, 'username': 'Roblox', 'id': '16745055'}, {'start': 50, 'end': 57, 'username': '_vetex', 'id': '788941753369767936'}]}",,False,,everyone,Twitter Web App
+1455061432366780416,107516350,@Alex97141284 @Roblox @DavidBaszucki How?,2021-11-01 06:37:33+00:00,,0,1,0,0,und,1453449018713915392,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'mentions': [{'start': 0, 'end': 13, 'username': 'Alex97141284', 'id': '1266012773252816899'}, {'start': 14, 'end': 21, 'username': 'Roblox', 'id': '16745055'}, {'start': 22, 'end': 36, 'username': 'DavidBaszucki', 'id': '43963122'}]}",,False,,everyone,Twitter for Android
+1528177962536775681,1453644459938246659,@Roblox_RTC https://t.co/1wW3g23nDI,2022-05-22 00:56:33+00:00,,21,20,831,0,qme,1528177183881326592,[],"{'mentions': [{'start': 0, 'end': 11, 'username': 'Roblox_RTC', 'id': '1056053249470541824'}], 'urls': [{'start': 12, 'end': 35, 'url': 'https://t.co/1wW3g23nDI', 'expanded_url': 'https://twitter.com/Syamras20/status/1528177962536775681/photo/1', 'display_url': 'pic.twitter.com/1wW3g23nDI', 'media_key': '3_1528177951056924673'}]}",{'media_keys': ['3_1528177951056924673']},False,,everyone,Twitter Web App
+1528161462920916992,888867384404176896,Who wants some Robux?,2022-05-21 23:50:59+00:00,,114,1461,632,4,en,1528161462920916992,[],,,False,,everyone,Twitter for iPhone
+1527446153888821248,16745055,"In the upcoming experience Arcane Odyssey by @_vetex, ships can be customized from sails to hull to figurehead. How will your crew rule the seas? https://t.co/xvJHIm8qvs",2022-05-20 00:28:36+00:00,,306,1054,4307,25,en,1527446153888821248,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'mentions': [{'start': 45, 'end': 52, 'username': '_vetex', 'id': '788941753369767936'}], 'annotations': [{'start': 27, 'end': 40, 'probability': 0.4286, 'type': 'Other', 'normalized_text': 'Arcane Odyssey'}], 'urls': [{'start': 146, 'end': 169, 'url': 'https://t.co/xvJHIm8qvs', 'expanded_url': 'https://twitter.com/Roblox/status/1527446153888821248/photo/1', 'display_url': 'pic.twitter.com/xvJHIm8qvs', 'media_key': '3_1527445846903599104'}]}",{'media_keys': ['3_1527445846903599104']},False,,everyone,Twitter Web App
+1528183490830905344,439904173,👀zip 22 with accessories and manual https://t.co/i0d9pANYRY,2022-05-22 01:18:31+00:00,,1,3,9,0,en,1528183490830905344,[],"{'urls': [{'start': 36, 'end': 59, 'url': 'https://t.co/i0d9pANYRY', 'expanded_url': 'https://twitter.com/JAMESB0ONE/status/1528183490830905344/photo/1', 'display_url': 'pic.twitter.com/i0d9pANYRY', 'media_key': '3_1528183488591155200'}]}",{'media_keys': ['3_1528183488591155200']},False,,everyone,Twitter for Android
+1528274965778288640,1500497764672749578,@fanedeproder Ils te rabaisse sur quel jeux déjà ??,2022-05-22 07:22:00+00:00,,0,1,1,0,fr,1528132190755758080,[],"{'mentions': [{'start': 0, 'end': 13, 'username': 'fanedeproder', 'id': '1479871866126938119'}]}",,False,,following,Twitter for Android
+1528058022735781891,1376559932019859458,"° 2K ROBUX GIVEAWAY! °
+Rules :
+- . Follow me and @CHLOEALIV 
+- . RT &amp; Like! 
+
+Extras : stay active and quote rt with tags!! 
+
+[ #robux #adoptme #Adoptmetrade #AMTrading #roblox #adoptmetradings #royalehigh #royalehightrade ] https://t.co/eY4H9BzK6b",2022-05-21 16:59:57+00:00,,249,177,252,102,en,1528058022735781891,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}, {'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1229416301245763584', 'name': 'Adopt Me'}}, {'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1230882318224510978', 'name': 'Royale High'}}]","{'hashtags': [{'start': 132, 'end': 138, 'tag': 'robux'}, {'start': 139, 'end': 147, 'tag': 'adoptme'}, {'start': 148, 'end': 161, 'tag': 'Adoptmetrade'}, {'start': 162, 'end': 172, 'tag': 'AMTrading'}, {'start': 173, 'end': 180, 'tag': 'roblox'}, {'start': 181, 'end': 197, 'tag': 'adoptmetradings'}, {'start': 198, 'end': 209, 'tag': 'royalehigh'}, {'start': 210, 'end': 226, 'tag': 'royalehightrade'}], 'urls': [{'start': 229, 'end': 252, 'url': 'https://t.co/eY4H9BzK6b', 'expanded_url': 'https://twitter.com/xAudrxys/status/1528058022735781891/photo/1', 'display_url': 'pic.twitter.com/eY4H9BzK6b', 'media_key': '3_1528058018860269568'}]}",{'media_keys': ['3_1528058018860269568']},False,,mentionedUsers,Twitter for Android
+1527133182251765760,1477469542250995713,"huge 6x high tier halo giveaway! (6 winners, each win a high tier)
+
+• follow me, @eoilqv, @danisdumpling, @Astrobxrn, @iiNxthalie_ + @DcrlinqMiu 
+• like + retweet https://t.co/dHx0dNvaxo",2022-05-19 03:44:58+00:00,,1119,766,1040,211,en,1527133182251765760,[],"{'mentions': [{'start': 81, 'end': 88, 'username': 'eoilqv', 'id': '1483282676392292354'}, {'start': 90, 'end': 104, 'username': 'danisdumpling', 'id': '1295098486598369285'}, {'start': 106, 'end': 116, 'username': 'Astrobxrn', 'id': '1336980267056193536'}, {'start': 118, 'end': 130, 'username': 'iiNxthalie_', 'id': '1449579435066204164'}, {'start': 133, 'end': 144, 'username': 'dcrlinqmiu', 'id': '1537372144471928832'}], 'urls': [{'start': 163, 'end': 186, 'url': 'https://t.co/dHx0dNvaxo', 'expanded_url': 'https://twitter.com/cloudyyamilee/status/1527133182251765760/photo/1', 'display_url': 'pic.twitter.com/dHx0dNvaxo', 'media_key': '3_1527133171787059201'}]}",{'media_keys': ['3_1527133171787059201']},False,,mentionedUsers,Twitter for Android
+1528216809966542849,1399329426635116545,@Roblox_RTC raise a mid,2022-05-22 03:30:55+00:00,,0,1,0,0,en,1528177183881326592,[],"{'mentions': [{'start': 0, 'end': 11, 'username': 'Roblox_RTC', 'id': '1056053249470541824'}]}",,False,,everyone,Twitter Web App
+1528269786647437312,1333794914761510921,https://t.co/6U24UJOxV7,2022-05-22 07:01:25+00:00,,0,5,23,0,zxx,1528269786647437312,[],"{'urls': [{'start': 0, 'end': 23, 'url': 'https://t.co/6U24UJOxV7', 'expanded_url': 'https://twitter.com/NoelleTGS/status/1528269786647437312/photo/1', 'display_url': 'pic.twitter.com/6U24UJOxV7', 'media_key': '3_1528269574281449473'}]}",{'media_keys': ['3_1528269574281449473']},False,,everyone,Twitter Web App
+1528217139961769985,1471644432852078593,@Roblox_RTC Honestly I only play this game to feel what it was like to be on leaderboards but now I’m actually on the leaderboards😂 https://t.co/HHIfpZFAVM,2022-05-22 03:32:13+00:00,,0,15,12,0,en,1528177183881326592,[],"{'mentions': [{'start': 0, 'end': 11, 'username': 'Roblox_RTC', 'id': '1056053249470541824'}], 'urls': [{'start': 132, 'end': 155, 'url': 'https://t.co/HHIfpZFAVM', 'expanded_url': 'https://twitter.com/Antonio48958128/status/1528217139961769985/photo/1', 'display_url': 'pic.twitter.com/HHIfpZFAVM', 'media_key': '3_1528217133838020609'}]}",{'media_keys': ['3_1528217133838020609']},False,,everyone,Twitter for iPhone
+1527975347530002432,1101376954161229827,"Send me your ROBLOX AVATAR below and the best looking avatar will WIN 1,000 Robux! 💸💸💸
+Don't forget to Follow,Like,Retweet!
+#Roblox #Robuxgiveaway https://t.co/qs0yqbGr2v",2022-05-21 11:31:25+00:00,,281,752,509,8,en,1527975347530002432,"[{'domain': {'id': '71', 'name': 'Video Game', 'description': 'A video game like Overwatch'}, 'entity': {'id': '1088118927580774400', 'name': 'Roblox', 'description': 'Roblox'}}]","{'hashtags': [{'start': 124, 'end': 131, 'tag': 'Roblox'}, {'start': 132, 'end': 146, 'tag': 'Robuxgiveaway'}], 'annotations': [{'start': 13, 'end': 18, 'probability': 0.6103, 'type': 'Product', 'normalized_text': 'ROBLOX'}], 'urls': [{'start': 147, 'end': 170, 'url': 'https://t.co/qs0yqbGr2v', 'expanded_url': 'https://twitter.com/imcyrian/status/1527975347530002432/photo/1', 'display_url': 'pic.twitter.com/qs0yqbGr2v', 'media_key': '3_1527975345038577664'}]}",{'media_keys': ['3_1527975345038577664']},False,,everyone,Twitter for Android
