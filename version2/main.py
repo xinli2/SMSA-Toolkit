@@ -1,6 +1,7 @@
 import sys, csv,os
 import collect_tweets
 import collect_reddits
+import collect_stackoverflow
 import json
 import argparse
 import combine_dataframes
@@ -54,4 +55,6 @@ if __name__ == "__main__":
         collect_tweets.collect_tweets(args.out_dir, args.kw_file, args.stat_dir)
     elif args.task=='collect-reddit':
         collect_reddits.collect_reddits(args.out_dir, args.kw_file)
+    elif args.task=='collect-stackoverflow':
+        collect_stackoverflow.collect_stack(args.out_dir, args.kw_file)
 
