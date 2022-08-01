@@ -1,13 +1,14 @@
 # coding: utf-8
 ###############################################################################
-# Stackoverflow scraper
+# Collect data from Stackoverflow
 ###############################################################################
 # How to get access_token
 # Make sure "Client Side Flow Is Enabled"
 # Replace the client_id 123456 with your own id
-# Open https://stackexchange.com/oauth/dialog?client_id=123456&scope=read_inbox,no_expiry&redirect_uri=https://stackexchange.com/oauth/login_success
+# Open https://stackexchange.com/oauth/dialog?client_id=23959&scope=read_inbox,no_expiry&redirect_uri=https://stackexchange.com/oauth/login_success
 # The access token is in the redirected link: https://stackexchange.com/oauth/login_success#access_token=AAAAAAA
-
+#23959
+#D(vBwKNLxTSaYCo7gIYnUw))
 import requests
 import time
 import json
@@ -15,8 +16,8 @@ import pandas as pd
 from requests.adapters import HTTPAdapter, Retry
 import random
 
-key = ''
-access_token_list = ['', '']
+key = 'lv0TzW20Umtr0jZ3BeIBEQ(('
+access_token_list = ['D(vBwKNLxTSaYCo7gIYnUw))']
 # file of scaped data
 post_file = 'posts.json'
 # Specify search term
