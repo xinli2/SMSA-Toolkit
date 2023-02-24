@@ -59,4 +59,4 @@ game reviews, and the top ten reviews by score (.csv).
 [notebook]: https://github.com/xinli2/SMSA-Toolkit/blob/master/docs/notebook.md
 [example]: https://github.com/xinli2/SMSA-Toolkit/blob/master/docs/example.md
 
-* This material is based upon work supported by the National Science Foundation (NSF) under Grant No. NSF CNS-1936370(SaTC).
+
