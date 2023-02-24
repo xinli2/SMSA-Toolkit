@@ -1,4 +1,4 @@
-# Adversarial Malware Generation and Defense (AMGD) Toolkit v1
+# SMSA-Toolkit v1
 <p align="center">
   <img src="docs/images/pic01.png" width="200" title="ART logo">
 </p>
