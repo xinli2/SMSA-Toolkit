@@ -40,23 +40,3 @@ game reviews, and the top ten reviews by score (.csv).
 <br />
 
 
-## Learn more
-
-| **[Get Started][get-started]**     | **[Documentation][documentation]**     | **[Contributing][contributing]**           |
-|-------------------------------------|-------------------------------|-----------------------------------|
-| - [Installation][installation]<br>- [Examples][example]<br>- [Notebooks][notebook] | - [User interface][UI]<br>- [Attacks][attacks]<br>- [Defences][defences]<br>- [Evaluation][evaluation]<br> | - [Contributing](CONTRIBUTING.md)<br>- [Roadmap][roadmap]<br>- [Citing][citing] |
-
-[get-started]: https://github.com/xinli2/SMSA-Toolkit/blob/master/docs/Get%20Started
-[documentation]: https://github.com/xinli2/SMSA-Toolkit/blob/master/docs/Documentation
-[contributing]: https://github.com/xinli2/SMSA-Toolkit/blob/master/docs/Contributing.md
-[UI]: https://github.com/xinli2/SMSA-Toolkit/blob/master/docs/user%20interface.md
-[attacks]: https://github.com/xinli2/SMSA-Toolkit/blob/master/docs/Attack.md
-[defences]: https://github.com/xinli2/SMSA-Toolkit/blob/master/docs/Defence.md
-[evaluation]: https://github.com/xinli2/SMSA-Toolkit/blob/master/docs/evaluation.md
-[installation]: https://github.com/xinli2/SMSA-Toolkit/blob/master/docs/installation.md
-[roadmap]: https://github.com/xinli2/SMSA-Toolkit/blob/master/docs/roadmap.md
-[citing]: https://github.com/xinli2/SMSA-Toolkit/blob/master/docs/citing.md
-[notebook]: https://github.com/xinli2/SMSA-Toolkit/blob/master/docs/notebook.md
-[example]: https://github.com/xinli2/SMSA-Toolkit/blob/master/docs/example.md
-
-
